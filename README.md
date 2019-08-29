@@ -45,7 +45,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Publications
 
 ### Peer-reviewed papers (*- corresponding author):
-1. **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. Accepted by Energies, 2019\. [[PDF](#)]
+1. **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 2. S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
 3. **X. Liu**, H. Huo,  N. Iftikhar, & P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
 4. **X. Liu, **S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Workshop of the 22nd Business Information System, 2019\. [[PDF](#)]
@@ -119,7 +119,8 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ## Course Teaching
 
-- 42280 Smart, Connected, and Livable Cities E18 (Part 2: Internet of Things): Postgraduate course, 150 hours, Autumn 2018
+- Smart Cities (42282): Master Course in 2019 fall, 170 hours
+- Smart, Connected, and Livable Cities (42280): Master Course in 2018 fall, 170 hours
 - Database System: 40 hours, Spring 2010
 - Object-oriented Programming in C#: 75 hours, Fall 2009
 - Object-oriented Programming in C#: 75 hours, Fall 2008
@@ -128,8 +129,10 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ------
 
 ## Supervision
+- **Postdoc:**
+  - Zhibin Niu (2019.10 - )
 - **PhD students:**
-  - Wenjing Dai (2019.04 - )
+  - Wenjing Dai (2019.04 - present)
   - Angreine Kewo (2016.04 - present), co-supervised by Per Sieverts Nielsen
 - **Master students:**
   - Casper Hegner Jonsson (2019.02 - present)
@@ -162,9 +165,12 @@ I am working on the following research projects:
 - IEEE Electrical Power and Energy Conference (EPEC 2016)
 
 ### Reviewer for Conferences and Journals
+- Applied Energy (2019)
+- Energies (2018, 2019)
+- IET Smart Grid (2019)
 - Journal of Knowledge and Information Systems, Springer (2018)
 - Journal of Computer Standards & Interfaces, Elsevier (2018)
-- The 13th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES18)
+- The 13th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES18, 19)
 - International Journal of Electrical Power and Energy Systems (2018)
 - Journal of Data Knowledge Engineering (DKE, 2017)
 - The VLDB Journal (VLDBJ, 2017)
