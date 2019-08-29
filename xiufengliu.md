@@ -2,7 +2,7 @@
 
 
 
-![](http://xiufengliu.github.io/xiufeng.png)
+![](./xiufeng.png)
 
 # Dr. Xiufeng Liu
 
