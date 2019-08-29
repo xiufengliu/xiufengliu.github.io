@@ -1,8 +1,4 @@
-![](http://www.dtu.dk/-/media/Udvikling/dtu/logoer/dtulogo_colour.ashx?mh=100&mw=460)
-
-
-
-![](./xiufeng.png)
+![](./banner.png)
 
 # Dr. Xiufeng Liu
 
