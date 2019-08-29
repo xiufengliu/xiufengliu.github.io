@@ -7,9 +7,13 @@
 # Dr. Xiufeng Liu
 
 _Senior Researcher_ 
+
 Department of Technology, Management and Economics
+
 Technical University of Denmark
+
 **Address:** Building 424, room 006, 2800 Kgs. Lyngby, Denmark
+
 **Email:** xiuli@dtu.dk
 
 **CV:** [PDF Version](CV_Xiufeng.pdf)
