@@ -48,8 +48,8 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 1. **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 2. S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
 3. **X. Liu**, H. Huo,  N. Iftikhar, & P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
-4. **X. Liu, **S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Workshop of the 22nd Business Information System, 2019\. [[PDF](#)]
-5. **X. Liu, **N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
+4. **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Workshop of the 22nd Business Information System, 2019\. [[PDF](#)]
+5. **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
 6. A. Kewo, P. Manembu, **X. Liu, ** P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
 7. C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal paper in submission, 2018.
 8. P. Manembu, A. Kewo, P.S. Nielsen, **X. Liu**, B. Welang, and A. Lapu. Architecture Design of Smart Meter Controlling System for Dynamic IP Environments. Proc. of International Conference on Intelligent Autonomous Systems (ICoIAS), pp. 175-179, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8493884)]
@@ -96,7 +96,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 3. **X. Liu**, D. Truscan, and L. Lilius. Online Testing of the ABOT Game Server Using the Qtronic Tool, Turku Centre for Computer Science, 2008\. [[PDF](https://www.dropbox.com/s/ntptlhus6ghd1ae/TR_Abot.pdf?dl=0)]
 
 ### Poster:
-1. **X. Liu,** Alfred Heller, P. S. Nielsen. SciCloud: A Scientific Cloud and Data Analysis Platform for Smart CITIES [[PDF](https://www.dropbox.com/s/1bovmgkane40sij/Poster-SciCloud.pdf?dl=0)]
+1. **X. Liu**, Alfred Heller, P. S. Nielsen. SciCloud: A Scientific Cloud and Data Analysis Platform for Smart CITIES [[PDF](https://www.dropbox.com/s/1bovmgkane40sij/Poster-SciCloud.pdf?dl=0)]
 2. **X. Liu**, and P. S. Nielsen. An Urban Greenhouse Gas Emissions Dashboard [[PDF](https://www.dropbox.com/s/h4zxjqvyc5ouvrr/Poster_GHG_Dashboard.pdf?dl=0)].
 3. **X. Liu**, and P. S. Nielsen. Streamlining Meter Data Analytics [[PDF](http://orbit.dtu.dk/ws/files/124384470/smas_poster.pdf)].
 4. **X. Liu**, P. S. Nielsen, and A. Heller. CITIESData: Towards Cloud-Based Big Data Management for Smart Cities [[PDF](https://www.dropbox.com/s/z9pvxy2pc6bqdlo/SmartCitiesDataMgnt_Poster.pdf?dl=0)].
@@ -113,7 +113,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 4. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
 
 ### PhD Thesis
-- Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
+- **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
 ------
 
@@ -143,16 +143,16 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 I am working on the following research projects:
 - **CVAES:** Cognitive Visual Analytics for Smart Energy Systems, EuroTech Postdoc Project, Date: 1/9 2019 - 31/8 2021 
 - **FlexSUS: **Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
-- **EMB3Rs**: User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 18/9 2019 -  
-- **HEAT 4.0: **Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
-- **FED**: Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
-- **IDASC**: Data lake, WP2, Date: 12/2018 - 
-- **[CITIES:](http://smart-cities-centre.org/)** Centre for IT-Intelligent Energy Systems in Smart Cities, **Role:** WP1 lead since August 2018, **Date:** 01/01/2015 – 31/12/2020
+- **EMB3Rs:** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 18/9 2019 -  
+- **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
+- **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
+- **IDASC:** Data lake, WP2, Date: 12/2018 - 
+- **[CITIES](http://smart-cities-centre.org/):** Centre for IT-Intelligent Energy Systems in Smart Cities, **Role:** WP1 lead since August 2018, **Date:** 01/01/2015 – 31/12/2020
 - **[ClairCity](http://www.claircity.eu/):** Citizen-led air pollution reduction in cities (EU H2020 project), **Role:** Participant, **Date:** 01/07/2017 – 31/01/2019
 - **[SciCloud](https://engine1.sciencecloud.dk/):** A Private Scientific Cloud Platform, **Role:** Participant, **Date:** 01/01/2017 – 30/06/2018
 - **SCA:** Smart City Accelerator, **Role:** Participant, **Date:** 01/07/2017 – 31/08/2019
 - Roskilde Smart Monitoring Household project, **Role:** Principal Investigator, **Date:** 01/01/2018 – 05/31/2019
-- [**CTT:**](http://www.carbontrackandtrace.com/) Carbon track and trace, **Role:** Participant, **Date:** 01/06/2015 – 31/12/2016
+- **[CTT:](http://www.carbontrackandtrace.com/):** Carbon track and trace, **Role:** Participant, **Date:** 01/06/2015 – 31/12/2016
 
 ------
 
