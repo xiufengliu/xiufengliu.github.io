@@ -117,7 +117,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ------
 
-## Course Teaching
+## Teaching
 
 - Smart Cities (42282): Master Course in 2019 fall, 170 hours
 - Smart, Connected, and Livable Cities (42280): Master Course in 2018 fall, 170 hours
