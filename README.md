@@ -17,7 +17,7 @@ Technical University of Denmark
 ------
 
 
-- <span style="color: #ff0000;">**News*:** I am recruiting a Nordic5Tech-funded PhD student in Reinforcement Learning for Smart Building Energy Management. The position is immediately available! (Plz contact me if you are interested).</span>
+- <span style="color: #ff0000;">**News*:** I am recruiting a Nordic5Tech-funded PhD student in Reinforcement Learning for for Autonomous Building Energy Management. The position is immediately available! (Please apply at [here](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=eace6f0d-f35a-4123-9d47-a6001503edaa) if you are interested).</span>
 
 
 ## Biography
@@ -135,7 +135,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
   - Wenjing Dai (2019.04 - present)
   - Angreine Kewo (2016.04 - present), co-supervised by Per Sieverts Nielsen
 - **Master students:**
-  - Casper Hegner Jonsson (2019.02 - present)
+  - Casper Hegner Jonsson (2019.02 - 2019.08)
 
 ------
 ## Research Projects
@@ -159,6 +159,7 @@ I am working on the following research projects:
 ## Scientific Services
 
 ### Program Committee Member
+- International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020 -)
 - International Conference on Mobile Systems and Pervasive Computing (MobiSPC, 2019 - )
 - International conference of the Internet of Things, Big Data and Security (IoTBG, 2016 - 2019)
 - International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2017)
