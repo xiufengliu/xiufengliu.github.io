@@ -50,7 +50,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 3. **X. Liu**, H. Huo,  N. Iftikhar, & P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
 4. **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Workshop of the 22nd Business Information System, 2019\. [[PDF](#)]
 5. **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
-6. A. Kewo, P. Manembu, **X. Liu, ** P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
+6. A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
 7. C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal paper in submission, 2018.
 8. P. Manembu, A. Kewo, P.S. Nielsen, **X. Liu**, B. Welang, and A. Lapu. Architecture Design of Smart Meter Controlling System for Dynamic IP Environments. Proc. of International Conference on Intelligent Autonomous Systems (ICoIAS), pp. 175-179, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8493884)]
 9. **X. Liu**, P. S. Nielsen. Scalable Prediction-based Anomaly Detection on Smart Meter Data. Information Systems, vol. 77, pp. 34-47, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306437917303216)]
@@ -142,7 +142,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 I am working on the following research projects:
 - **CVAES:** Cognitive Visual Analytics for Smart Energy Systems, EuroTech Postdoc Project, Date: 1/9 2019 - 31/8 2021 
-- **FlexSUS: **Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
+- **FlexSUS:** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
 - **EMB3Rs:** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 18/9 2019 -  
 - **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
 - **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
