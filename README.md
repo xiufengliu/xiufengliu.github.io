@@ -17,14 +17,14 @@ Technical University of Denmark
 ------
 
 
-- <span style="color: #ff0000;">**News*:** I am recruiting a Nordic5Tech-funded PhD student in Reinforcement Learning for for Autonomous Building Energy Management. The position is immediately available! (Please apply at [here](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=eace6f0d-f35a-4123-9d47-a6001503edaa) if you are interested).</span>
+- <span style="color: #ff0000;">**News*:** I am recruiting a Nordic5Tech-funded PhD student in Reinforcement Learning for for Autonomous Building Energy Management. The position is immediately available! (Please apply at [here](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=eace6f0d-f35a-4123-9d47-a6001503edaa)).</span>
 
 
 ## Biography
 
 I am a Senior researcher (Associate Professor) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk). I am a member of the research group of [System Analysis](http://www.sustainability.man.dtu.dk/english/research/energy-systems-analysis) within the university.
 
-I did my PhD at the Department of Computer Science ([Daisy research group](http://daisy.aau.dk)) in [Aalborg University (AAU)](http://www.aau.dk) Denmark from August 2008 to May 2012\. Prior to joining AAU, I was a scientific assistant in the [Åbo Akademi University](http://www.abo.fi) in Finland from September 2006 to July 2008\. During January 2013 to December 2014, I was a postdoctoral researcher in the [Data System Groups](https://uwaterloo.ca/data-systems-group/) at [University of Waterloo](http://www.uwaterloo.ca), Canada, and at the same period, I was cross-appointed as a research scientist by IBM Toronto research center.
+I did my PhD at the Department of Computer Science ([Daisy research group](http://daisy.aau.dk)) in [Aalborg University (AAU)](http://www.aau.dk) Denmark from August 2008 to May 2012\. Prior to joining AAU, I was a scientific assistant in the [Åbo Akademi University](http://www.abo.fi) in Finland from September 2006 to July 2008\. During January 2013 to December 2014, I was a postdoctoral researcher in the [Data System Group](https://uwaterloo.ca/data-systems-group/) at [University of Waterloo](http://www.uwaterloo.ca), Canada, and at the same period, I was cross-appointed as a research scientist by IBM Toronto research center.
 
 ------
 
@@ -103,16 +103,16 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 5. **X. Liu**, L. Golab, and I. llyas. SMAS: A Smart Meter Data Analytics System [[PDF](https://www.dropbox.com/s/fd107qe8ceq5ewn/smas_poster.pdf?dl=0)].
 6. **X. Liu**, C. Thomsen, and T. B. Pedersen. MapReduce-based Dimensional ETL Made Easy [[PDF](https://www.dropbox.com/s/d7v67gwcdp1rfbk/ETLMR_poster.pdf?dl=0)].
 
-### Book Chapters
+### Book Chapters:
 1. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
 
-### Other publications
+### Other publications:
 1. **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
 2. **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
 3. **X. Liu**. Two-level Data Staging ETL for Transaction Data. Arxiv, CoRR abs/1409.1636, 2014 [[PDF](http://arxiv.org/abs/1409.1636)].
 4. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
 
-### PhD Thesis
+### PhD Thesis:
 - **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
 ------
@@ -152,7 +152,7 @@ I am working on the following research projects:
 - **[SciCloud](https://engine1.sciencecloud.dk/):** A Private Scientific Cloud Platform, **Role:** Participant, **Date:** 01/01/2017 – 30/06/2018
 - **SCA:** Smart City Accelerator, **Role:** Participant, **Date:** 01/07/2017 – 31/08/2019
 - Roskilde Smart Monitoring Household project, **Role:** Principal Investigator, **Date:** 01/01/2018 – 05/31/2019
-- **[CTT:](http://www.carbontrackandtrace.com/):** Carbon track and trace, **Role:** Participant, **Date:** 01/06/2015 – 31/12/2016
+- **[CTT](http://www.carbontrackandtrace.com/):** Carbon track and trace, **Role:** Participant, **Date:** 01/06/2015 – 31/12/2016
 
 ------
 
