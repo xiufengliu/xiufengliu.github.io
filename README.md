@@ -17,9 +17,6 @@ Technical University of Denmark
 ------
 
 
-- <span style="color: #ff0000;">**News*:** I am recruiting a Nordic5Tech-funded PhD student in Reinforcement Learning for for Autonomous Building Energy Management. The position is immediately available! (Please apply at [here](https://www.dtu.dk/english/about/job-and-career/vacant-positions/job?id=eace6f0d-f35a-4123-9d47-a6001503edaa)).</span>
-
-
 ## Biography
 
 I am a Senior researcher (Associate Professor) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk). I am a member of the research group of [System Analysis](http://www.sustainability.man.dtu.dk/english/research/energy-systems-analysis) within the university.
@@ -30,7 +27,7 @@ I did my PhD at the Department of Computer Science ([Daisy research group](http:
 
 ## Research Interests
 
-I am interested in Smart Meter Data Analytics, Data Management (in particular, data warehousing), Big Data, and Data Mining. My current research includes:
+I am interested in Smart Meter Data Analytics, Data Management (in particular, data warehousing), Big Data, Data Mining and Machine Learning. My current research includes:
 
 - Smart meter data analytics
   - Benchmarking smart meter data analytics systems and algorithms
@@ -133,6 +130,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
   - Zhibin Niu (2019.10 - )
 - **PhD students:**
   - Wenjing Dai (2019.04 - present)
+  - NN (2019.12 - )
   - Angreine Kewo (2016.04 - present), co-supervised by Per Sieverts Nielsen
 - **Master students:**
   - Casper Hegner Jonsson (2019.02 - 2019.08)
@@ -143,7 +141,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 I am working on the following research projects:
 - **CVAES:** Cognitive Visual Analytics for Smart Energy Systems, EuroTech Postdoc Project, Date: 1/9 2019 - 31/8 2021 
 - **FlexSUS:** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
-- **EMB3Rs:** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 18/9 2019 -  
+- **EMB3Rs:** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
 - **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
 - **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
 - **IDASC:** Data lake, WP2, Date: 12/2018 - 
@@ -168,6 +166,7 @@ I am working on the following research projects:
 ### Reviewer for Conferences and Journals
 - Applied Energy (2019)
 - Energies (2018, 2019)
+- IEEE Transactions on Smart Grid (2018, 2019)
 - IET Smart Grid (2019)
 - Journal of Knowledge and Information Systems, Springer (2018)
 - Journal of Computer Standards & Interfaces, Elsevier (2018)
@@ -177,7 +176,7 @@ I am working on the following research projects:
 - The VLDB Journal (VLDBJ, 2017)
 - IEEE Transaction of Big Data (2016)
 - Information Systems (2016,2017,2019)
-- IoTBG (2016)
+- IoTBG (2016 - 2020)
 - 26th International Conference on Scientific and Statistical Database Management (SSDBM, 2014)
 - Proceedings of the VLDB Endowment (PVLDB, 2014)
 - ICDCS (2013)
