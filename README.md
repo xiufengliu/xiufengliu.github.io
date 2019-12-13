@@ -127,10 +127,10 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ## Supervision
 - **Postdoc:**
-  - Zhibin Niu (2019.10 - )
+  - Zhibin Niu (2019.10 - present)
 - **PhD students:**
   - Wenjing Dai (2019.04 - present)
-  - NN (2019.12 - )
+  - Marco Biemann (2019.12 - present)
   - Angreine Kewo (2016.04 - present), co-supervised by Per Sieverts Nielsen
 - **Master students:**
   - Casper Hegner Jonsson (2019.02 - 2019.08)
