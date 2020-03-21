@@ -42,7 +42,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Publications
 
 ### Peer-reviewed papers (*- corresponding author):
-1. **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Accepted by EDBT 2020. [[PDF](#)]
+1. **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Accepted by EDBT 2020. [[PDF](#)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
 2. **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 3. S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
 4. **X. Liu**, H. Huo,  N. Iftikhar, and P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
