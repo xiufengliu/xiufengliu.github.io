@@ -138,7 +138,8 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 - **PhD students:**
   - Wenjing Dai (2019.04 - present)
   - Marco Biemann (2019.12 - present)
-  - Angreine Kewo (2016.04 - present), co-supervised by Per Sieverts Nielsen
+  - Qianyun Wen (2020.01- present), Host: Lund University, Sweden, Co-supervisor at FlexSUS project
+  - Angreine Kewo (2016.04 - present), Co-supervisor
 - **Master students:**
   - Casper Hegner Jonsson (2019.02 - 2019.08)
 
@@ -165,6 +166,7 @@ I am working on the following research projects:
 
 ### Program Committee Member
 - International Conference on Big Data Analytics and Knowledge Discovery (DaWak, 2020 -)
+- International Conference on Mobile Systems and Pervasive Computing (MobiSPC, 2020 - )
 - International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020 -)
 - International Conference on Mobile Systems and Pervasive Computing (MobiSPC, 2019 - )
 - International conference of the Internet of Things, Big Data and Security (IoTBG, 2016 - 2019)
