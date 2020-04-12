@@ -138,8 +138,8 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 - **PhD students:**
   - Wenjing Dai (2019.04 - present)
   - Marco Biemann (2019.12 - present)
-  - Qianyun Wen (2020.01- present), Host: Lund University, Sweden, Co-supervisor at FlexSUS project
-  - Angreine Kewo (2016.04 - present), Co-supervisor
+  - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Lund University, Sweden, Co-supervised
+  - Angreine Kewo (2016.04 - present), Co-supervised
 - **Master students:**
   - Casper Hegner Jonsson (2019.02 - 2019.08)
 
