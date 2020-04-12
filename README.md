@@ -149,7 +149,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 I am working on the following research projects:
 - **CVAES:** Cognitive Visual Analytics for Smart Energy Systems, EuroTech Postdoc Project, Date: 1/9 2019 - 31/8 2021 
 - **FlexSUS:** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
-- **EMB3Rs:** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
+- **[EMB3Rs](<https://www.emb3rs.eu/>):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
 - **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
 - **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
 - **IDASC:** Data lake, WP2, Date: 12/2018 - 
