@@ -12,6 +12,8 @@ Technical University of Denmark
 
 **Email:** xiuli@dtu.dk
 
+**Google scholar:** [visit](<https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en>)
+
 **CV:** [PDF Version](CV_Xiufeng.pdf)
 
 ------
@@ -54,7 +56,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 10. **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
 11. **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
 12. A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
-13. C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal paper in submission, 2018.
+13. C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 2018.
 14. P. Manembu, A. Kewo, P.S. Nielsen, **X. Liu**, B. Welang, and A. Lapu. Architecture Design of Smart Meter Controlling System for Dynamic IP Environments. Proc. of International Conference on Intelligent Autonomous Systems (ICoIAS), pp. 175-179, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8493884)]
 15. **X. Liu**, P. S. Nielsen. Scalable Prediction-based Anomaly Detection on Smart Meter Data. Information Systems, vol. 77, pp. 34-47, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306437917303216)]
 16. L. Liu, H. Huo, **X. Liu**, V. Palade. Recognizing Textual Entailment with Attentive Reading and Writing Operations. Proc. of DASFAA, pp. 847-860, 2018\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-91452-7_54)]
@@ -173,17 +175,20 @@ I am working on the following research projects:
 - International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2017)
 - IEEE Electrical Power and Energy Conference (EPEC 2016)
 
+### Services for Journal
+
+- Guest editor of Special Issue of  "Buildings in the Context of Collective Energy Systems" in the Journal of Energies ([Call for paper](https://www.mdpi.com/journal/buildings/special_issues/collective_energy_systems))
+
 ### Reviewer for Conferences and Journals
 - **Field of Energy:**
-
-  * Applied Energy (2019)
-
-  * Energies (2018, 2019)
+* Applied Energy (2019)
+  
+* Energies (2018, 2019)
   * IEEE Transactions on Smart Grid (2018, 2019)
   * IET Smart Grid (2019)
   * International Journal of Electrical Power and Energy Systems (2018)
   * The Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES18, 19)
-
+  
 - **Field of Computer Science:**
 
   * International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020)
