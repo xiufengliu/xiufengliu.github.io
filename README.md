@@ -182,6 +182,7 @@ I am working on the following research projects:
 ### Services for Journal
 
 - Guest editor of Special Issue of  "Buildings in the Context of Collective Energy Systems" in the Journal of Energies ([Call for paper](https://www.mdpi.com/journal/buildings/special_issues/collective_energy_systems))
+- Guest editor of Special Issue of “Dynamics, Control and Management of Renewable Energy Systems” in the Journal of Mathematical Problems in Engineering, Hindawi ([Call for paper](https://www.hindawi.com/journals/mpe/si/352726/#))
 
 ### Reviewer for Conferences and Journals
 - **Field of Energy:**
