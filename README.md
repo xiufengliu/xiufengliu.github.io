@@ -47,9 +47,9 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 1. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
 2. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. In press, IEEE Access, 2020.
 3. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream, In Submission, 2020. [[PDF](#)] 
-4. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Accepted by DEXA, 2020. [[PDF](#)] 
+4. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, 2020. [[PDF](#)] 
 5. [j] J. Peng, D. Wang, Z. Niu, J. Wang, O. Jivka, D. Cheng, and **X. Liu**. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. In Submission, 2020. [[PDF](#)] 
-6. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. In press in Journal of Big Data Research, 2020. [[PDF](#)] 
+6. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. In press, Journal of Big Data Research, 2020. [[PDF](#)] 
 7. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
 8. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 9. [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
