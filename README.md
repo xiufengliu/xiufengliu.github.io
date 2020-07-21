@@ -45,7 +45,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### Peer-reviewed papers (*- corresponding author):
 1. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
-2. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. In press, IEEE Access, 2020.
+2. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
 3. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream, In Submission, 2020. [[PDF](#)] 
 4. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, 2020. [[PDF](#)] 
 5. [j] J. Peng, D. Wang, Z. Niu, J. Wang, O. Jivka, D. Cheng, and **X. Liu**. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. In Submission, 2020. [[PDF](#)] 
@@ -225,9 +225,9 @@ I developed the following open source software systems in my previous research w
 8. [CloudETL](https://github.com/xiufengliu/CloudETL): A Scalable Dimensional ETL for Hive
 9. [BigETL](https://github.com/xiufengliu/BigETL): A unified ETL platform for supporting various data processing technologies, including Spark, Hive, Hadoop, Python, Linux Shell script, etc.
 10. [3XL](https://github.com/xiufengliu/3XL): An efficient OWL/RDF Triple Store Supporting Bulk Operations
-11. ETLMR: A Python-based Dimensional ETL Framework based on MapReduce (Obsolete)
-12. All-RiTE: A Right-time ETL middle-ware Supporting Insert, Update and Delete Operations (not released yet)
+11. [ETLMR](https://github.com/xiufengliu/ETLMR): A Python-based Dimensional ETL Framework based on MapReduce (Obsolete)
+12. [All-RiTE](https://github.com/xiufengliu/allrite): A Right-time ETL middle-ware Supporting Insert, Update and Delete Operations (not released yet)
 
 ------
 
-_Last updated: May 7, 2020_
+_Last updated: July 20, 2020_
