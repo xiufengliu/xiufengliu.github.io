@@ -14,7 +14,7 @@ Technical University of Denmark
 
 **Google scholar:** [Visit](<https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en>)
 
-**CV:** [PDF Version](CV_Xiufeng.pdf)  
+**CV:** [PDF Version](http://xiufengliu.github.io/)  
 
 ------
 
@@ -44,21 +44,21 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Publications
 
 ### Peer-reviewed papers (*- corresponding author):
-1. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
-2. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
-3. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream, In Submission, 2020. [[PDF](#)] 
-4. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, 2020. [[PDF](#)] 
-5. [j] J. Peng, D. Wang, Z. Niu, J. Wang, O. Jivka, D. Cheng, and **X. Liu**. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. In Submission, 2020. [[PDF](#)] 
-6. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. In press, Journal of Big Data Research, 2020. [[PDF](#)] 
-7. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
-8. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
-9. [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
-10. [j] **X. Liu**, H. Huo,  N. Iftikhar, and P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
-11. [c] **X. Liu**, R. Li and P. S. Nielsen. SEGSys: A mapping system for segmentation analysis in energy, Proc. of the 14th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2019.
-12. [c] **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
-13. [j] **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
-14. [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
-15. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 2020.
+1. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
+2. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
+3. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
+4. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream, In Submission, 2020. [[PDF](#)] 
+5. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, 2020. [[PDF](https://www.researchgate.net/publication/343306695_View_Selection_for_Graph_Pattern_Matching)] 
+6. [j] J. Peng, D. Wang, Z. Niu, J. Wang, O. Jivka, D. Cheng, and **X. Liu**. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. In Submission, 2020. [[PDF](#)] 
+7. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. In press, Journal of Big Data Research, 2020. [[PDF](#)] 
+8. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
+9. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
+10. [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
+11. [j] **X. Liu**, H. Huo,  N. Iftikhar, and P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
+12. [c] **X. Liu**, R. Li and P. S. Nielsen. SEGSys: A mapping system for segmentation analysis in energy, Proc. of the 14th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2019.
+13. [c] **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
+14. [j] **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
+15. [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
 16. [c] P. Manembu, A. Kewo,  **X. Liu**, P.S. Nielsen. Multi-grained Household Load Profile Analysis using Smart Meter Data: The Case of Indonesia. Proc. of IEEE 2nd Borneo International Conference on Applied Mathematics and Engineering (BICAME), pp. 213-217, 2018\. [[PDF](https://ieeexplore.ieee.org/document/9084622)]
 17. [c] P. Manembu, A. Kewo, P.S. Nielsen, **X. Liu**, B. Welang, and A. Lapu. Architecture Design of Smart Meter Controlling System for Dynamic IP Environments. Proc. of International Conference on Intelligent Autonomous Systems (ICoIAS), pp. 175-179, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8493884)]
 18. [j] **X. Liu**, P. S. Nielsen. Scalable prediction-based online anomaly detection for smart meter data. Information Systems, vol. 77, pp. 34-47, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306437917303216)]
