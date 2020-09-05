@@ -18,7 +18,9 @@ Technical University of Denmark
 
 ------
 
+<span style="color:blue">**News:**</span> If you are interested in working with me, I could support the application for [Euro5Tech Postdoc Fellowship](https://postdoc2.eurotech-universities.eu/for-applicants-2/) (**Deadline:** February 2021).
 
+------
 ## Biography
 
 I am a Senior researcher (Associate Professor) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk). I am a member of the research group of [System Analysis](http://www.sustainability.man.dtu.dk/english/research/energy-systems-analysis) within the university.
@@ -47,10 +49,10 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 1. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
 2. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
 3. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
-4. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream, In Submission, 2020. [[PDF](#)] 
+4. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. Contextual Anomaly Detection for Energy Data Stream. Accepted by the 27th International Conference on Neural Information Processing (*ICONIP*), 2020. [[PDF](#)] 
 5. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, 2020. [[PDF](https://www.researchgate.net/publication/343306695_View_Selection_for_Graph_Pattern_Matching)] 
 6. [j] J. Peng, D. Wang, Z. Niu, J. Wang, O. Jivka, D. Cheng, and **X. Liu**. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. In Submission, 2020. [[PDF](#)] 
-7. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. In press, Journal of Big Data Research, 2020. [[PDF](#)] 
+7. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. In submission, 2020. [[PDF](#)] 
 8. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
 9. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 10. [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
