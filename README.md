@@ -18,7 +18,7 @@ Technical University of Denmark
 
 ------
 
-<span style="color:blue">**News:**</span>  I could host one researcher by [Euro5Tech Postdoc Fellowship](https://postdoc2.eurotech-universities.eu/for-applicants-2/) (**Deadline:** February 2021).　Please contact me for the application if you are interested.
+<span style="color:blue">**News:**</span>  I could host one researcher by [Euro5Tech Postdoc Fellowship](https://postdoc2.eurotech-universities.eu/for-applicants-2/) (**Deadline:** February 2021).　Please contact me for writing the application if you are interested.
 
 ------
 ## Biography
