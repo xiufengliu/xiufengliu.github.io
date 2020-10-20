@@ -18,9 +18,8 @@ Technical University of Denmark
 
 ------
 
-_<span style="color:blue">**News:**</span>  I could host one researcher under [Euro5Tech Postdoc Fellowship](https://postdoc2.eurotech-universities.eu/for-applicants-2/) (**Deadline:** February 2021).　Please contact me for application if you are interested._
 
-------
+
 ## Biography
 
 I am a Senior researcher (Associate Professor) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk). I am a member of the research group of [System Analysis](http://www.sustainability.man.dtu.dk/english/research/energy-systems-analysis) within the university.
@@ -46,6 +45,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Publications
 
 ### Peer-reviewed papers (*- corresponding author):
+
 1. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
 2. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
 3. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
@@ -101,11 +101,13 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 53. [j] S. Kang and **X. Liu**. Online Model-based Testing Design Using the Qtronic Tool. Journal of Northeast Normal University (Natural Science Edition), 42(4), 2010.
 
 ### Technical Reports:
+
 1. **X. Liu**, C. Thomsen, and T. B. Pedersen. ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce, TR-29, Department of Computer Science, Aalborg University, 2011\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-29.pdf)]
 2. **X. Liu**, C. Thomsen, and T. B. Pedersen. CloudETL: Scalable Dimensional ETL for Hadoop and Hive, TR-30, Department of Computer Science, Aalborg University, 2012\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-31.pdf)]
 3. **X. Liu**, D. Truscan, and L. Lilius. Online Testing of the ABOT Game Server Using the Qtronic Tool, Turku Centre for Computer Science, 2008\. [[PDF](https://www.dropbox.com/s/ntptlhus6ghd1ae/TR_Abot.pdf?dl=0)]
 
 ### Poster:
+
 1. **X. Liu**, Alfred Heller, P. S. Nielsen. SciCloud: A Scientific Cloud and Data Analysis Platform for Smart CITIES [[PDF](https://www.dropbox.com/s/1bovmgkane40sij/Poster-SciCloud.pdf?dl=0)]
 2. **X. Liu**, and P. S. Nielsen. An Urban Greenhouse Gas Emissions Dashboard [[PDF](https://www.dropbox.com/s/h4zxjqvyc5ouvrr/Poster_GHG_Dashboard.pdf?dl=0)].
 3. **X. Liu**, and P. S. Nielsen. Streamlining Meter Data Analytics [[PDF](http://orbit.dtu.dk/ws/files/124384470/smas_poster.pdf)].
@@ -114,15 +116,18 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 6. **X. Liu**, C. Thomsen, and T. B. Pedersen. MapReduce-based Dimensional ETL Made Easy [[PDF](https://www.dropbox.com/s/d7v67gwcdp1rfbk/ETLMR_poster.pdf?dl=0)].
 
 ### Book Chapters:
+
 1. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
 
 ### Other publications:
+
 1. **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
 2. **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
 3. **X. Liu**. Two-level Data Staging ETL for Transaction Data. Arxiv, CoRR abs/1409.1636, 2014 [[PDF](http://arxiv.org/abs/1409.1636)].
 4. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
 
 ### PhD Thesis:
+
 - **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
 ------
@@ -140,20 +145,24 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ------
 
 ## Supervision
+
 - **Postdoc:**
   - Zhibin Niu (2019.10 - present)
+  - Jiawei Wang (2021.01 - )
 - **PhD students:**
-  - Wenjing Dai (2019.04 - present)
-  - Marco Biemann (2019.12 - present)
-  - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Lund University, Sweden, As a Co-supervisor
-  - Angreine Kewo (2016.04 - present), As a Co-supervisor
+  - Wenjing Dai (2019.04 - present), Principle supervisor
+  - Marco Biemann (2019.12 - present), Principle supervisor
+  - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Lund University, Sweden, Co-supervisor
+  - Angreine Kewo (2016.04 - 2020.12),  Co-supervisor
 - **Master students:**
   - Casper Hegner Jonsson (2019.02 - 2019.08)
 
 ------
+
 ## Research Projects
 
 I am working on the following research projects:
+
 - **CVAES:** Cognitive Visual Analytics for Smart Energy Systems, EuroTech Postdoc Project, Date: 1/9 2019 - 31/8 2021 
 - **FlexSUS:** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
 - **[EMB3Rs](<https://www.emb3rs.eu/>):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
@@ -161,7 +170,7 @@ I am working on the following research projects:
 - **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
 - **IDASC:** Data lake, WP2, Date: 12/2018 - 
 - **[CITIES](http://smart-cities-centre.org/):** Centre for IT-Intelligent Energy Systems in Smart Cities, **Role:** WP1 lead since August 2018, **Date:** 01/01/2015 – 31/12/2020
-- **[ClairCity](http://www.claircity.eu/):** Citizen-led air pollution reduction in cities (EU H2020 project), **Role:** Participant, **Date:** 01/07/2017 – 31/01/2019
+- [**ClairCity**](http://www.claircity.eu/): Citizen-led air pollution reduction in cities (EU H2020 project), **Role:** Participant, **Date:** 01/07/2017 – 31/01/2019
 - **[SciCloud](https://engine1.sciencecloud.dk/):** A Private Scientific Cloud Platform, **Role:** Participant, **Date:** 01/01/2017 – 30/06/2018
 - **SCA:** Smart City Accelerator, **Role:** Participant, **Date:** 01/07/2017 – 31/08/2019
 - Roskilde Smart Monitoring Household project, **Role:** Principal Investigator, **Date:** 01/01/2018 – 05/31/2019
@@ -172,6 +181,7 @@ I am working on the following research projects:
 ## Scientific Services
 
 ### Program Committee Member
+
 - International Conference on Big Data Analytics and Knowledge Discovery (DaWak, 2020 -)
 - International Conference on Mobile Systems and Pervasive Computing (MobiSPC, 2020 - )
 - International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020 -)
@@ -187,17 +197,18 @@ I am working on the following research projects:
 - Guest editor of Special Issue of “Dynamics, Control and Management of Renewable Energy Systems” in the Journal of Mathematical Problems in Engineering, Hindawi ([Call for paper](https://www.hindawi.com/journals/mpe/si/352726/#))
 
 ### Reviewer for Conferences and Journals
-- **Field of Energy:**
 
+- **Field of Energy:**
+  
   * Applied Energy (2019)
   * Energies (2018, 2019)
   * IEEE Transactions on Smart Grid (2018, 2019)
   * IET Smart Grid (2019)
   * International Journal of Electrical Power and Energy Systems (2018)
   * The Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES18, 19)
-  
-- **Field of Computer Science:**
 
+- **Field of Computer Science:**
+  
   * International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020)
   * Journal of Knowledge and Information Systems, Springer (2018)
   * Journal of Computer Standards & Interfaces, Elsevier (2018)
@@ -215,7 +226,6 @@ I am working on the following research projects:
 ## Open Source Software
 
 I developed the following open source software systems in my previous research work (Github: [https://github.com/xiufengliu](https://github.com/xiufengliu)):
-
 
 1. [SEGSys](https://github.com/xiufengliu/): An online mapping system for segmentation analysis of energy consumption.
 2. [CATool](https://github.com/xiufengliu/CATTool): A ready-to-use experiment tool for climate researchers to understand the pitfalls in adaptation decisions in behavioral economics
