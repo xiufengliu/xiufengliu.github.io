@@ -161,18 +161,19 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 I am working on the following research projects:
 
+- **CBIT**:　Climate Change of Antigua and Barbuda, UN Consultancy project, Date:1/12 2020-　　
 - **CVAES:** Cognitive Visual Analytics for Smart Energy Systems, EuroTech Postdoc Project, Date: 1/9 2019 - 31/8 2021 
-- **FlexSUS:** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
+- **[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
 - **[EMB3Rs](<https://www.emb3rs.eu/>):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
 - **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
 - **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
 - **IDASC:** Data lake, WP2, Date: 12/2018 - 
-- **[CITIES](http://smart-cities-centre.org/):** Centre for IT-Intelligent Energy Systems in Smart Cities, **Role:** WP1 lead since August 2018, **Date:** 01/01/2015 – 31/12/2020
-- [**ClairCity**](http://www.claircity.eu/): Citizen-led air pollution reduction in cities (EU H2020 project), **Role:** Participant, **Date:** 01/07/2017 – 31/01/2019
-- **[SciCloud](https://engine1.sciencecloud.dk/):** A Private Scientific Cloud Platform, **Role:** Participant, **Date:** 01/01/2017 – 30/06/2018
-- **SCA:** Smart City Accelerator, **Role:** Participant, **Date:** 01/07/2017 – 31/08/2019
-- Roskilde Smart Monitoring Household project, **Role:** Principal Investigator, **Date:** 01/01/2018 – 05/31/2019
-- **[CTT](http://www.carbontrackandtrace.com/):** Carbon track and trace, **Role:** Participant, **Date:** 01/06/2015 – 31/12/2016
+- <span style="color:#6b778d" >[**CITIES**](http://smart-cities-centre.org/): Centre for IT-Intelligent Energy Systems in Smart Cities, **Role:** WP1 lead since August 2018, **Date:** 01/01/2015 – 31/12/2020</span>
+- <span style="color:#6b778d"> [**ClairCity**](http://www.claircity.eu/): Citizen-led air pollution reduction in cities (EU H2020 project), **Role:** Participant, **Date:** 01/07/2017 – 31/01/2019</span>
+- <span style="color:#6b778d" >**[SciCloud]:** A Private Scientific Cloud Platform, **Role:** Participant, **Date:** 01/01/2017 – 30/06/2018</span>
+- <span style="color:#6b778d" >**SCA:** Smart City Accelerator, **Role:** Participant, **Date:** 01/07/2017 – 31/08/2019</span>
+- <span style="color:#6b778d" >Roskilde Smart Monitoring Household project, **Role:** Principal Investigator, **Date:** 01/01/2018 – 05/31/2019</span>
+- <span style="color:#6b778d" >**[CTT](http://www.carbontrackandtrace.com/):** Carbon track and trace, **Role:** Participant, **Date:** 01/06/2015 – 31/12/2016</span>
 
 ------
 
@@ -240,4 +241,4 @@ I developed the following open source software systems in my previous research w
 
 ------
 
-_Last updated: July 20, 2020_
+_Last updated: Jan 10, 2021_
