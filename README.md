@@ -43,6 +43,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Publications
 
 ### Peer-reviewed papers (*- corresponding author):
+
 #### 2021
 1. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, In press, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 2. [j] Z. Niu, J. Wu,  **X. Liu**, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. J. of Energy, In press, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
