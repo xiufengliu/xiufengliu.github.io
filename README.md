@@ -210,7 +210,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ## Teaching
 
-- Smart Cities (42282):Summer Bachelor Course on June 2020, 200 hours
+- Smart Cities (42282):Summer Course on June 2020/2021, 200 hours
 - Smart Cities (42282): Master Course in 2019 fall, 170 hours
 - Smart, Connected, and Livable Cities (42280): Master Course in 2018 fall, 170 hours
 - Database System: 40 hours, Spring 2010
@@ -232,6 +232,11 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
   - Angreine Kewo (2016.04 - 2020.12),  Co-supervisor
 - **Master students:**
   - Casper Hegner Jonsson (2019.02 - 2019.08)
+  - Yingrui Li (2021.01-2021.07)
+  - Chanyu Yang (2021.01-2021.07)
+  - Yucheng Ren (2021.01-2021.07)
+  - Roberto Monaco (2021.01-2021.07)
+  - Peter Steen Nymann Rasmussen (2021.04-2021.10)
 
 ------
 
@@ -239,7 +244,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 I am working on the following research projects:
 
-- **CBIT**:　Climate Change of Antigua and Barbuda, UN Consultancy project, Date:1/12 2020-　　
+- **CBIT**:　Climate Change of Antigua and Barbuda, UN Consultancy project, Date:1/12 2020-2022　　
 - **CVAES:** Cognitive Visual Analytics for Smart Energy Systems, EuroTech Postdoc Project, Date: 1/9 2019 - 31/8 2021 
 - **[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
 - **[EMB3Rs](<https://www.emb3rs.eu/>):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
@@ -277,7 +282,7 @@ I am working on the following research projects:
 
 - **Field of Energy:**
   
-  * Applied Energy (2019)
+  * Applied Energy (2019-)
   * Energies (2018, 2019)
   * IEEE Transactions on Smart Grid (2018, 2019)
   * IET Smart Grid (2019)
