@@ -54,7 +54,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 4. [j] M.  Biemann, F. Scheller,   **X. Liu***, L. Huang. Experimental evaluation of model-free reinforcement learning algorithms for continuous HVAC control. Applied Energy,  298:117164, 2021 [[PDF](https://doi.org/10.1016/j.apenergy.2021.117164 )].
 
-5. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
+5. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 
 6. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
    
