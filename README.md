@@ -46,9 +46,9 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 #### 2021
 
-1. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, J. Ovtcharova. A flexible potential-flow model based high resolution spatiotemporal energy demand forecasting framework. Applied Energy, In press, 2021. [[PDF](#)]
+1. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, J. Ovtcharova. A flexible potential-flow model based high resolution spatiotemporal energy demand forecasting framework. Applied Energy, vol. 299: 117321, 2021. [[PDF](https://doi.org/10.1016/j.apenergy.2021.117321)]
 
-2. [j] J. Peng, A. Kimmig, J. Wang, **X. Liu***, Z. Niu, J. Ovtcharova. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. Energy & Building, In press, 2021. [[PDF](#)]
+2. [j] J. Peng, A. Kimmig, J. Wang, **X. Liu***, Z. Niu, J. Ovtcharova. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. Energy & Building, 111211, 2021. [[PDF](https://doi.org/10.1016/j.enbuild.2021.111211)]
 
 3. [c] W. Qu, **X. Liu**, S. Dessloch. A workload-aware change data capture framework for data warehousing. Accepted by the 23rd International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), 2021.
 
