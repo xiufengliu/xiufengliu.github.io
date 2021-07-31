@@ -46,7 +46,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 #### 2021
 
-1. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, D. Wanga, J. Ovtcharova. Wind turbine failure prediction and health assessment based on adaptive maximum mean discrepancy. International Journal of Electrical Power and Energy Systems. In press, 2021.[[PDF](#)]
+1. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, D. Wanga, J. Ovtcharova. Wind turbine failure prediction and health assessment based on adaptive maximum mean discrepancy. International Journal of Electrical Power and Energy Systems. Vol. 134, 107391, 2022.[[PDF](#)]
 
 2. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, J. Ovtcharova. A flexible potential-flow model based high resolution spatiotemporal energy demand forecasting framework. Applied Energy, vol. 299: 117321, 2021. [[PDF](https://doi.org/10.1016/j.apenergy.2021.117321)]
 
@@ -59,7 +59,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 6. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 
 7. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
-
+   
    #### 2020
 
 8. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
@@ -75,7 +75,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 13. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. In submission, 2020. [[PDF](#)] 
 
 14. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
-
+    
     #### 2019
 
 15. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
@@ -89,7 +89,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 19. [c] **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
 
 20. [j] **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
-
+    
     #### 2018
 
 21. [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
@@ -105,7 +105,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 26. [j] P. Gianniou, **X. Liu***, A. Heller, P. S. Nielsen, and C. Rode. Clustering-based Analysis for Residential District Heating Data. Journal of Energy Conversion & Management, vol. 165, pp. 840-850, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S019689041830236X)]
 
 27. [c] D. Ahlers, F. Kraemer, A. E. Bråten, **X. Liu**, F. Anthonisen, P. Driscoll and J. Krogstie. Analysis and Visualization of Urban Emission Measurements in Smart Cities (demo). Proc. of EDBT, pp. 698-701, 2018\. [[PDF](https://openproceedings.org/2018/conf/edbt/paper-339.pdf)]
-
+    
     #### 2017
 
 28. [c] A. Kewo, P. Manembu, P. S. Nielsen, and **X. Liu**. Modelling of electricity consumption in one of Asia’s most populous cities - Jakarta, Indonesia. Proc. of the 12th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2017\. [[PDF](#)]
@@ -127,7 +127,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 36. [c] P. Manembu, B. Welang, A. Lapu, A. Kewo, P. S. Nielsen, and **X. Liu**. A Novel Smart Meter Controlling System with Dynamic IP Addresses. Proc. of the 26th IEEE International Symposium on Industrial Electronics (ISIE 2017). [[PDF]( https://www.dropbox.com/s/ejn6khfihpk712e/A_Novel_Smart_Meter_Controlling_System_with_Dynamic_IP_addresses.pdf?dl=0)]
 
 37. [j] S. Khan, **X. Liu**, K. A. Shkil, and M. Alam. A Survey of Scholarly Data: From Big Data Perspective. Information Processing and Management (IPM), 53(4):923-944, 2017\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306457316305994)]
-
+    
     #### 2016
 
 38. [c] **X. Liu**, N. Iftikhar, P. S. Nielsen, and A. Heller. Online Anomaly Energy Consumption Detection Using Lambda Architecture. Proc. of the 18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 193-209, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-43946-4_13)] [[Slides](https://www.dropbox.com/s/kl7m0z0x64puejn/DaWak_XiufengLiu.pdf?dl=0)]
@@ -141,7 +141,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 42. [j] **X. Liu**, N. Iftikhar, and P. S. Nielsen. Optimizing ETL by a Two-level Data Staging Method. Journal of International Journal of Data Warehousing and Mining (IJDWM), 12(3):32-50, 2016\. [[PDF](https://www.igi-global.com/article/optimizing-etl-by-a-two-level-data-staging-method/168485)]
 
 43. [c] H. Huo, **X. Liu**, J. Li, and H. Yang. A Weighted K-AP Query Method for RSSI based Indoor Positioning. Proc. of the 27th Australasian Database Conference (ADC), pp. 150--163, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46922-5_12)]
-
+    
     #### 2015
 
 44. [c] **X. Liu**, Per Sieverts Nielsen. Streamlining Smart Meter Data Analytics. Proc. of the 10th Conference on Sustainable Development of Energy, Water and Environment Systems, SDEWES2015.0558,1-14, 2015\. [[PDF](http://orbit.dtu.dk/files/110737589/Streamlining_Smart_Meter_Data_Analytics.pdf)]
@@ -153,7 +153,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 47. [c] **X. Liu**, L. Golab, I. F. Ilyas. SMAS: A Smart Meter Data Analysis System (demo). Proc. of the 31st International Conference on Data Engineering (ICDE), pp. 1476-1479, 2015\. [[PDF](https://www.dropbox.com/s/1jcpwlxif8zq2k6/SMAS.pdf?dl=0)] [[Video](https://youtu.be/lK7OPd8QDRw)]
 
 48. [c] **X. Liu**, L. Golab, W. Golab, Ihab F. Ilyas. Benchmarking Smart Meter Data Analytics. Proc. of the 18th International Conference on Extending Database Technology (EDBT), pp. 385-396, 2015 **(Paper of the best).** [[PDF](https://www.dropbox.com/s/7tsaj2k5bp2e5h1/BenchmarkingSmartMeterDataAnalytics_EDBT.pdf?dl=0)]
-
+    
     #### 2014 & before
 
 49. [c] **X. Liu**, N. Iftikhar, and X. Xie, Survey of Real-time Processing Systems for Big Data. Proc. of the 18th International Database Engineering, Applications Symposium (IDEAS), pp. 356-361, 2014\. [[PDF](https://www.dropbox.com/s/4d7wb390uui51ta/BigDataSurvey.pdf?dl=0)]
@@ -275,10 +275,7 @@ I am working on the following research projects:
 - International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2017)
 - IEEE Electrical Power and Energy Conference (EPEC 2016)
 
-### Services for Journal
 
-- Guest editor of Special Issue of  "Buildings in the Context of Collective Energy Systems" in the Journal of Energies ([Call for paper](https://www.mdpi.com/journal/buildings/special_issues/collective_energy_systems))
-- Guest editor of Special Issue of “Dynamics, Control and Management of Renewable Energy Systems” in the Journal of Mathematical Problems in Engineering, Hindawi ([Call for paper](https://www.hindawi.com/journals/mpe/si/352726/#))
 
 ### Reviewer for Conferences and Journals
 
