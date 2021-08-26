@@ -46,139 +46,141 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 #### 2021
 
-1. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. Accepted by *Advances in Computers*, Elsevier, 2021. [[PDF](#)]
+1. [c] W. Dai, **X. Liu**, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. In Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
 
-2. X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. In Press, 2021. [[PDF](#)]
+2. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. Accepted by *Advances in Computers*, Elsevier, 2021. [[PDF](#)]
 
-3. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, D. Wanga, J. Ovtcharova. Wind turbine failure prediction and health assessment based on adaptive maximum mean discrepancy. International Journal of Electrical Power and Energy Systems. Vol. 134, 107391, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S014206152100630X/pdfft?md5=c95902f630604cb4e028af19c92cde0c&pid=1-s2.0-S014206152100630X-main.pdf)]
+3. X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. In Press, 2021. [[PDF](#)]
 
-4. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, J. Ovtcharova. A flexible potential-flow model based high resolution spatiotemporal energy demand forecasting framework. Applied Energy, vol. 299: 117321, 2021. [[PDF](https://doi.org/10.1016/j.apenergy.2021.117321)]
+4. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, D. Wanga, J. Ovtcharova. Wind turbine failure prediction and health assessment based on adaptive maximum mean discrepancy. International Journal of Electrical Power and Energy Systems. Vol. 134, 107391, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S014206152100630X/pdfft?md5=c95902f630604cb4e028af19c92cde0c&pid=1-s2.0-S014206152100630X-main.pdf)]
 
-5. [j] J. Peng, A. Kimmig, J. Wang, **X. Liu***, Z. Niu, J. Ovtcharova. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. Energy & Building, 111211, 2021. [[PDF](https://doi.org/10.1016/j.enbuild.2021.111211)]
+5. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, J. Ovtcharova. A flexible potential-flow model based high resolution spatiotemporal energy demand forecasting framework. Applied Energy, vol. 299: 117321, 2021. [[PDF](https://doi.org/10.1016/j.apenergy.2021.117321)]
 
-6. [c] W. Qu, **X. Liu**, S. Dessloch. A workload-aware change data capture framework for data warehousing. Accepted by the 23rd International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), 2021.
+6. [j] J. Peng, A. Kimmig, J. Wang, **X. Liu***, Z. Niu, J. Ovtcharova. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. Energy & Building, 111211, 2021. [[PDF](https://doi.org/10.1016/j.enbuild.2021.111211)]
 
-7. [j] M.  Biemann, F. Scheller,   **X. Liu***, L. Huang. Experimental evaluation of model-free reinforcement learning algorithms for continuous HVAC control. Applied Energy,  298:117164, 2021 [[PDF](https://doi.org/10.1016/j.apenergy.2021.117164 )].
+7. [c] W. Qu, **X. Liu**, S. Dessloch. A workload-aware change data capture framework for data warehousing. Accepted by the 23rd International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), 2021.
 
-8. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
+8. [j] M.  Biemann, F. Scheller,   **X. Liu***, L. Huang. Experimental evaluation of model-free reinforcement learning algorithms for continuous HVAC control. Applied Energy,  298:117164, 2021 [[PDF](https://doi.org/10.1016/j.apenergy.2021.117164 )].
 
-9. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
-   
-   #### 2020
+9. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 
-10. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
+10. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
+    
+    #### 2020
 
-11. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
+11. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
 
-12. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
+12. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
 
-13. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. Liu, X., Lai, Z., Wang, X., Huang, L., & Nielsen, P. S. (2020, November). A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. In Proc. of *International Conference on Neural Information Processing* (pp. 733-742). 2020. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_83)] 
+13. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
 
-14. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, pp. 93-110, 2020. [[PDF](https://doi.org/10.1007/978-3-030-59051-2_7)] 
+14. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. Liu, X., Lai, Z., Wang, X., Huang, L., & Nielsen, P. S. (2020, November). A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. In Proc. of *International Conference on Neural Information Processing* (pp. 733-742). 2020. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_83)] 
 
-15. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
+15. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, pp. 93-110, 2020. [[PDF](https://doi.org/10.1007/978-3-030-59051-2_7)] 
 
-16. #### 2019
+16. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
 
-17. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
+17. #### 2019
 
-18. [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
+18. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 
-19. [j] **X. Liu**, H. Huo,  N. Iftikhar, and P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
+19. [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
 
-20. [c] **X. Liu**, R. Li and P. S. Nielsen. SEGSys: A mapping system for segmentation analysis in energy, Proc. of the 14th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2019.
+20. [j] **X. Liu**, H. Huo,  N. Iftikhar, and P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. In Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
 
-21. [c] **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
+21. [c] **X. Liu**, R. Li and P. S. Nielsen. SEGSys: A mapping system for segmentation analysis in energy, Proc. of the 14th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2019.
 
-22. [j] **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
+22. [c] **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
+
+23. [j] **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data, vol. 95, pp. 586-600, Journal of Future Computer Systems, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
     
     #### 2018
 
-23. [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
+24. [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
 
-24. [c] P. Manembu, A. Kewo,  **X. Liu**, P.S. Nielsen. Multi-grained Household Load Profile Analysis using Smart Meter Data: The Case of Indonesia. Proc. of IEEE 2nd Borneo International Conference on Applied Mathematics and Engineering (BICAME), pp. 213-217, 2018\. [[PDF](https://ieeexplore.ieee.org/document/9084622)]
+25. [c] P. Manembu, A. Kewo,  **X. Liu**, P.S. Nielsen. Multi-grained Household Load Profile Analysis using Smart Meter Data: The Case of Indonesia. Proc. of IEEE 2nd Borneo International Conference on Applied Mathematics and Engineering (BICAME), pp. 213-217, 2018\. [[PDF](https://ieeexplore.ieee.org/document/9084622)]
 
-25. [c] P. Manembu, A. Kewo, P.S. Nielsen, **X. Liu**, B. Welang, and A. Lapu. Architecture Design of Smart Meter Controlling System for Dynamic IP Environments. Proc. of International Conference on Intelligent Autonomous Systems (ICoIAS), pp. 175-179, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8493884)]
+26. [c] P. Manembu, A. Kewo, P.S. Nielsen, **X. Liu**, B. Welang, and A. Lapu. Architecture Design of Smart Meter Controlling System for Dynamic IP Environments. Proc. of International Conference on Intelligent Autonomous Systems (ICoIAS), pp. 175-179, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8493884)]
 
-26. [j] **X. Liu**, P. S. Nielsen. Scalable prediction-based online anomaly detection for smart meter data. Information Systems, vol. 77, pp. 34-47, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306437917303216)]
+27. [j] **X. Liu**, P. S. Nielsen. Scalable prediction-based online anomaly detection for smart meter data. Information Systems, vol. 77, pp. 34-47, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306437917303216)]
 
-27. [c] L. Liu, H. Huo, **X. Liu**, V. Palade. Recognizing Textual Entailment with Attentive Reading and Writing Operations. Proc. of DASFAA, pp. 847-860, 2018\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-91452-7_54)]
+28. [c] L. Liu, H. Huo, **X. Liu**, V. Palade. Recognizing Textual Entailment with Attentive Reading and Writing Operations. Proc. of DASFAA, pp. 847-860, 2018\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-91452-7_54)]
 
-28. [j] P. Gianniou, **X. Liu***, A. Heller, P. S. Nielsen, and C. Rode. Clustering-based Analysis for Residential District Heating Data. Journal of Energy Conversion & Management, vol. 165, pp. 840-850, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S019689041830236X)]
+29. [j] P. Gianniou, **X. Liu***, A. Heller, P. S. Nielsen, and C. Rode. Clustering-based Analysis for Residential District Heating Data. Journal of Energy Conversion & Management, vol. 165, pp. 840-850, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S019689041830236X)]
 
-29. [c] D. Ahlers, F. Kraemer, A. E. Bråten, **X. Liu**, F. Anthonisen, P. Driscoll and J. Krogstie. Analysis and Visualization of Urban Emission Measurements in Smart Cities (demo). Proc. of EDBT, pp. 698-701, 2018\. [[PDF](https://openproceedings.org/2018/conf/edbt/paper-339.pdf)]
+30. [c] D. Ahlers, F. Kraemer, A. E. Bråten, **X. Liu**, F. Anthonisen, P. Driscoll and J. Krogstie. Analysis and Visualization of Urban Emission Measurements in Smart Cities (demo). Proc. of EDBT, pp. 698-701, 2018\. [[PDF](https://openproceedings.org/2018/conf/edbt/paper-339.pdf)]
     
     #### 2017
 
-30. [c] A. Kewo, P. Manembu, P. S. Nielsen, and **X. Liu**. Modelling of electricity consumption in one of Asia’s most populous cities - Jakarta, Indonesia. Proc. of the 12th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2017\. [[PDF](#)]
+31. [c] A. Kewo, P. Manembu, P. S. Nielsen, and **X. Liu**. Modelling of electricity consumption in one of Asia’s most populous cities - Jakarta, Indonesia. Proc. of the 12th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2017\. [[PDF](#)]
 
-31. [c] H. Huo, **X. Liu**, D. Zheng, Z. Wu, S. Yu, L. Liu. Collaborative Filtering Fusing Label Features Based on SDAE. Proc. of ICDM, pp. 223-236, 2017\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-62701-4_17)]
+32. [c] H. Huo, **X. Liu**, D. Zheng, Z. Wu, S. Yu, L. Liu. Collaborative Filtering Fusing Label Features Based on SDAE. Proc. of ICDM, pp. 223-236, 2017\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-62701-4_17)]
 
-32. [j] A. Heller, **X. Liu**, and P. Gianniou. Science Cloud for Smart Cities Research. Energy Procedia, vol. 122, pp. 679-684\. [[PDF](https://www.sciencedirect.com/science/article/pii/S1876610217329739)]
+33. [j] A. Heller, **X. Liu**, and P. Gianniou. Science Cloud for Smart Cities Research. Energy Procedia, vol. 122, pp. 679-684\. [[PDF](https://www.sciencedirect.com/science/article/pii/S1876610217329739)]
 
-33. [c] **X. Liu**, P. S. Nielsen, A. Heller, and P. Gianniou. SciCloud: A Scientific Cloud and Management Platform for Smart City Data. Proc. of DEXA Workshop, pp. 27-31, 2017\. [[PDF](https://ieeexplore.ieee.org/document/8049680/)] [[Slides](https://www.dropbox.com/s/u0glsf86mi6k38h/slides_SciCloud_dexa.pdf?dl=0)]
+34. [c] **X. Liu**, P. S. Nielsen, A. Heller, and P. Gianniou. SciCloud: A Scientific Cloud and Management Platform for Smart City Data. Proc. of DEXA Workshop, pp. 27-31, 2017\. [[PDF](https://ieeexplore.ieee.org/document/8049680/)] [[Slides](https://www.dropbox.com/s/u0glsf86mi6k38h/slides_SciCloud_dexa.pdf?dl=0)]
 
-34. [c] **X. Liu**, P. S. Nielsen, and A. Heller. An ICT-based Anomaly Detection Method for Smart Meter Data. Proc. of the 12th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2017\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306437917303216)]
+35. [c] **X. Liu**, P. S. Nielsen, and A. Heller. An ICT-based Anomaly Detection Method for Smart Meter Data. Proc. of the 12th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2017\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306437917303216)]
 
-35. [c] N. Iftikhar, **X. Liu**, F. E. Nordbjerg, S. Danalachi, and J. H. Vollesen. A Scalable Smart Meter Data Generator Using Spark. Proc. of the 25th International Conference on Cooperative Information Systems, pp. 21-36, 2017.[[PDF](#)] [[Slides](https://link.springer.com/chapter/10.1007/978-3-319-69462-7_2)]
+36. [c] N. Iftikhar, **X. Liu**, F. E. Nordbjerg, S. Danalachi, and J. H. Vollesen. A Scalable Smart Meter Data Generator Using Spark. Proc. of the 25th International Conference on Cooperative Information Systems, pp. 21-36, 2017.[[PDF](#)] [[Slides](https://link.springer.com/chapter/10.1007/978-3-319-69462-7_2)]
 
-36. [c] **X. Liu**, and P. S. Nielsen. Air Quality Monitoring System and Benchmarking. Proc. of the 19th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 459-470, 2017\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-64283-3_34)] [[Slides](https://www.dropbox.com/s/7xov096r71d46j7/slides_airquality_dawak.pdf?dl=0)]
+37. [c] **X. Liu**, and P. S. Nielsen. Air Quality Monitoring System and Benchmarking. Proc. of the 19th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 459-470, 2017\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-64283-3_34)] [[Slides](https://www.dropbox.com/s/7xov096r71d46j7/slides_airquality_dawak.pdf?dl=0)]
 
-37. [j] **X. Liu**, P. S. Nielsen, and A. Heller. CITIESData: A Framework for Research Data Management for Smart CITIES. Journal of Knowledge and Information Systems (KAIS), 53(3):699-722, 2017\. [[PDF](https://link.springer.com/article/10.1007%2Fs10115-017-1051-3)]
+38. [j] **X. Liu**, P. S. Nielsen, and A. Heller. CITIESData: A Framework for Research Data Management for Smart CITIES. Journal of Knowledge and Information Systems (KAIS), 53(3):699-722, 2017\. [[PDF](https://link.springer.com/article/10.1007%2Fs10115-017-1051-3)]
 
-38. [c] P. Manembu, B. Welang, A. Lapu, A. Kewo, P. S. Nielsen, and **X. Liu**. A Novel Smart Meter Controlling System with Dynamic IP Addresses. Proc. of the 26th IEEE International Symposium on Industrial Electronics (ISIE 2017). [[PDF]( https://www.dropbox.com/s/ejn6khfihpk712e/A_Novel_Smart_Meter_Controlling_System_with_Dynamic_IP_addresses.pdf?dl=0)]
+39. [c] P. Manembu, B. Welang, A. Lapu, A. Kewo, P. S. Nielsen, and **X. Liu**. A Novel Smart Meter Controlling System with Dynamic IP Addresses. Proc. of the 26th IEEE International Symposium on Industrial Electronics (ISIE 2017). [[PDF]( https://www.dropbox.com/s/ejn6khfihpk712e/A_Novel_Smart_Meter_Controlling_System_with_Dynamic_IP_addresses.pdf?dl=0)]
 
-39. [j] S. Khan, **X. Liu**, K. A. Shkil, and M. Alam. A Survey of Scholarly Data: From Big Data Perspective. Information Processing and Management (IPM), 53(4):923-944, 2017\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306457316305994)]
+40. [j] S. Khan, **X. Liu**, K. A. Shkil, and M. Alam. A Survey of Scholarly Data: From Big Data Perspective. Information Processing and Management (IPM), 53(4):923-944, 2017\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306457316305994)]
     
     #### 2016
 
-40. [c] **X. Liu**, N. Iftikhar, P. S. Nielsen, and A. Heller. Online Anomaly Energy Consumption Detection Using Lambda Architecture. Proc. of the 18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 193-209, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-43946-4_13)] [[Slides](https://www.dropbox.com/s/kl7m0z0x64puejn/DaWak_XiufengLiu.pdf?dl=0)]
+41. [c] **X. Liu**, N. Iftikhar, P. S. Nielsen, and A. Heller. Online Anomaly Energy Consumption Detection Using Lambda Architecture. Proc. of the 18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 193-209, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-43946-4_13)] [[Slides](https://www.dropbox.com/s/kl7m0z0x64puejn/DaWak_XiufengLiu.pdf?dl=0)]
 
-41. [c] N. Iftikhar, **X. Liu**, F. E. Nordbjerg, and S. Danalachi. A Prediction-based Smart Meter Data Generator. Proc. of the 19th International Conference of Network-based Information Systems (NBIS), 2016\. [[PDF](https://www.researchgate.net/profile/Nadeem_Iftikhar/publication/306287325_A_Prediction-based_Smart_Meter_Data_Generator/links/57b6e42408aea2f4aec36cfc.pdf)] [[Slides](https://www.dropbox.com/s/mvjg1iapn33jvps/Prediction_based_data_generator_slides.pdf?dl=0)]
+42. [c] N. Iftikhar, **X. Liu**, F. E. Nordbjerg, and S. Danalachi. A Prediction-based Smart Meter Data Generator. Proc. of the 19th International Conference of Network-based Information Systems (NBIS), 2016\. [[PDF](https://www.researchgate.net/profile/Nadeem_Iftikhar/publication/306287325_A_Prediction-based_Smart_Meter_Data_Generator/links/57b6e42408aea2f4aec36cfc.pdf)] [[Slides](https://www.dropbox.com/s/mvjg1iapn33jvps/Prediction_based_data_generator_slides.pdf?dl=0)]
 
-42. [j] **X. Liu**, L. Golab, W. Golab, I. F. Ilyas, and S. Jin. Smart Meter Data Analytics: Systems, Algorithms and Benchmarking. ACM Transaction of Database System (TODS), 42(1), 2016\. [[PDF](http://www.eng.uwaterloo.ca/~lgolab/liu_tods17.pdf)]
+43. [j] **X. Liu**, L. Golab, W. Golab, I. F. Ilyas, and S. Jin. Smart Meter Data Analytics: Systems, Algorithms and Benchmarking. ACM Transaction of Database System (TODS), 42(1), 2016\. [[PDF](http://www.eng.uwaterloo.ca/~lgolab/liu_tods17.pdf)]
 
-43. [j] **X. Liu**, P. S. Nielsen. An ICT-Solution for Smart Meter Data Analytics. Journal of Energy, 115(3):1710-1722, 2016\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544216306855)]
+44. [j] **X. Liu**, P. S. Nielsen. An ICT-Solution for Smart Meter Data Analytics. Journal of Energy, 115(3):1710-1722, 2016\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544216306855)]
 
-44. [j] **X. Liu**, N. Iftikhar, and P. S. Nielsen. Optimizing ETL by a Two-level Data Staging Method. Journal of International Journal of Data Warehousing and Mining (IJDWM), 12(3):32-50, 2016\. [[PDF](https://www.igi-global.com/article/optimizing-etl-by-a-two-level-data-staging-method/168485)]
+45. [j] **X. Liu**, N. Iftikhar, and P. S. Nielsen. Optimizing ETL by a Two-level Data Staging Method. Journal of International Journal of Data Warehousing and Mining (IJDWM), 12(3):32-50, 2016\. [[PDF](https://www.igi-global.com/article/optimizing-etl-by-a-two-level-data-staging-method/168485)]
 
-45. [c] H. Huo, **X. Liu**, J. Li, and H. Yang. A Weighted K-AP Query Method for RSSI based Indoor Positioning. Proc. of the 27th Australasian Database Conference (ADC), pp. 150--163, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46922-5_12)]
+46. [c] H. Huo, **X. Liu**, J. Li, and H. Yang. A Weighted K-AP Query Method for RSSI based Indoor Positioning. Proc. of the 27th Australasian Database Conference (ADC), pp. 150--163, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46922-5_12)]
     
     #### 2015
 
-46. [c] **X. Liu**, Per Sieverts Nielsen. Streamlining Smart Meter Data Analytics. Proc. of the 10th Conference on Sustainable Development of Energy, Water and Environment Systems, SDEWES2015.0558,1-14, 2015\. [[PDF](http://orbit.dtu.dk/files/110737589/Streamlining_Smart_Meter_Data_Analytics.pdf)]
+47. [c] **X. Liu**, Per Sieverts Nielsen. Streamlining Smart Meter Data Analytics. Proc. of the 10th Conference on Sustainable Development of Energy, Water and Environment Systems, SDEWES2015.0558,1-14, 2015\. [[PDF](http://orbit.dtu.dk/files/110737589/Streamlining_Smart_Meter_Data_Analytics.pdf)]
 
-47. [c] N. Iftikhar, **X. Liu**, and F. E. Nordbjerg. Relational-Based Sensor Data Cleansing. Proc. of 19th East-European Conference on Advances in Databases and Information Systems (ADBIS), pp. 108-118, 2015\. [[PDF](https://www.dropbox.com/s/0bghbfnjhlt4q52/RelationalBasedDataCleansing.pdf?dl=0)]
+48. [c] N. Iftikhar, **X. Liu**, and F. E. Nordbjerg. Relational-Based Sensor Data Cleansing. Proc. of 19th East-European Conference on Advances in Databases and Information Systems (ADBIS), pp. 108-118, 2015\. [[PDF](https://www.dropbox.com/s/0bghbfnjhlt4q52/RelationalBasedDataCleansing.pdf?dl=0)]
 
-48. [c]  **X. Liu**, N. Iftikhar. An ETL Optimization Framework Using Partitioning and Parallelization. Proc. of the 30th ACM/SIGAPP Symposium On Applied Computing (SAC), pp. 1015-1022, 2015\. [[PDF](https://www.researchgate.net/profile/Xiufeng_Liu2/publication/269990527_An_ETL_Optimization_Framework_Using_Partitioning_and_Parallelization/links/549c6f1b0cf2fedbc30fdcea.pdf)]
+49. [c]  **X. Liu**, N. Iftikhar. An ETL Optimization Framework Using Partitioning and Parallelization. Proc. of the 30th ACM/SIGAPP Symposium On Applied Computing (SAC), pp. 1015-1022, 2015\. [[PDF](https://www.researchgate.net/profile/Xiufeng_Liu2/publication/269990527_An_ETL_Optimization_Framework_Using_Partitioning_and_Parallelization/links/549c6f1b0cf2fedbc30fdcea.pdf)]
 
-49. [c] **X. Liu**, L. Golab, I. F. Ilyas. SMAS: A Smart Meter Data Analysis System (demo). Proc. of the 31st International Conference on Data Engineering (ICDE), pp. 1476-1479, 2015\. [[PDF](https://www.dropbox.com/s/1jcpwlxif8zq2k6/SMAS.pdf?dl=0)] [[Video](https://youtu.be/lK7OPd8QDRw)]
+50. [c] **X. Liu**, L. Golab, I. F. Ilyas. SMAS: A Smart Meter Data Analysis System (demo). Proc. of the 31st International Conference on Data Engineering (ICDE), pp. 1476-1479, 2015\. [[PDF](https://www.dropbox.com/s/1jcpwlxif8zq2k6/SMAS.pdf?dl=0)] [[Video](https://youtu.be/lK7OPd8QDRw)]
 
-50. [c] **X. Liu**, L. Golab, W. Golab, Ihab F. Ilyas. Benchmarking Smart Meter Data Analytics. Proc. of the 18th International Conference on Extending Database Technology (EDBT), pp. 385-396, 2015 **(Paper of the best).** [[PDF](https://www.dropbox.com/s/7tsaj2k5bp2e5h1/BenchmarkingSmartMeterDataAnalytics_EDBT.pdf?dl=0)]
+51. [c] **X. Liu**, L. Golab, W. Golab, Ihab F. Ilyas. Benchmarking Smart Meter Data Analytics. Proc. of the 18th International Conference on Extending Database Technology (EDBT), pp. 385-396, 2015 **(Paper of the best).** [[PDF](https://www.dropbox.com/s/7tsaj2k5bp2e5h1/BenchmarkingSmartMeterDataAnalytics_EDBT.pdf?dl=0)]
     
     #### 2014 & before
 
-51. [c] **X. Liu**, N. Iftikhar, and X. Xie, Survey of Real-time Processing Systems for Big Data. Proc. of the 18th International Database Engineering, Applications Symposium (IDEAS), pp. 356-361, 2014\. [[PDF](https://www.dropbox.com/s/4d7wb390uui51ta/BigDataSurvey.pdf?dl=0)]
+52. [c] **X. Liu**, N. Iftikhar, and X. Xie, Survey of Real-time Processing Systems for Big Data. Proc. of the 18th International Database Engineering, Applications Symposium (IDEAS), pp. 356-361, 2014\. [[PDF](https://www.dropbox.com/s/4d7wb390uui51ta/BigDataSurvey.pdf?dl=0)]
 
-52. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen, CloudETL: Scalable Dimensional ETL for Hive. Proc. of the 18th International Database Engineering, Applications Symposium (IDEAS), pp.195-206, 2014\. [[PDF](https://www.dropbox.com/s/71fa60cb8uwy3mu/CloudETL.pdf?dl=0)]
+53. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen, CloudETL: Scalable Dimensional ETL for Hive. Proc. of the 18th International Database Engineering, Applications Symposium (IDEAS), pp.195-206, 2014\. [[PDF](https://www.dropbox.com/s/71fa60cb8uwy3mu/CloudETL.pdf?dl=0)]
 
-53. [c] **X. Liu** and N. Iftikhar. Ontology-based Big Dimension modelling in Data Warehouse Schema Design, Proc. of the 12th Business Information System (BIS), pp. 75-87, 2013\. [[PDF](https://www.dropbox.com/s/5c27dd697ire3dl/Ontology-basedBigDimDesign.pdf?dl=0)]
+54. [c] **X. Liu** and N. Iftikhar. Ontology-based Big Dimension modelling in Data Warehouse Schema Design, Proc. of the 12th Business Information System (BIS), pp. 75-87, 2013\. [[PDF](https://www.dropbox.com/s/5c27dd697ire3dl/Ontology-basedBigDimDesign.pdf?dl=0)]
 
-54. [j] **X. Liu**, C. Thomsen, and T. B. Pedersen, ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce. TLDKS III, LNCS 7790, 8:1-31, 2013\. [[PDF](https://www.dropbox.com/s/manzgt3jwqx2x3h/ETLMR_TLDKS.pdf?dl=0)]
+55. [j] **X. Liu**, C. Thomsen, and T. B. Pedersen, ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce. TLDKS III, LNCS 7790, 8:1-31, 2013\. [[PDF](https://www.dropbox.com/s/manzgt3jwqx2x3h/ETLMR_TLDKS.pdf?dl=0)]
 
-55. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. MapReduce-based Dimensional ETL Made Easy (demo). PVLDB 5(12): 1882-1885, 2012\. [[PDF](https://www.dropbox.com/s/ajiuvhodzmwbzhb/etlmr_vldbdemo.pdf?dl=0)]
+56. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. MapReduce-based Dimensional ETL Made Easy (demo). PVLDB 5(12): 1882-1885, 2012\. [[PDF](https://www.dropbox.com/s/ajiuvhodzmwbzhb/etlmr_vldbdemo.pdf?dl=0)]
 
-56. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. 3XL: An Efficient DBMS-Based Triple-Store. Proc. of DEXA Workshops, pp. 284-288, 2012\. [[PDF](https://www.dropbox.com/s/u4ld6kbvwazipg2/3xldemo.pdf?dl=0)]
+57. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. 3XL: An Efficient DBMS-Based Triple-Store. Proc. of DEXA Workshops, pp. 284-288, 2012\. [[PDF](https://www.dropbox.com/s/u4ld6kbvwazipg2/3xldemo.pdf?dl=0)]
 
-57. [j] **X. Liu**, C. Thomsen, and T. B. Pedersen. 3XL: Supporting efficient operations on very large OWL Lite triple-stores. Journal of Information Systems, 36(4):765-781, 2011\. [[PDF](https://www.dropbox.com/s/iinsekq7hfyjo2o/3XL.pdf?dl=0)]
+58. [j] **X. Liu**, C. Thomsen, and T. B. Pedersen. 3XL: Supporting efficient operations on very large OWL Lite triple-stores. Journal of Information Systems, 36(4):765-781, 2011\. [[PDF](https://www.dropbox.com/s/iinsekq7hfyjo2o/3XL.pdf?dl=0)]
 
-58. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce. Proc. of the 13th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 96-111, 2011 [[PDF](https://www.dropbox.com/s/f1un65bd1fc7lv3/etlmr_DaWak.pdf?dl=0)].
+59. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce. Proc. of the 13th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 96-111, 2011 [[PDF](https://www.dropbox.com/s/f1un65bd1fc7lv3/etlmr_DaWak.pdf?dl=0)].
 
-59. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. The ETLMR MapReduce-Based ETL Framework. Proc. of the 23rd Scientific and Statistical Database Management Conference (SSDBM), pp. 586-588, 2011\. [[PDF](https://www.dropbox.com/s/9hf3c6ho5ufgkb0/ETLMR_SSDBM.pdf?dl=0)]
+60. [c] **X. Liu**, C. Thomsen, and T. B. Pedersen. The ETLMR MapReduce-Based ETL Framework. Proc. of the 23rd Scientific and Statistical Database Management Conference (SSDBM), pp. 586-588, 2011\. [[PDF](https://www.dropbox.com/s/9hf3c6ho5ufgkb0/ETLMR_SSDBM.pdf?dl=0)]
 
-60. [j] **X. Liu**. A Data Warehouse Solution for E-Government. International Journal of Research and Reviews in Applied Sciences, 4(1):120-128, 2010\. [[PDF](http://orbit.dtu.dk/ws/files/110626016/IJRRAS_4_1_12.pdf)]
+61. [j] **X. Liu**. A Data Warehouse Solution for E-Government. International Journal of Research and Reviews in Applied Sciences, 4(1):120-128, 2010\. [[PDF](http://orbit.dtu.dk/ws/files/110626016/IJRRAS_4_1_12.pdf)]
 
-61. [j] S. Kang and **X. Liu**. Online Model-based Testing Design Using the Qtronic Tool. Journal of Northeast Normal University (Natural Science Edition), 42(4), 2010.
+62. [j] S. Kang and **X. Liu**. Online Model-based Testing Design Using the Qtronic Tool. Journal of Northeast Normal University (Natural Science Edition), 42(4), 2010.
 
 ### Technical Reports:
 
@@ -227,8 +229,8 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Supervision
 
 - **Postdoc:**
-  - Zhibin Niu (2019.10 - present)
   - Jiawei Wang (2021.01 - )
+  - Zhibin Niu (2019.10 - 2021.09)
 - **PhD students:**
   - Wenjing Dai (2019.04 - present), Principle supervisor
   - Marco Biemann (2019.12 - present), Principle supervisor
@@ -323,4 +325,4 @@ I developed the following open source software systems in my previous research w
 
 ------
 
-_Last updated: June 20, 2021_
+_Last updated: August 26, 2021_
