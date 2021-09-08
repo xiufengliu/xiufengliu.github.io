@@ -46,7 +46,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 #### 2021
 
-1. [c] W. Dai, **X. Liu**, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. In Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
+1. [c] W. Dai, **X. Liu**, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
 
 2. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. Accepted by *Advances in Computers*, Elsevier, 2021. [[PDF](#)]
 
@@ -58,7 +58,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 6. [j] J. Peng, A. Kimmig, J. Wang, **X. Liu***, Z. Niu, J. Ovtcharova. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. Energy & Building, 111211, 2021. [[PDF](https://doi.org/10.1016/j.enbuild.2021.111211)]
 
-7. [c] W. Qu, **X. Liu***, S. Dessloch. A workload-aware change data capture framework for data warehousing. Accepted by the 23rd International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 222–231, 2021. [[PDF]([https://link.springer.com/chapter/10.1007%2F978-3-030-86534-4_21)]
+7. [c] W. Qu, **X. Liu***, S. Dessloch. A workload-aware change data capture framework for data warehousing. Proc. of the 23rd International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 222–231, 2021. [[PDF]([https://link.springer.com/chapter/10.1007%2F978-3-030-86534-4_21)]
 
 8. [j] M.  Biemann, F. Scheller,   **X. Liu***, L. Huang. Experimental evaluation of model-free reinforcement learning algorithms for continuous HVAC control. Applied Energy,  298:117164, 2021 [[PDF](https://doi.org/10.1016/j.apenergy.2021.117164 )].
 
