@@ -186,6 +186,10 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 64. [j] S. Kang and **X. Liu**. Online Model-based Testing Design Using the Qtronic Tool. Journal of Northeast Normal University (Natural Science Edition), 42(4), 2010.
 
+### Book Chapters:
+
+1. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
+
 ### Technical Reports:
 
 1. Bergaentzlé, C., Bolwig, S., Juhler-Verdoner, H., Kubeczko, K., **Liu, X.**, Nørregaard, K., Rossi, J., Steen, D., Stengel, A., & Wieczorek, A. (2021). A Transition Perspective on Demand-Side Flexibility in the Integrated Energy System. Insights from the Danish ISGAN Annex 7 Project 2017-2021. [[PDF](https://orbit.dtu.dk/files/257239815/A_Transition_Perspective_on_Demand_Side_Flexibility_in_the_Integrated_Energy_System.pdf)]
@@ -202,10 +206,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 4. **X. Liu**, P. S. Nielsen, and A. Heller. CITIESData: Towards Cloud-Based Big Data Management for Smart Cities [[PDF](https://www.dropbox.com/s/z9pvxy2pc6bqdlo/SmartCitiesDataMgnt_Poster.pdf?dl=0)].
 5. **X. Liu**, L. Golab, and I. llyas. SMAS: A Smart Meter Data Analytics System [[PDF](https://www.dropbox.com/s/fd107qe8ceq5ewn/smas_poster.pdf?dl=0)].
 6. **X. Liu**, C. Thomsen, and T. B. Pedersen. MapReduce-based Dimensional ETL Made Easy [[PDF](https://www.dropbox.com/s/d7v67gwcdp1rfbk/ETLMR_poster.pdf?dl=0)].
-
-### Book Chapters:
-
-1. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
 
 ### Other publications:
 
