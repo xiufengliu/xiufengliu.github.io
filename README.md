@@ -258,9 +258,9 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 
 - **CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, **Role:** Participant, Date:1/12 2020-2022　　
 - **[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
-- **[EMB3Rs](<https://www.emb3rs.eu/>):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
+- **[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
 - **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
-- **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
+- **[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
 - Reinforcement learning for autonomous building energy managment, **Role:** PI, Date: 12/1 2019 - 11/30 2022
 - <span style="color:#6b778d">**CVAES:** Cognitive Visual Analytics for Smart Energy Systems, **Role:** PI, Date: 1/10 2019 - 30/9 2021</span>
 - <span style="color:#6b778d">**IDASC:** Data lake, **Role:** WP2 lead, Date: 12/2018 - 06/2021.</span>
@@ -291,6 +291,7 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 - **Field of Energy:**
   
   * Applied Energy (2019-)
+  * Energy (2019-)
   * Energies (2018, 2019)
   * IEEE Transactions on Smart Grid (2018, 2019)
   * IET Smart Grid (2019)
