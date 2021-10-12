@@ -236,19 +236,19 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 - **Postdoc:**
   - Jiawei Wang (2021.01 - )
-  - Zhibin Niu (2019.10 - 2021.09)
+  - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
   - Wenjing Dai (2019.04 - present), Principle supervisor
   - Marco Biemann (2019.12 - present), Principle supervisor
   - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Lund University, Sweden, Co-supervisor
-  - Angreine Kewo (2016.04 - 2020.12),  Co-supervisor
+  - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
-  - Casper Hegner Jonsson (2019.02 - 2019.08)
-  - Yingrui Li (2021.01-2021.07)
-  - Chanyu Yang (2021.01-2021.07)
-  - Yucheng Ren (2021.01-2021.07)
-  - Roberto Monaco (2021.01-2021.07)
-  - Peter Steen Nymann Rasmussen (2021.04-2021.10)
+  - <span style="color:#6b778d">Casper Hegner Jonsson (2019.02 - 2019.08)</span>
+  - <span style="color:#6b778d">Yingrui Li (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Chanyu Yang (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Yucheng Ren (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Roberto Monaco (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Peter Steen Nymann Rasmussen (2021.04-2021.10)</span>
 
 ------
 
