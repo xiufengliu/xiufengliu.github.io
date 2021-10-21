@@ -333,4 +333,12 @@ I developed the following open source software systems in my previous research w
 
 ------
 
+## Useful links
+
+1. [HelloGithub](https://hellogithub.com/): Interesting open-sourced projects
+2. [MoviePy](https://zulko.github.io/moviepy/index.html): Video editing tool
+
+
+------
+
 _Last updated: Oct 1, 2021_
