@@ -235,7 +235,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Supervision
 
 - **Postdoc:**
-  - Jiawei Wang (2021.01 - )
+  - Jiawei Wang (2021.01 - present)
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
   - Wenjing Dai (2019.04 - present), Principle supervisor
