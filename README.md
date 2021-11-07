@@ -71,7 +71,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 12. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 
 13. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
-    
+
     #### 2020
 
 14. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
@@ -85,7 +85,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 18. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, pp. 93-110, 2020. [[PDF](https://doi.org/10.1007/978-3-030-59051-2_7)] 
 
 19. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
-    
+
 #### 2019
 
 20. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
@@ -99,7 +99,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 24. [c] **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
 
 25. [j] **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data. Future Computer Systems, vol. 95, pp. 586-600, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
-    
+
     #### 2018
 
 26. [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
@@ -115,7 +115,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 31. [j] P. Gianniou, **X. Liu***, A. Heller, P. S. Nielsen, and C. Rode. Clustering-based Analysis for Residential District Heating Data. Energy Conversion & Management, vol. 165, pp. 840-850, 2018\. [[PDF](https://www.sciencedirect.com/science/article/pii/S019689041830236X)]
 
 32. [c] D. Ahlers, F. Kraemer, A. E. Bråten, **X. Liu**, F. Anthonisen, P. Driscoll and J. Krogstie. Analysis and Visualization of Urban Emission Measurements in Smart Cities (demo). Proc. of EDBT, pp. 698-701, 2018\. [[PDF](https://openproceedings.org/2018/conf/edbt/paper-339.pdf)]
-    
+
     #### 2017
 
 33. [c] A. Kewo, P. Manembu, P. S. Nielsen, and **X. Liu**. Modelling of electricity consumption in one of Asia’s most populous cities - Jakarta, Indonesia. Proc. of the 12th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2017\. [[PDF](#)]
@@ -137,7 +137,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 41. [c] P. Manembu, B. Welang, A. Lapu, A. Kewo, P. S. Nielsen, and **X. Liu**. A Novel Smart Meter Controlling System with Dynamic IP Addresses. Proc. of the 26th IEEE International Symposium on Industrial Electronics (ISIE 2017). [[PDF]( https://www.dropbox.com/s/ejn6khfihpk712e/A_Novel_Smart_Meter_Controlling_System_with_Dynamic_IP_addresses.pdf?dl=0)]
 
 42. [j] S. Khan, **X. Liu**, K. A. Shkil, and M. Alam. A Survey of Scholarly Data: From Big Data Perspective. Information Processing and Management (IPM), 53(4):923-944, 2017\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306457316305994)]
-    
+
     #### 2016
 
 43. [c] **X. Liu**, N. Iftikhar, P. S. Nielsen, and A. Heller. Online Anomaly Energy Consumption Detection Using Lambda Architecture. Proc. of the 18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 193-209, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-43946-4_13)] [[Slides](https://www.dropbox.com/s/kl7m0z0x64puejn/DaWak_XiufengLiu.pdf?dl=0)]
@@ -151,7 +151,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 47. [j] **X. Liu**, N. Iftikhar, and P. S. Nielsen. Optimizing ETL by a Two-level Data Staging Method. International Journal of Data Warehousing and Mining (IJDWM), 12(3):32-50, 2016\. [[PDF](https://www.igi-global.com/article/optimizing-etl-by-a-two-level-data-staging-method/168485)]
 
 48. [c] H. Huo, **X. Liu**, J. Li, and H. Yang. A Weighted K-AP Query Method for RSSI based Indoor Positioning. Proc. of the 27th Australasian Database Conference (ADC), pp. 150--163, 2016\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46922-5_12)]
-    
+
     #### 2015 & Before
 
 49. [c] **X. Liu**, Per Sieverts Nielsen. Streamlining Smart Meter Data Analytics. Proc. of the 10th Conference on Sustainable Development of Energy, Water and Environment Systems, SDEWES2015.0558,1-14, 2015\. [[PDF](http://orbit.dtu.dk/files/110737589/Streamlining_Smart_Meter_Data_Analytics.pdf)]
@@ -188,15 +188,26 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### Book Chapters:
 
-1. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
+65. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
 
 ### Technical Reports:
 
-1. Bergaentzlé, C., Bolwig, S., Juhler-Verdoner, H., Kubeczko, K., **Liu, X.**, Nørregaard, K., Rossi, J., Steen, D., Stengel, A., & Wieczorek, A. (2021). A Transition Perspective on Demand-Side Flexibility in the Integrated Energy System. Insights from the Danish ISGAN Annex 7 Project 2017-2021. [[PDF](https://orbit.dtu.dk/files/257239815/A_Transition_Perspective_on_Demand_Side_Flexibility_in_the_Integrated_Energy_System.pdf)]
-2. Ben Amer, S., Hjøllund, T., Nielsen, P. S., Madsen, H., Bergsteinsson, H. G., & **Liu, X.** (2021). Energy data: mapping, barriers and value creation. Technical Report, Technical Unviersity of Denmark. [[PDF](https://backend.orbit.dtu.dk/ws/portalfiles/portal/256510059/IDASC_Energy_data_mapping_barriers_and_value_creation.pdf)]
-3. **X. Liu**, C. Thomsen, and T. B. Pedersen. ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce, TR-29, Department of Computer Science, Aalborg University, 2011\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-29.pdf)]
-4. **X. Liu**, C. Thomsen, and T. B. Pedersen. CloudETL: Scalable Dimensional ETL for Hadoop and Hive, TR-30, Department of Computer Science, Aalborg University, 2012\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-31.pdf)]
-5. **X. Liu**, D. Truscan, and L. Lilius. Online Testing of the ABOT Game Server Using the Qtronic Tool, Turku Centre for Computer Science, 2008\. [[PDF](https://www.dropbox.com/s/ntptlhus6ghd1ae/TR_Abot.pdf?dl=0)]
+66. Bergaentzlé, C., Bolwig, S., Juhler-Verdoner, H., Kubeczko, K., **Liu, X.**, Nørregaard, K., Rossi, J., Steen, D., Stengel, A., & Wieczorek, A. (2021). A Transition Perspective on Demand-Side Flexibility in the Integrated Energy System. Insights from the Danish ISGAN Annex 7 Project 2017-2021. [[PDF](https://orbit.dtu.dk/files/257239815/A_Transition_Perspective_on_Demand_Side_Flexibility_in_the_Integrated_Energy_System.pdf)]
+67. Ben Amer, S., Hjøllund, T., Nielsen, P. S., Madsen, H., Bergsteinsson, H. G., & **Liu, X.** (2021). Energy data: mapping, barriers and value creation. Technical Report, Technical Unviersity of Denmark. [[PDF](https://backend.orbit.dtu.dk/ws/portalfiles/portal/256510059/IDASC_Energy_data_mapping_barriers_and_value_creation.pdf)]
+68. **X. Liu**, C. Thomsen, and T. B. Pedersen. ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce, TR-29, Department of Computer Science, Aalborg University, 2011\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-29.pdf)]
+69. **X. Liu**, C. Thomsen, and T. B. Pedersen. CloudETL: Scalable Dimensional ETL for Hadoop and Hive, TR-30, Department of Computer Science, Aalborg University, 2012\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-31.pdf)]
+70. **X. Liu**, D. Truscan, and L. Lilius. Online Testing of the ABOT Game Server Using the Qtronic Tool, Turku Centre for Computer Science, 2008\. [[PDF](https://www.dropbox.com/s/ntptlhus6ghd1ae/TR_Abot.pdf?dl=0)]
+
+### Other publications:
+
+71. **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
+72. **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
+73. **X. Liu**. Two-level Data Staging ETL for Transaction Data. Arxiv, CoRR abs/1409.1636, 2014 [[PDF](http://arxiv.org/abs/1409.1636)].
+74. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
+
+### PhD Thesis:
+
+75. **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
 ### Poster:
 
@@ -206,17 +217,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 4. **X. Liu**, P. S. Nielsen, and A. Heller. CITIESData: Towards Cloud-Based Big Data Management for Smart Cities [[PDF](https://www.dropbox.com/s/z9pvxy2pc6bqdlo/SmartCitiesDataMgnt_Poster.pdf?dl=0)].
 5. **X. Liu**, L. Golab, and I. llyas. SMAS: A Smart Meter Data Analytics System [[PDF](https://www.dropbox.com/s/fd107qe8ceq5ewn/smas_poster.pdf?dl=0)].
 6. **X. Liu**, C. Thomsen, and T. B. Pedersen. MapReduce-based Dimensional ETL Made Easy [[PDF](https://www.dropbox.com/s/d7v67gwcdp1rfbk/ETLMR_poster.pdf?dl=0)].
-
-### Other publications:
-
-1. **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
-2. **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
-3. **X. Liu**. Two-level Data Staging ETL for Transaction Data. Arxiv, CoRR abs/1409.1636, 2014 [[PDF](http://arxiv.org/abs/1409.1636)].
-4. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
-
-### PhD Thesis:
-
-- **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
 ------
 
@@ -289,7 +289,7 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 ### Reviewer for Conferences and Journals
 
 - **Field of Energy:**
-  
+
   * Applied Energy (2019-)
   * Energy (2019-)
   * Energies (2018, 2019)
@@ -299,7 +299,7 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
   * The Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES18, 19)
 
 - **Field of Computer Science:**
-  
+
   * International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020)
   * Journal of Knowledge and Information Systems, Springer (2018)
   * Journal of Computer Standards & Interfaces, Elsevier (2018)
