@@ -20,7 +20,7 @@ Technical University of Denmark
 
 ## Biography
 
-I am a Senior researcher (Associate Professor) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk). I am a member of the research group of [System Analysis](http://www.sustainability.man.dtu.dk/english/research/energy-systems-analysis) within the university.
+I am a Senior researcher (Associate Professor level) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk). I am a member of the research group of [System Analysis](http://www.sustainability.man.dtu.dk/english/research/energy-systems-analysis) within the university.
 
 I did my PhD at the Department of Computer Science ([Daisy research group](http://daisy.aau.dk)) in [Aalborg University (AAU)](http://www.aau.dk) Denmark from August 2008 to May 2012\. Prior to joining AAU, I was a scientific assistant in the [Åbo Akademi University](http://www.abo.fi) in Finland from September 2006 to July 2008\. During January 2013 to December 2014, I was a postdoctoral researcher in the [Data System Group](https://uwaterloo.ca/data-systems-group/) at [University of Waterloo](http://www.uwaterloo.ca), Canada, and at the same period, I was cross-appointed as a research scientist by IBM Toronto research center, where I worked on the [soscip](https://www.soscip.org) project.
 
@@ -48,7 +48,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 1. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. Accepted by ACM BuildSys, 2021 [[PDF](#)].
 
-2. [c] W. Dai, **X. Liu***, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
+2. [c] W. Dai, **X. Liu***, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
 
 3. [c] X. Cheng, **X. Liu**, Y. Liu, E. Onstein, L. Huang. A Novel Deep Neural Network for Non-intrusive Load Monitoring. The 16th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2021.
 
@@ -86,7 +86,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 19. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
     
-    #### 2019
+#### 2019
 
 20. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 
@@ -188,26 +188,15 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### Book Chapters:
 
-65. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
+1. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
 
 ### Technical Reports:
 
-66. Bergaentzlé, C., Bolwig, S., Juhler-Verdoner, H., Kubeczko, K., **Liu, X.**, Nørregaard, K., Rossi, J., Steen, D., Stengel, A., & Wieczorek, A. (2021). A Transition Perspective on Demand-Side Flexibility in the Integrated Energy System. Insights from the Danish ISGAN Annex 7 Project 2017-2021. [[PDF](https://orbit.dtu.dk/files/257239815/A_Transition_Perspective_on_Demand_Side_Flexibility_in_the_Integrated_Energy_System.pdf)]
-67. Ben Amer, S., Hjøllund, T., Nielsen, P. S., Madsen, H., Bergsteinsson, H. G., & **Liu, X.** (2021). Energy data: mapping, barriers and value creation. Technical Report, Technical Unviersity of Denmark. [[PDF](https://backend.orbit.dtu.dk/ws/portalfiles/portal/256510059/IDASC_Energy_data_mapping_barriers_and_value_creation.pdf)]
-68. **X. Liu**, C. Thomsen, and T. B. Pedersen. ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce, TR-29, Department of Computer Science, Aalborg University, 2011\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-29.pdf)]
-69. **X. Liu**, C. Thomsen, and T. B. Pedersen. CloudETL: Scalable Dimensional ETL for Hadoop and Hive, TR-30, Department of Computer Science, Aalborg University, 2012\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-31.pdf)]
-70. **X. Liu**, D. Truscan, and L. Lilius. Online Testing of the ABOT Game Server Using the Qtronic Tool, Turku Centre for Computer Science, 2008\. [[PDF](https://www.dropbox.com/s/ntptlhus6ghd1ae/TR_Abot.pdf?dl=0)]
-
-### Other publications:
-
-71. **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
-72. **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
-73. **X. Liu**. Two-level Data Staging ETL for Transaction Data. Arxiv, CoRR abs/1409.1636, 2014 [[PDF](http://arxiv.org/abs/1409.1636)].
-74. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
-
-### PhD Thesis:
-
-75. **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
+1. Bergaentzlé, C., Bolwig, S., Juhler-Verdoner, H., Kubeczko, K., **Liu, X.**, Nørregaard, K., Rossi, J., Steen, D., Stengel, A., & Wieczorek, A. (2021). A Transition Perspective on Demand-Side Flexibility in the Integrated Energy System. Insights from the Danish ISGAN Annex 7 Project 2017-2021. [[PDF](https://orbit.dtu.dk/files/257239815/A_Transition_Perspective_on_Demand_Side_Flexibility_in_the_Integrated_Energy_System.pdf)]
+2. Ben Amer, S., Hjøllund, T., Nielsen, P. S., Madsen, H., Bergsteinsson, H. G., & **Liu, X.** (2021). Energy data: mapping, barriers and value creation. Technical Report, Technical Unviersity of Denmark. [[PDF](https://backend.orbit.dtu.dk/ws/portalfiles/portal/256510059/IDASC_Energy_data_mapping_barriers_and_value_creation.pdf)]
+3. **X. Liu**, C. Thomsen, and T. B. Pedersen. ETLMR: A Highly Scalable Dimensional ETL Framework Based on MapReduce, TR-29, Department of Computer Science, Aalborg University, 2011\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-29.pdf)]
+4. **X. Liu**, C. Thomsen, and T. B. Pedersen. CloudETL: Scalable Dimensional ETL for Hadoop and Hive, TR-30, Department of Computer Science, Aalborg University, 2012\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-31.pdf)]
+5. **X. Liu**, D. Truscan, and L. Lilius. Online Testing of the ABOT Game Server Using the Qtronic Tool, Turku Centre for Computer Science, 2008\. [[PDF](https://www.dropbox.com/s/ntptlhus6ghd1ae/TR_Abot.pdf?dl=0)]
 
 ### Poster:
 
@@ -217,6 +206,17 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 4. **X. Liu**, P. S. Nielsen, and A. Heller. CITIESData: Towards Cloud-Based Big Data Management for Smart Cities [[PDF](https://www.dropbox.com/s/z9pvxy2pc6bqdlo/SmartCitiesDataMgnt_Poster.pdf?dl=0)].
 5. **X. Liu**, L. Golab, and I. llyas. SMAS: A Smart Meter Data Analytics System [[PDF](https://www.dropbox.com/s/fd107qe8ceq5ewn/smas_poster.pdf?dl=0)].
 6. **X. Liu**, C. Thomsen, and T. B. Pedersen. MapReduce-based Dimensional ETL Made Easy [[PDF](https://www.dropbox.com/s/d7v67gwcdp1rfbk/ETLMR_poster.pdf?dl=0)].
+
+### Other publications:
+
+1. **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
+2. **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
+3. **X. Liu**. Two-level Data Staging ETL for Transaction Data. Arxiv, CoRR abs/1409.1636, 2014 [[PDF](http://arxiv.org/abs/1409.1636)].
+4. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
+
+### PhD Thesis:
+
+- **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
 ------
 
@@ -235,20 +235,20 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Supervision
 
 - **Postdoc:**
-  - Jiawei Wang (2021.01 - )
-  - Zhibin Niu (2019.10 - 2021.09)
+  - Jiawei Wang (2021.01 - present)
+  - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
   - Wenjing Dai (2019.04 - present), Principle supervisor
   - Marco Biemann (2019.12 - present), Principle supervisor
   - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Lund University, Sweden, Co-supervisor
-  - Angreine Kewo (2016.04 - 2020.12),  Co-supervisor
+  - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
-  - Casper Hegner Jonsson (2019.02 - 2019.08)
-  - Yingrui Li (2021.01-2021.07)
-  - Chanyu Yang (2021.01-2021.07)
-  - Yucheng Ren (2021.01-2021.07)
-  - Roberto Monaco (2021.01-2021.07)
-  - Peter Steen Nymann Rasmussen (2021.04-2021.10)
+  - <span style="color:#6b778d">Casper Hegner Jonsson (2019.02 - 2019.08)</span>
+  - <span style="color:#6b778d">Yingrui Li (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Chanyu Yang (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Yucheng Ren (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Roberto Monaco (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Peter Steen Nymann Rasmussen (2021.04-2021.10)</span>
 
 ------
 
@@ -258,9 +258,9 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 
 - **CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, **Role:** Participant, Date:1/12 2020-2022　　
 - **[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
-- **[EMB3Rs](<https://www.emb3rs.eu/>):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
+- **[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
 - **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
-- **FED:** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
+- **[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
 - Reinforcement learning for autonomous building energy managment, **Role:** PI, Date: 12/1 2019 - 11/30 2022
 - <span style="color:#6b778d">**CVAES:** Cognitive Visual Analytics for Smart Energy Systems, **Role:** PI, Date: 1/10 2019 - 30/9 2021</span>
 - <span style="color:#6b778d">**IDASC:** Data lake, **Role:** WP2 lead, Date: 12/2018 - 06/2021.</span>
@@ -291,6 +291,7 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 - **Field of Energy:**
   
   * Applied Energy (2019-)
+  * Energy (2019-)
   * Energies (2018, 2019)
   * IEEE Transactions on Smart Grid (2018, 2019)
   * IET Smart Grid (2019)
@@ -329,6 +330,14 @@ I developed the following open source software systems in my previous research w
 10. [3XL](https://github.com/xiufengliu/3XL): An efficient OWL/RDF Triple Store Supporting Bulk Operations
 11. [ETLMR](https://github.com/xiufengliu/ETLMR): A Python-based Dimensional ETL Framework based on MapReduce (Obsolete)
 12. [All-RiTE](https://github.com/xiufengliu/allrite): A Right-time ETL middle-ware Supporting Insert, Update and Delete Operations (not released yet)
+
+------
+
+## Useful links
+
+1. [HelloGithub](https://hellogithub.com/): Interesting open-sourced projects
+2. [MoviePy](https://zulko.github.io/moviepy/index.html): Video editing tool
+3. [vscode](https://vscode.dev)
 
 ------
 
