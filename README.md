@@ -1,5 +1,5 @@
 
-![](file://C:\Users\xiuli\Dropbox\xiufengliu.github.io\banner.png?lastModify=1636296053)
+![](./banner.png)
 
 # Dr. Xiufeng Liu
 
