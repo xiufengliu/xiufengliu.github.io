@@ -51,9 +51,11 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Publications
 
 ### Peer-reviewed papers (*: Corresponding author; [c]: Conference; [j]: Journal):
+
     ```
     2021
     ```
+
 1.  [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. Accepted by ACM BuildSys, 2021 [[PDF](#)].
     
 2.  [c] W. Dai, **X. Liu***, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
@@ -83,6 +85,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     2020
     ```
+
 14. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020 [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
     
 15.  [c] J. Wu, Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. _arXiv preprint arXiv:2006.09487_, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
@@ -98,6 +101,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     2019
     ```
+
 20.  [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. _Energies_, _12_(17):3326, 2019. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
     
 21.  [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
@@ -113,6 +117,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     2018
     ```   
+
 26.  [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
     
 27.  [c] P. Manembu, A. Kewo, **X. Liu**, P.S. Nielsen. Multi-grained Household Load Profile Analysis using Smart Meter Data: The Case of Indonesia. Proc. of IEEE 2nd Borneo International Conference on Applied Mathematics and Engineering (BICAME), pp. 213-217, 2018. [[PDF](https://ieeexplore.ieee.org/document/9084622)]
@@ -130,6 +135,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     2017
     ```    
+
 33.  [c] A. Kewo, P. Manembu, P. S. Nielsen, and **X. Liu**. Modelling of electricity consumption in one of Asia’s most populous cities - Jakarta, Indonesia. Proc. of the 12th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2017. [[PDF](#)]
     
 34.  [c] H. Huo, **X. Liu**, D. Zheng, Z. Wu, S. Yu, L. Liu. Collaborative Filtering Fusing Label Features Based on SDAE. Proc. of ICDM, pp. 223-236, 2017. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-62701-4_17)]
@@ -153,6 +159,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     2016
     ```   
+
 43.  [c] **X. Liu**, N. Iftikhar, P. S. Nielsen, and A. Heller. Online Anomaly Energy Consumption Detection Using Lambda Architecture. Proc. of the 18th International Conference on Big Data Analytics and Knowledge Discovery (DaWaK), pp. 193-209, 2016. [[PDF](https://link.springer.com/chapter/10.1007/978-3-319-43946-4_13)] [[Slides](https://www.dropbox.com/s/kl7m0z0x64puejn/DaWak_XiufengLiu.pdf?dl=0)]
     
 44.  [c] N. Iftikhar, **X. Liu**, F. E. Nordbjerg, and S. Danalachi. A Prediction-based Smart Meter Data Generator. Proc. of the 19th International Conference of Network-based Information Systems (NBIS), 2016. [[PDF](https://www.researchgate.net/profile/Nadeem_Iftikhar/publication/306287325_A_Prediction-based_Smart_Meter_Data_Generator/links/57b6e42408aea2f4aec36cfc.pdf)] [[Slides](https://www.dropbox.com/s/mvjg1iapn33jvps/Prediction_based_data_generator_slides.pdf?dl=0)]
@@ -168,6 +175,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     2015 & Before
     ```    
+
 49.  [c] **X. Liu**, Per Sieverts Nielsen. Streamlining Smart Meter Data Analytics. Proc. of the 10th Conference on Sustainable Development of Energy, Water and Environment Systems, SDEWES2015.0558,1-14, 2015. [[PDF](http://orbit.dtu.dk/files/110737589/Streamlining_Smart_Meter_Data_Analytics.pdf)]
     
 50.  [c] N. Iftikhar, **X. Liu**, and F. E. Nordbjerg. Relational-Based Sensor Data Cleansing. Proc. of 19th East-European Conference on Advances in Databases and Information Systems (ADBIS), pp. 108-118, 2015. [[PDF](https://www.dropbox.com/s/0bghbfnjhlt4q52/RelationalBasedDataCleansing.pdf?dl=0)]
@@ -203,11 +211,13 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     Book Chapters:
     ```
+
 65.  **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)] 
 
     ```
     Technical Reports:
     ```
+
 66.  Bergaentzlé, C., Bolwig, S., Juhler-Verdoner, H., Kubeczko, K., **Liu, X.**, Nørregaard, K., Rossi, J., Steen, D., Stengel, A., & Wieczorek, A. (2021). A Transition Perspective on Demand-Side Flexibility in the Integrated Energy System. Insights from the Danish ISGAN Annex 7 Project 2017-2021. [[PDF](https://orbit.dtu.dk/files/257239815/A_Transition_Perspective_on_Demand_Side_Flexibility_in_the_Integrated_Energy_System.pdf)]
     
 67.  Ben Amer, S., Hjøllund, T., Nielsen, P. S., Madsen, H., Bergsteinsson, H. G., & **Liu, X.** (2021). Energy data: mapping, barriers and value creation. Technical Report, Technical Unviersity of Denmark. [[PDF](https://backend.orbit.dtu.dk/ws/portalfiles/portal/256510059/IDASC_Energy_data_mapping_barriers_and_value_creation.pdf)]
@@ -221,6 +231,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     Other publications:
     ```
+
 71.  **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
     
 72.  **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
@@ -232,6 +243,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
     ```
     PhD Thesis:
     ```
+    
 75.  **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
     
 
