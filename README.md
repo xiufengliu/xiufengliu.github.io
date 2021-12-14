@@ -186,7 +186,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 64. [j] S. Kang and **X. Liu**. Online Model-based Testing Design Using the Qtronic Tool. Journal of Northeast Normal University (Natural Science Edition), 42(4), 2010.
 
- ### Book Chapters:
+  ### Book Chapters:
 
 65. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
 
