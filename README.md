@@ -186,11 +186,11 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 64. [j] S. Kang and **X. Liu**. Online Model-based Testing Design Using the Qtronic Tool. Journal of Northeast Normal University (Natural Science Edition), 42(4), 2010.
 
-### Book Chapters:
+  ### Book Chapters:
 
 65. **X. Liu**, H. Huo, N. Iftikhar, and P. S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing (110817-035954). Big Data Warehousing Book (Invitation) [[PDF](#)]
 
-### Technical Reports:
+  ### Technical Reports:
 
 66. Bergaentzlé, C., Bolwig, S., Juhler-Verdoner, H., Kubeczko, K., **Liu, X.**, Nørregaard, K., Rossi, J., Steen, D., Stengel, A., & Wieczorek, A. (2021). A Transition Perspective on Demand-Side Flexibility in the Integrated Energy System. Insights from the Danish ISGAN Annex 7 Project 2017-2021. [[PDF](https://orbit.dtu.dk/files/257239815/A_Transition_Perspective_on_Demand_Side_Flexibility_in_the_Integrated_Energy_System.pdf)]
 67. Ben Amer, S., Hjøllund, T., Nielsen, P. S., Madsen, H., Bergsteinsson, H. G., & **Liu, X.** (2021). Energy data: mapping, barriers and value creation. Technical Report, Technical Unviersity of Denmark. [[PDF](https://backend.orbit.dtu.dk/ws/portalfiles/portal/256510059/IDASC_Energy_data_mapping_barriers_and_value_creation.pdf)]
@@ -198,14 +198,14 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 69. **X. Liu**, C. Thomsen, and T. B. Pedersen. CloudETL: Scalable Dimensional ETL for Hadoop and Hive, TR-30, Department of Computer Science, Aalborg University, 2012\. [[PDF](http://dbtr.cs.aau.dk/DBPublications/DBTR-31.pdf)]
 70. **X. Liu**, D. Truscan, and L. Lilius. Online Testing of the ABOT Game Server Using the Qtronic Tool, Turku Centre for Computer Science, 2008\. [[PDF](https://www.dropbox.com/s/ntptlhus6ghd1ae/TR_Abot.pdf?dl=0)]
 
-### Other publications:
+  ### Other publications:
 
 71. **X. Liu**. Regression-based Online Anomaly Detection for Smart Grid Data. Arxiv, CoRR abs/1606.05781, 2016 [[PDF](http://arxiv.org/abs/1606.05781)].
 72. **X. Liu**. Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods. Arxiv, CoRR abs/1409.1639, 2014 [[PDF](http://arxiv.org/abs/1409.1639)].
 73. **X. Liu**. Two-level Data Staging ETL for Transaction Data. Arxiv, CoRR abs/1409.1636, 2014 [[PDF](http://arxiv.org/abs/1409.1636)].
 74. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
 
-### PhD Thesis:
+  ### PhD Thesis:
 
 75. **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
