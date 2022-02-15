@@ -54,7 +54,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 4. [c] X. Cheng, **X. Liu***, Z. Niu, L. Huang, P. S. Nielsen. Imbalanced Federated Learning Model for Blade Icing Detection of Wind Turbines. The 16th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2021.
 
-5. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. Accepted by *Advances in Computers*, Elsevier, 2021. [[PDF](#)]
+5. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. *Advances in Computers*, Elsevier, 2021. [[PDF](https://doi.org/10.1016/bs.adcom.2021.09.006)]
 
 6. X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. Early Access, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
 
