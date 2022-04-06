@@ -43,9 +43,9 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 ## Publications
 
 ### Peer-reviewed papers (*: Corresponding author; [c]: Conference; [j]: Journal; [b]: Book chapter):
-
+  
 ### 2022:
-1. [j] X. Cheng, **X. Liu**, Y. Liu, E. Onstein, L. Huang. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics, 2022.
+1. [j] X. Cheng, **X. Liu**, Y. Liu, E. Onstein, L. Huang. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics, In press, 2022.
 ### 2021:
 2. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. In Proc. of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 324-328, 2021 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3486611.3488730)].
 3. [c] W. Dai, **X. Liu***, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
