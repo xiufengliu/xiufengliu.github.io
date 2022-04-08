@@ -200,32 +200,40 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 - International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2017)
 - IEEE Electrical Power and Energy Conference (EPEC 2016)
 
-### Reviewer for Conferences and Journals
+### Reviewer for Journals and Conferences
 
-- **Field of Energy:**
+- **Journals:**
 
-  * Applied Energy (2019-)
-  * Energy (2019-)
-  * Energies (2018, 2019)
-  * IEEE Transactions on Smart Grid (2018- )
-  * IEEE Transactions on Big Data (2018- )
-  * IET Smart Grid (2019)
-  * International Journal of Electrical Power and Energy Systems (2018)
-  * The Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES18, 19)
+  * Applied Energy, Elsevier (11)
+  * Blockchain: Research and Application, Elsevier (2)
+  * Cities, Elsevier (1)
+  * Computer Standards & interfaces, Elsevier (2)
+  * Data & Knowledge Engineering, Elsevier (2)
+  * Energy and AI, Elsevier (1)
+  * Energy and Building, Elsevier (4)
+  * Expert Systems with Applications, Elsevier (3)
+  * Information Systems, Elsevier (4)
+  * International Journal of Electrical Power and Energy Systems, Elsevier (1)
+  * Journal of Knowledge and Information Systems, Springer (2)
+  * Energy Informatics, Springer (2)
+  * Energies, MDPI (2)
+  * IEEE Transactions on Smart Grid, IEEE (12)
+  * IEEE Transactions on Big Data, IEEE (3)
+  * IEEE industrial informatics, IEEE (2)
+  * IET Smart Grid, IET (1)
+  * The VLDB Journal (3)
+  
 
-- **Field of Computer Science:**
+- **Conferences:**
 
-  * International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020)
-  * Journal of Knowledge and Information Systems, Springer (2018)
-  * Journal of Computer Standards & Interfaces, Elsevier (2018)
-  * Journal of Data Knowledge Engineering (DKE, 2017)
-  * The VLDB Journal (VLDBJ, 2017)
-  * IEEE Transactions on Big Data (2016)
-  * Information Systems (2016,2017,2019)
-  * IoTBG (2016 - 2020)
-  * The 26th International Conference on Scientific and Statistical Database Management (SSDBM, 2014)
-  * Proceedings of the VLDB Endowment (PVLDB, 2014)
-  * ICDCS (2013)
+  * International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (2)
+  * The Conference on Sustainable Development of Energy, Water and Environment Systems (6) 
+  * International Conference on Big Data Analytics and Knowledge Discovery (DaWaK) (4)
+  * International Conference on Scientific and Statistical Database Management (1)
+  * Energy Informatics (4)
+  * IoTBG (12)
+  * VLDB (2)
+  * ICDCS (1)
 
 ------
 
