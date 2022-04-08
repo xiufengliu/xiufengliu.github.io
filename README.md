@@ -169,6 +169,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 I am working on the following research projects, *with the role of PI/WP Lead/Participant*:
 
+- **RES4CITY**: Renewable Energies System for Cities (<span style="color:red">New</span>), EU Horizon project, **Role:** Participant, Date:1/6 2022 -　　
 - **CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, **Role:** Participant, Date:1/12 2020-2022　　
 - **[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
 - **[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
@@ -255,4 +256,4 @@ I developed the following open source software systems in my previous research w
 
 ------
 
-_Last updated: Dec 15, 2021_
+_Last updated: April 10, 2022_
