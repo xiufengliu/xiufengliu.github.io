@@ -212,6 +212,7 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
   * Energy and AI, Elsevier (1)
   * Energy and Building, Elsevier (4)
   * Expert Systems with Applications, Elsevier (3)
+  * Sustainable Energy, Grids and Networks, Elsevier (4)
   * Information Systems, Elsevier (4)
   * International Journal of Electrical Power and Energy Systems, Elsevier (1)
   * Journal of Knowledge and Information Systems, Springer (2)
