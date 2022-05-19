@@ -261,7 +261,7 @@ I developed the following open source software systems in my previous research w
 
 1. [HelloGithub](https://hellogithub.com/): Interesting open-sourced projects
 2. [MoviePy](https://zulko.github.io/moviepy/index.html): Video editing tool
-3. [vscode](https://vscode.dev)
+3. [Paper Writing tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
 ------
 
