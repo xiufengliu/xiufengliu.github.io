@@ -44,9 +44,8 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### Peer-reviewed papers (*: Corresponding author; [c]: Conference; [j]: Journal; [b]: Book chapter):
 
-
 ### 2022:
-1. [j] J. Li, Z. Chen, L. Cheng, **X. Liu**. Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks. Energy, 2022. 
+1. [j] J. Li, Z. Chen, L. Cheng, **X. Liu**. Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks. Energy, Vol. 257, 124694, 2022. [[PDF](https://doi.org/10.1016/j.energy.2022.124694)]
 2. [c] X. Cheng, D. Li, **X. Liu**. A review of federated learning in Energy Systems.  IEEE IAS Industrial and Commercial Power System Asia, Accepted, 6 pages,  2022.
 3. [j] X. Cheng, F. Shi, Y. Liu,  **X. Liu*** and L. Huang*. Wind Turbine Icing Detection: A Federated Learning Approach. Energy, vol. 254, Part C, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222013445)]
 4. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics, Early Access, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
