@@ -46,17 +46,18 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### 2022:
 1. [j] J. Li, Z. Chen, L. Cheng, **X. Liu**. Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks. Energy, Vol. 257, 124694, 2022. [[PDF](https://doi.org/10.1016/j.energy.2022.124694)]
-2. [c] X. Cheng, D. Li, **X. Liu**. A review of federated learning in Energy Systems.  IEEE IAS Industrial and Commercial Power System Asia, Accepted, 6 pages,  2022.
-3. [j] X. Cheng, F. Shi, Y. Liu,  **X. Liu*** and L. Huang*. Wind Turbine Icing Detection: A Federated Learning Approach. Energy, vol. 254, Part C, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222013445)]
-4. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics, Early Access, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
-5. [j] X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. 33(6), 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
+2. [j] J. Peng, A. Kimmig, D. Wang, Z. Fan, J. Wang, **X. Liu**, J. Ovtcharova. An overview of data-driven approaches to fault diagnosis and early warning. Journal of Intelligent Manufacturing, 2022, In press. 
+3. [c] X. Cheng, D. Li, **X. Liu**. A review of federated learning in Energy Systems.  IEEE IAS Industrial and Commercial Power System Asia, Accepted, 6 pages,  2022.
+4. [j] X. Cheng, F. Shi, Y. Liu,  **X. Liu*** and L. Huang*. Wind Turbine Icing Detection: A Federated Learning Approach. Energy, vol. 254, Part C, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222013445)]
+5. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics, Early Access, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
+6. [j] X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. 33(6), 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
 
 ### 2021:
-6. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. In Proc. of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 324-328, 2021 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3486611.3488730)].
-7. [c] W. Dai, **X. Liu***, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
-8. [c] X. Cheng, **X. Liu**, Y. Liu, E. Onstein, L. Huang. A Novel Deep Neural Network for Non-intrusive Load Monitoring. The 16th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2021.
-9. [c] X. Cheng, **X. Liu***, Z. Niu, L. Huang, P. S. Nielsen. Imbalanced Federated Learning Model for Blade Icing Detection of Wind Turbines. The 16th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2021.
-10. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. *Advances in Computers*, Elsevier, 2021. [[PDF](https://doi.org/10.1016/bs.adcom.2021.09.006)]
+7. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. In Proc. of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 324-328, 2021 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3486611.3488730)].
+8. [c] W. Dai, **X. Liu***, A. Heller, and P.S. Sieverts. Smart Meter Data Anomaly Detection using Variational Recurrent Autoencoders with Attention. Proc. of the 4th International Conference on Intelligent Technologies and Applications, 2021. [[PDF](#)]
+9. [c] X. Cheng, **X. Liu**, Y. Liu, E. Onstein, L. Huang. A Novel Deep Neural Network for Non-intrusive Load Monitoring. The 16th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2021.
+10. [c] X. Cheng, **X. Liu***, Z. Niu, L. Huang, P. S. Nielsen. Imbalanced Federated Learning Model for Blade Icing Detection of Wind Turbines. The 16th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2021.
+11. [j] B. Khan, **X. Liu**, SA. Ali, and M. Alam. Bivariate, Cluster and Suitability Analysis of NoSQL Solutions for Different Application Areas. *Advances in Computers*, Elsevier, 2021. [[PDF](https://doi.org/10.1016/bs.adcom.2021.09.006)]
 11. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, D. Wanga, J. Ovtcharova. Wind turbine failure prediction and health assessment based on adaptive maximum mean discrepancy. International Journal of Electrical Power and Energy Systems. Vol. 134, 107391, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S014206152100630X/pdfft?md5=c95902f630604cb4e028af19c92cde0c&pid=1-s2.0-S014206152100630X-main.pdf)]
 12. [j] J. Peng, A. Kimmig, Z. Niu, J. Wang, **X. Liu**, J. Ovtcharova. A flexible potential-flow model based high resolution spatiotemporal energy demand forecasting framework. Applied Energy, vol. 299: 117321, 2021. [[PDF](https://doi.org/10.1016/j.apenergy.2021.117321)]
 13. [j] J. Peng, A. Kimmig, J. Wang, **X. Liu***, Z. Niu, J. Ovtcharova. Dual-stage Attention-based Long Short-Term Memory Neural Network for Energy Demand Prediction. Energy & Building, 111211, 2021. [[PDF](https://doi.org/10.1016/j.enbuild.2021.111211)]
@@ -137,7 +138,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 78. **X. Liu**, C. Thomsen, and T. B. Pedersen. All-RiTE: Right-Time ETL for Live DW Data, 12 pages, 2014 [[PDF](https://www.dropbox.com/s/zyewzgwa730lg3a/allrite.pdf?dl=0)].
 
 ### PhD Thesis:
-78. 
 78. **X. Liu**, Data Warehousing Technologies for Large-scale and Right-time Data, defence on June 2012 [[PDF](http://orbit.dtu.dk/ws/files/110670162/Data_Warehousing_Technologies.pdf)]
 
 
