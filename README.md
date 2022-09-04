@@ -46,7 +46,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### 2022:
 1. [j] J. Li, Z. Chen, L. Cheng, **X. Liu**. Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks. Energy, Vol. 257, 124694, 2022. [[PDF](https://doi.org/10.1016/j.energy.2022.124694)]
-2. [j] J. Peng, A. Kimmig, D. Wang, Z. Fan, J. Wang, **X. Liu**, J. Ovtcharova. An overview of data-driven approaches to fault diagnosis and early warning. Journal of Intelligent Manufacturing, 2022, In press. 
+2. [j] J. Peng, A. Kimmig, D. Wang, Z. Fan, J. Wang, **X. Liu**, J. Ovtcharova. A systematic review of data-driven approaches to fault diagnosis and early warning. Journal of Intelligent Manufacturing, 2022, In press. 
 3. [c] X. Cheng, D. Li, **X. Liu**. A review of federated learning in Energy Systems.  IEEE IAS Industrial and Commercial Power System Asia, Accepted, 6 pages,  2022.
 4. [j] X. Cheng, F. Shi, Y. Liu,  **X. Liu*** and L. Huang*. Wind Turbine Icing Detection: A Federated Learning Approach. Energy, vol. 254, Part C, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222013445)]
 5. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics, Early Access, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
@@ -165,7 +165,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
   - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
-  - Philipp Sedlmeier (2021.12 - present)
+  - <span style="color:#6b778d">Philipp Sedlmeier (2021.12 - 2022.06)</span>
   - <span style="color:#6b778d">Casper Hegner Jonsson (2019.02 - 2019.08)</span>
   - <span style="color:#6b778d">Yingrui Li (2021.01-2021.07)</span>
   - <span style="color:#6b778d">Chanyu Yang (2021.01-2021.07)</span>
@@ -180,11 +180,11 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 I am working on the following research projects, *with the role of PI/WP Lead/Participant*:
 
 - **RES4CITY**: Renewable Energies System for Cities (<span style="color:red">New</span>), EU Horizon project, **Role:** Participant, Date:1/6 2022 -　　
-- **CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, **Role:** Participant, Date:1/12 2020-2022　　
 - **[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 
 - **[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 -  
-- **HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 18/3 2022
 - **[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, **Role:** Participant, Date: 9/4 2019 - 8/4 2023
+- <span style="color:#6b778d">**CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, **Role:** Participant, Date:1/12 2020-2022</span>　　
+- <span style="color:#6b778d">**HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 22/8 2022</span>
 - Reinforcement learning for autonomous building energy managment, **Role:** PI, Date: 12/1 2019 - 11/30 2022
 - <span style="color:#6b778d">**CVAES:** Cognitive Visual Analytics for Smart Energy Systems, **Role:** PI, Date: 1/10 2019 - 30/9 2021</span>
 - <span style="color:#6b778d">**IDASC:** Data lake, **Role:** WP2 lead, Date: 12/2018 - 06/2021.</span>
