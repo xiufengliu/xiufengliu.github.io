@@ -49,8 +49,9 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 2. [j] J. Peng, A. Kimmig, D. Wang, Z. Fan, J. Wang, **X. Liu**, J. Ovtcharova. A systematic review of data-driven approaches to fault diagnosis and early warning. Journal of Intelligent Manufacturing, 2022, In press. 
 3. [c] X. Cheng, D. Li, **X. Liu**. A review of federated learning in Energy Systems.  IEEE IAS Industrial and Commercial Power System Asia, Accepted, 6 pages,  2022.
 4. [j] X. Cheng, F. Shi, Y. Liu,  **X. Liu*** and L. Huang*. Wind Turbine Icing Detection: A Federated Learning Approach. Energy, vol. 254, Part C, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222013445)]
-5. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics, Early Access, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
+5. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics,  18(12):8487-8497, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
 6. [j] X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. 33(6), 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
+7. [j] Z. Lai, X. Cheng, **X. Liu**, P. Liu, L. Huang. A Novel Multiscale Wavelet-Driven Graph Convolutional Network for Blade Icing Detection of Wind Turbine, IEEE Sensors Journal, 2022 accepted. [PDF](#)]
 
 ### 2021:
 7. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. In Proc. of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 324-328, 2021 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3486611.3488730)].
@@ -271,6 +272,7 @@ I developed the following open source software systems in my previous research w
 1. [HelloGithub](https://hellogithub.com/): Interesting open-sourced projects
 2. [MoviePy](https://zulko.github.io/moviepy/index.html): Video editing tool
 3. [Paper Writing tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+4. [Tips for faculty jobs](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
 
 ------
 
