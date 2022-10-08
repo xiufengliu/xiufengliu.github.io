@@ -51,7 +51,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 4. [j] X. Cheng, F. Shi, Y. Liu,  **X. Liu*** and L. Huang*. Wind Turbine Icing Detection: A Federated Learning Approach. Energy, vol. 254, Part C, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222013445)]
 5. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics,  18(12):8487-8497, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
 6. [j] X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. 33(6), 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
-7. [j] Z. Lai, X. Cheng, **X. Liu**, P. Liu, L. Huang. A Novel Multiscale Wavelet-Driven Graph Convolutional Network for Blade Icing Detection of Wind Turbine, IEEE Sensors Journal, 2022 accepted. [PDF](https://ieeexplore.ieee.org/document/9913320)]
+7. [j] Z. Lai, X. Cheng, **X. Liu**, P. Liu, L. Huang. A Novel Multiscale Wavelet-Driven Graph Convolutional Network for Blade Icing Detection of Wind Turbine, IEEE Sensors Journal, 2022 accepted. [[PDF](https://ieeexplore.ieee.org/document/9913320)]
 
 ### 2021:
 7. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. In Proc. of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 324-328, 2021 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3486611.3488730)].
