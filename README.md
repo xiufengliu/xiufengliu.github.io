@@ -56,7 +56,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 8. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics,  18(12):8487-8497, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
 9. [j] X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. 33(6), 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
 10. [j] Z. Lai, X. Cheng, **X. Liu**, P. Liu, L. Huang. A Novel Multiscale Wavelet-Driven Graph Convolutional Network for Blade Icing Detection of Wind Turbine,  IEEE Sensors Journal, 2022, doi: 10.1109/JSEN.2022.3211079. [[PDF](https://ieeexplore.ieee.org/document/9913320)]
-
    ### 2021:
 
 11. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. In Proc. of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 324-328, 2021 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3486611.3488730)].
@@ -71,14 +70,16 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 20. [j] M.  Biemann, F. Scheller,   **X. Liu***, L. Huang. Experimental evaluation of model-free reinforcement learning algorithms for continuous HVAC control. Applied Energy,  298:117164, 2021 [[PDF](https://doi.org/10.1016/j.apenergy.2021.117164 )].
 21. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 22. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
-   ### 2020 & before:
-
+   ### 2020:
+   
 23. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
 24. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
 25. [J] Y. Zhou, Y. Yang, H. Liu, **X. Liu**, N. Savage. Deep Learning Based Fusion Approach for Hate Speech Detection. IEEE Access, 2020  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139953)].
 26. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. Liu, X., Lai, Z., Wang, X., Huang, L., & Nielsen, P. S. (2020, November). A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. Proc. of *International Conference on Neural Information Processing* (pp. 733-742). 2020. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_83)] 
 27. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, pp. 93-110, 2020. [[PDF](https://doi.org/10.1007/978-3-030-59051-2_7)] 
 28. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
+   ### 2019 & before:
+
 29. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
 30. [j] S. Khan, M. Alam, **X. Liu**, and K.A. Shakil. Big Data Technology-Enabled Analytical Solution for Quality Assessment of Higher Education Systems. _International Journal of Advanced Computer Science and Applications_, _10_(6):292-304, 2019. [[PDF](https://thesai.org/Downloads/Volume10No6/Paper_40-Big_Data_Technology.pdf)]
 31. [j] **X. Liu**, H. Huo,  N. Iftikhar, and P.S. Nielsen. A Two-Tiered Segmentation Approach for Transaction Data Warehousing. Emerging Perspectives in Big Data Warehousing, pp. 1-27, IGI Global, 2019\. [[PDF](https://www.igi-global.com/chapter/a-two-tiered-segmentation-approach-for-transaction-data-warehousing/231006)]
