@@ -46,7 +46,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### 2022:
 
-1. [J] J. Wu, Z. Niu, P.S. Nielsen, L. Huang, \textbf{X. Liu}*. Understanding Multi-scale Spatiotemporal Energy Consumption Data: A Visual Analysis Approach, Energy, 2022, In press. [[PDF](#)] 
+1. [j] J. Wu, Z. Niu, P.S. Nielsen, L. Huang, **X. Liu***. Understanding Multi-scale Spatiotemporal Energy Consumption Data: A Visual Analysis Approach, Energy, 2022, In press. [[PDF](#)] 
 2. [j]. K. Wan, **X. Liu**, Y. Liu, M. Nowostawski, H. Holtskog, L. Huang, Automated infection risks assessments (AIRa) for decision-making using a blockchain-based alert system : a case study in a representative building. Environmental Research, 2022,  In press. [[PDF](#)] 
 3. [j] J. Li, Z. Chen, L. Cheng, **X. Liu**. Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks. Energy, Vol. 257, 124694, 2022. [[PDF](https://doi.org/10.1016/j.energy.2022.124694)]
 4. [j] J. Peng, A. Kimmig, D. Wang, Z. Fan, J. Wang, **X. Liu**, J. Ovtcharova. A systematic review of data-driven approaches to fault diagnosis and early warning. Journal of Intelligent Manufacturing, 2022, doi: 10.1007/s10845-022-02020-0.  [[PDF](https://link.springer.com/article/10.1007/s10845-022-02020-0)]
