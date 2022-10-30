@@ -56,7 +56,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 8. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics,  18(12):8487-8497, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
 9. [j] X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. 33(6), 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
 10. [j] Z. Lai, X. Cheng, **X. Liu**, P. Liu, L. Huang. A Novel Multiscale Wavelet-Driven Graph Convolutional Network for Blade Icing Detection of Wind Turbine,  IEEE Sensors Journal, 2022, doi: 10.1109/JSEN.2022.3211079. [[PDF](https://ieeexplore.ieee.org/document/9913320)]
-
 ### 2021:
 
 11. [c] M. Biemann, Y. Zeng, **X. Liu***, and L. Huang. Addressing partial observability in reinforcement learning for energy management. In Proc. of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, pp. 324-328, 2021 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3486611.3488730)].
@@ -71,7 +70,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 20. [j] M.  Biemann, F. Scheller,   **X. Liu***, L. Huang. Experimental evaluation of model-free reinforcement learning algorithms for continuous HVAC control. Applied Energy,  298:117164, 2021 [[PDF](https://doi.org/10.1016/j.apenergy.2021.117164 )].
 21. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 22. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
-
 ### 2020:
 
 23. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
@@ -80,7 +78,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 26. [c] **X. Liu**, Z. Lai, L. Huang, X. Wang, and PS Nielsen. A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. Liu, X., Lai, Z., Wang, X., Huang, L., & Nielsen, P. S. (2020, November). A Contextual Anomaly Detection Framework for Energy Smart Meter Data Stream. Proc. of *International Conference on Neural Information Processing* (pp. 733-742). 2020. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_83)] 
 27. [c] X. Wang, **X. Liu**, X. Zhong and P. Cheng. View Selection for Graph Pattern Matching, Proc. of DEXA, pp. 93-110, 2020. [[PDF](https://doi.org/10.1007/978-3-030-59051-2_7)] 
 28. [c] **X. Liu**, Z. Niu, Y. Yang, J. Wu, D. Cheng, and X. Wang. VAP: A Visual Analysis Tool for Energy Consumption Spatio-temporal Pattern Discovery (Demo). Proc. of EDBT, pp. 579-582, 2020. [[PDF](https://openproceedings.org/2020/conf/edbt/paper_206.pdf)] [[Video](https://youtu.be/v5ZfBVc9QPA)]
-
 ### 2019:
 
 29. [j] **X. Liu**, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. *Energies*, *12*(17):3326, 2019\. [[PDF](https://www.mdpi.com/1996-1073/12/17/3326/pdf)]
@@ -89,7 +86,6 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 32. [c] **X. Liu**, R. Li and P. S. Nielsen. SEGSys: A mapping system for segmentation analysis in energy, Proc. of the 14th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2019.
 33. [c] **X. Liu**, S. Bolwig, and P.S. Nielsen.  SmartM: A Non-intrusive Load Monitoring Platform, Proc. of the 22nd Business Information System (Workshop), pp. 424-434, 2019\. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36691-9_36)]
 34. [j] **X. Liu**, N. Iftikhar, H. Huo, R. Li, P.S. Nielsen. Two Approaches for Synthesising Scalable Residential Energy Consumption Data. Future Computer Systems, vol. 95, pp. 586-600, 2019\. [[PDF](https://www.sciencedirect.com/science/article/pii/S0167739X18316212)]
-
 ### 2018 & before:
 
 35. [c] A. Kewo, P. Manembu, **X. Liu**, P.S. Nielsen. Statistical Analysis for Factors Influencing Electricity Consumption at Regional Level. Proc. of IEEE 7th International Conference on Power and Energy (PECon), pp. 132-137, 2018\. [[PDF](https://ieeexplore.ieee.org/abstract/document/8684037)]
