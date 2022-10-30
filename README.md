@@ -71,7 +71,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 20. [j] Y. Wang, I. L. Bennani,  **X. Liu**, M. Sun, Y. Zhou. Electricity Consumer Characteristics Identification: A Federated Learning Approach. IEEE Transaction on Smart Grid, 12(4):3637 - 3647, 2021 [[PDF](https://ieeexplore.ieee.org/iel7/5165411/5446437/09380668.pdf)]. 
 21. [j] Z. Niu, J. Wu,  **X. Liu***, L. Huang, P. S. Understanding Energy Demand Behaviors through Spatio-temporal Smart Meter Data Analysis. Energy, V226:120493, 2021 [[PDF](https://doi.org/10.1016/j.energy.2021.120493)].
 
-   ### 2020 & before
+   ### 2020 & before:
 
 22. [j] C.W. Bülow and **X. Liu***. CAT: A Ready-to-use Tool for Studying Climate Change Disaster Adaptation Behavior, Journal of behavioral and experimental economics, 101590, 2020  [[PDF](https://doi.org/10.1016/j.socec.2020.101590)].
 23. [c] J. Wu,  Z. Niu, J. Wu, **X. Liu**, and J. Zhang. $E^3$: Visual Exploration of Spatiotemporal Energy Demand. *arXiv preprint arXiv:2006.09487*, 2020 [[PDF](https://arxiv.org/pdf/2006.09487)].
