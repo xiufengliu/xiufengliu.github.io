@@ -224,7 +224,7 @@ I developed the following open source software systems in my previous research w
 
 ## Useful links
 
-1. [HelloGithub](https://hellogithub.com/): Interesting open-sourced projects
+1. [Arxiv2Latex](http://arxiv2latex.herokuapp.com/): Paper Latex in Arxiv
 2. [MoviePy](https://zulko.github.io/moviepy/index.html): Video editing tool
 3. [Paper Writing tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 4. [Tips for faculty jobs](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
