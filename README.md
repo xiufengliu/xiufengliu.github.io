@@ -205,21 +205,6 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 
 ------
 
-## Scientific Services
-
-### Program Committee Member
-
-- International Conference on Big Data Analytics and Knowledge Discovery (DaWak, 2020 -)
-- International Conference on Mobile Systems and Pervasive Computing (MobiSPC, 2020 - )
-- International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (DOLAP, 2020 -)
-- The 1st Energy Informatics Academy conference in Asia - EIA Asia 2020
-- International Conference on Mobile Systems and Pervasive Computing (MobiSPC, 2019 - )
-- International conference of the Internet of Things, Big Data and Security (IoTBG, 2016 - 2019)
-- International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2017)
-- IEEE Electrical Power and Energy Conference (EPEC 2016)
-
-------
-
 ## Open Source Software
 
 I developed the following open source software systems in my previous research work (Github: [https://github.com/xiufengliu](https://github.com/xiufengliu)):
