@@ -20,23 +20,24 @@ Technical University of Denmark
 
 ## Biography
 
-I am a Senior researcher (Associate Professor level) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk). I am a member of the research group of [System Analysis](http://www.sustainability.man.dtu.dk/english/research/energy-systems-analysis) with the university.
-
-I did my PhD at the Department of Computer Science ([Daisy research group](http://daisy.aau.dk)) in [Aalborg University (AAU)](http://www.aau.dk) Denmark from August 2008 to May 2012\. Prior to joining AAU, I was a scientific assistant in the [Åbo Akademi University](http://www.abo.fi) in Finland from September 2006 to July 2008\. During January 2013 to December 2014, I was a postdoctoral researcher in the [Data System Group](https://uwaterloo.ca/data-systems-group/) at [University of Waterloo](http://www.uwaterloo.ca), Canada, and at the same period, I was cross-appointed as a research scientist by IBM Toronto research center, where I worked on the [soscip](https://www.soscip.org) project.
+I am a Senior researcher (Associate Professor level) at the Department of Technology, Management and Economics at [Technical University of Denmark (DTU)](http://www.dtu.dk), where I am a member of the research group of [Energy Economics and Modelling](https://www.sustainability.man.dtu.dk/english/research/energy-economics-and-system-analysis). 
+I completed my PhD at the Department of Computer Science ([Daisy research group](http://daisy.aau.dk)) at [Aalborg University (AAU)](http://www.aau.dk) in Denmark from 2008 to  2012\. Before joining AAU, I worked as a Scientific Assistant at [Åbo Akademi University](http://www.abo.fi) in Finland from 2006 2008\. From 2013 to 2014, I was a Postdoctoral Researcher in the [Data System Group](https://uwaterloo.ca/data-systems-group/) at the [University of Waterloo](http://www.uwaterloo.ca) in Canada, and was also cross-appointed as a Research Scientist by IBM Toronto Research Center, where I worked on the [soscip](https://www.soscip.org) project.
 
 ------
 
 ## Research Interests
 
-I am interested in Smart Meter Data Analytics, Data Management (in particular, data warehousing), Big Data, Data Mining and Machine Learning. My current research includes:
-
-- Smart meter data analytics
-  - Benchmarking smart meter data analytics systems and algorithms
-  - Smart meter Data Analytics System
-  - Anomaly energy consumption detection
-- Energy Informatics
-- Big data management, and ETL
-- Internet of Things
+- My research interests include:
+  - Smart meter data analytics
+  - Data management, with a particular focus on data warehousing
+  - Big data
+  - Data mining & Machine learning
+- My current research projects include:
+  - Benchmarking and evaluating smart meter data analytics systems and algorithms
+  - Developing a smart meter data analytics system
+  - Detecting anomalous energy consumption patterns
+  - Investigating the intersection of energy informatics and big data management
+  - Exploring the potential of the Internet of Things in these domains
 
 ------
 
@@ -46,7 +47,7 @@ I am interested in Smart Meter Data Analytics, Data Management (in particular, d
 
 ### 2022:
 
-1. [j] J. Wu, Z. Niu, P.S. Nielsen, L. Huang, **X. Liu***. Understanding Multi-scale Spatiotemporal Energy Consumption Data: A Visual Analysis Approach, Energy, 2022, In press. [[PDF](#)] 
+1. [j] J. Wu, Z. Niu, P.S. Nielsen, L. Huang, **X. Liu***. Understanding Multi-scale Spatiotemporal Energy Consumption Data: A Visual Analysis Approach, Energy, 2022, In press. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222028250)] 
 2. [c] Z. Zhang, Z. Niu, P.S. Nielsen, **X. Liu***. A deep learning approach for spatiotemporal energy demand prediction, Proc. of the 17th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2022. [[PDF](#)] 
 3. [c] X. Cheng, M. Zhao, J. Zhang, J. Wang, X. Pan, **X. Liu***. TransNILM: A Transformer-based Deep Learning Model for Non-intrusive Load Monitoring. The 4th International Conference on High Performance Big Data and Intelligent Systems, Accepted, 8 pages, 2022. [[PDF](#)]
 4. [c] D. Zhang, W. Tian, Y. Yin,  **X. Liu**, F. Shi. Human Knowledge-based Compressed Federated Learning Model for Wind Turbine Blade Icing Detection. The 4th International Conference on High Performance Big Data and Intelligent Systems, Accepted, 5 pages, 2022. [[PDF](#)]
@@ -217,41 +218,6 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 - International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2017)
 - IEEE Electrical Power and Energy Conference (EPEC 2016)
 
-### Reviewer for Journals and Conferences
-
-- **Journals:**
-
-  * Applied Energy, Elsevier (11)
-  * Blockchain: Research and Application, Elsevier (2)
-  * Cities, Elsevier (1)
-  * Computer Standards & interfaces, Elsevier (2)
-  * Data & Knowledge Engineering, Elsevier (2)
-  * Energy and AI, Elsevier (1)
-  * Energy and Building, Elsevier (4)
-  * Expert Systems with Applications, Elsevier (3)
-  * Sustainable Energy, Grids and Networks, Elsevier (4)
-  * Information Systems, Elsevier (4)
-  * International Journal of Electrical Power and Energy Systems, Elsevier (1)
-  * Journal of Knowledge and Information Systems, Springer (2)
-  * Energy Informatics, Springer (2)
-  * Energies, MDPI (2)
-  * IEEE Transactions on Smart Grid, IEEE (12)
-  * IEEE Transactions on Big Data, IEEE (3)
-  * IEEE industrial informatics, IEEE (2)
-  * IET Smart Grid, IET (1)
-  * The VLDB Journal (3)
-
-- **Conferences:**
-
-  * International Workshop On Design, Optimization, Languages and Analytical Processing of Big Data (2)
-  * The Conference on Sustainable Development of Energy, Water and Environment Systems (6) 
-  * International Conference on Big Data Analytics and Knowledge Discovery (DaWaK) (4)
-  * International Conference on Scientific and Statistical Database Management (1)
-  * Energy Informatics (4)
-  * IoTBG (12)
-  * VLDB (2)
-  * ICDCS (1)
-
 ------
 
 ## Open Source Software
@@ -285,4 +251,4 @@ I developed the following open source software systems in my previous research w
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l1wgw4prylj1pfeud4l1" alt="trackgit-views" />
 </a>
-_Last updated 2022-10-30
+_Last updated 2023-01-01
