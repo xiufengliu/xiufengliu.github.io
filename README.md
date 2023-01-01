@@ -12,9 +12,7 @@ Technical University of Denmark
 
 **Email:** xiuli@dtu.dk
 
-**Google scholar:** [[Link](<https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en>)]
-
-**CV:** [[PDF](http://xiufengliu.github.io/)] 
+[Google scholar](<https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en>) / [Github](https://github.com/xiufengliu) / [LinkIn](https://www.linkedin.com/in/xiufeng-liu-22ba1192/)
 
 ------
 
