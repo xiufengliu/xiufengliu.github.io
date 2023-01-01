@@ -12,7 +12,7 @@ Technical University of Denmark
 
 **Email:** xiuli@dtu.dk
 
-[Google Scholar](<https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en>) /[ResearchGate](https://www.researchgate.net/profile/Xiufeng-Liu-2) / [GitHub](https://github.com/xiufengliu) / [LinkedIn](https://www.linkedin.com/in/xiufeng-liu-22ba1192/)
+[Google Scholar](<https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en>) / [ResearchGate](https://www.researchgate.net/profile/Xiufeng-Liu-2) / [GitHub](https://github.com/xiufengliu) / [LinkedIn](https://www.linkedin.com/in/xiufeng-liu-22ba1192/)
 
 ------
 
