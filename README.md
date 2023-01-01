@@ -16,7 +16,7 @@ Technical University of Denmark
 
 ------
 
-## Biography
+## Short Bio
 
 I am a Senior researcher (Associate Professor level) at the Department of Technology, Management and Economics at the [Technical University of Denmark (DTU)](http://www.dtu.dk), where I am a member of the research group of [Energy Economics and Modelling](https://www.sustainability.man.dtu.dk/english/research/energy-economics-and-system-analysis). 
 I completed my PhD at the Department of Computer Science ([Daisy research group](http://daisy.aau.dk)) at [Aalborg University (AAU)](http://www.aau.dk) in Denmark from 2008 to  2012. Before joining AAU, I worked as an Scientific Assistant at [Åbo Akademi University](http://www.abo.fi) in Finland from 2006 to 2008. From 2013 to 2014, I was a Postdoctoral Researcher in the [Data System Group](https://uwaterloo.ca/data-systems-group/) at the [University of Waterloo](http://www.uwaterloo.ca) in Canada, and was also cross-appointed as a Research Scientist by IBM Toronto Research Center, where I worked on the [soscip](https://www.soscip.org) project.
