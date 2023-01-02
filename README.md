@@ -226,7 +226,7 @@ I developed the following open source software systems in my previous research w
 
 ------
 
-## Useful links
+## Links
 
 1. [Arxiv2Latex](http://arxiv2latex.herokuapp.com/)
 2. [Effidit](https://effidit.qq.com/demo_en)
