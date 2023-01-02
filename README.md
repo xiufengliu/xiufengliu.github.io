@@ -45,14 +45,14 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 ### 2022:
 
-1. [j] J. Wu, Z. Niu, P.S. Nielsen, L. Huang, **X. Liu***. Understanding Multi-scale Spatiotemporal Energy Consumption Data: A Visual Analysis Approach, Energy, 2022, In press. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222028250)] 
+1. [j] J. Wu, Z. Niu, P.S. Nielsen, L. Huang, **X. Liu***. Understanding Multi-scale Spatiotemporal Energy Consumption Data: A Visual Analysis Approach, Energy, Vol. 263, 125939, 2022, In press. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222028250)] 
 2. [c] Z. Zhang, Z. Niu, P.S. Nielsen, **X. Liu***. A deep learning approach for spatiotemporal energy demand prediction, Proc. of the 17th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES), 2022. [[PDF](#)] 
-3. [c] X. Cheng, M. Zhao, J. Zhang, J. Wang, X. Pan, **X. Liu***. TransNILM: A Transformer-based Deep Learning Model for Non-intrusive Load Monitoring. The 4th International Conference on High Performance Big Data and Intelligent Systems, Accepted, 8 pages, 2022. [[PDF](#)]
+3. [c] X. Cheng, M. Zhao, J. Zhang, J. Wang, X. Pan, **X. Liu***. TransNILM: A Transformer-based Deep Learning Model for Non-intrusive Load Monitoring. The 4th International Conference on High Performance Big Data and Intelligent Systems, Best paper nomination, 8 pages, 2022. [[PDF](#)]
 4. [c] D. Zhang, W. Tian, Y. Yin,  **X. Liu**, F. Shi. Human Knowledge-based Compressed Federated Learning Model for Wind Turbine Blade Icing Detection. The 4th International Conference on High Performance Big Data and Intelligent Systems, Accepted, 5 pages, 2022. [[PDF](#)]
 5. [j]. K. Wan, **X. Liu**, Y. Liu, M. Nowostawski, H. Holtskog, L. Huang, Automated infection risks assessments (AIRa) for decision-making using a blockchain-based alert system : a case study in a representative building. Environmental Research,  vol. 216, 114663, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S0013935122019909?via%3Dihub)] 
 6. [j] J. Li, Z. Chen, L. Cheng, **X. Liu**. Energy Data Generation with Wasserstein Deep Convolutional Generative Adversarial Networks. Energy, Vol. 257, 124694, 2022. [[PDF](https://doi.org/10.1016/j.energy.2022.124694)]
 7. [j] J. Peng, A. Kimmig, D. Wang, Z. Fan, J. Wang, **X. Liu**, J. Ovtcharova. A systematic review of data-driven approaches to fault diagnosis and early warning. Journal of Intelligent Manufacturing, 2022, doi: 10.1007/s10845-022-02020-0.  [[PDF](https://link.springer.com/article/10.1007/s10845-022-02020-0)]
-8. [c] X. Cheng, D. Li, **X. Liu**. A review of federated learning in Energy Systems.  IEEE IAS Industrial and Commercial Power System Asia, Accepted, 6 pages,  2022.
+8. [c] X. Cheng, D. Li, **X. Liu**. A review of federated learning in Energy Systems.  IEEE IAS Industrial and Commercial Power System Asia(I&CPS Asia), pp. 2089-2095,  2022.
 9. [j] X. Cheng, F. Shi, Y. Liu,  **X. Liu*** and L. Huang*. Wind Turbine Icing Detection: A Federated Learning Approach. Energy, vol. 254, Part C, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222013445)]
 10. [j] X. Cheng, F. Shi, Y. Liu, J. Zhou, **X. Liu*** and L. Huang*. A Class-Imbalanced Heterogeneous Federated Learning Model for Detecting Icing on Wind Turbine Blades. IEEE Transactions on Industrial Informatics,  18(12):8487-8497, 2022. [[PDF](https://ieeexplore.ieee.org/document/9757845)]
 11. [j] X. Cheng, F. Shi, **X. Liu**, M. Zhao, S. Chen. A Novel Deep Class-imbalanced Semi-supervised Model for Wind Turbine Blade Icing Detection. IEEE Transactions on Neural Networks and Learning Systems. 33(6), 2022. [[PDF](https://ieeexplore.ieee.org/abstract/document/9512275)]
@@ -171,6 +171,10 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
+  - <span style="color:#6b778d">Mathilde Christiane Monica Cunningham (2022.12 - 2023.02)</span>
+  - <span style="color:#6b778d">Emma Haley Worth Brandt (2022.09 - 2023.02)</span>
+  - <span style="color:#6b778d">Luisa Montella (2023.01 - 2023.06)</span>
+  - <span style="color:#6b778d">Matteo Zanotto (2022.09 - 2023.01)</span>
   - <span style="color:#6b778d">Philipp Sedlmeier (2021.12 - 2022.06)</span>
   - <span style="color:#6b778d">Casper Hegner Jonsson (2019.02 - 2019.08)</span>
   - <span style="color:#6b778d">Yingrui Li (2021.01-2021.07)</span>
