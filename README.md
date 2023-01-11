@@ -224,16 +224,9 @@ I developed the following open source software systems in my previous research w
 11. [ETLMR](https://github.com/xiufengliu/ETLMR): A Python-based Dimensional ETL Framework based on MapReduce (Obsolete)
 12. [All-RiTE](https://github.com/xiufengliu/allrite): A Right-time ETL middle-ware Supporting Insert, Update and Delete Operations (not released yet)
 
-------
 
-## Links
 
-1. [Arxiv2Latex](http://arxiv2latex.herokuapp.com/)
-2. [Effidit](https://effidit.qq.com/demo_en)
-3. [MoviePy](https://zulko.github.io/moviepy/index.html)
-4. [Paper Writing tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
-5. [Tips for faculty jobs](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
-
+[links](links.md)
 ------
 
 <a href="https://trackgit.com">
