@@ -13,3 +13,8 @@
 11. [去空格](https://laorange.github.io/)
 12. [学术工具大全](https://bukesci.com/)
 13. [查期刊是否SCI](https://mjl.clarivate.com/search-results)
+
+## Dataset
+1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
+2. [风电时空数据](https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction)
+3. [欧洲环境EEA](https://www.eea.europa.eu/ims)
