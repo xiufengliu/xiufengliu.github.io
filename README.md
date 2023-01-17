@@ -215,19 +215,19 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 
 I developed the following open source software systems in my previous research work (Github: [https://github.com/xiufengliu](https://github.com/xiufengliu)):
 
-1. [SEGSys](https://github.com/xiufengliu/): An online mapping system for segmentation analysis of energy consumption.
-2. [CATool](https://github.com/xiufengliu/CATTool): A ready-to-use experiment tool for climate researchers to understand the pitfalls in adaptation decisions in behavioral economics
-3. [IoTDashboard](https://github.com/xiufengliu/IoTDashboard): This project is to create a dashboard that can collect indoor and outdoor climate data, and visualize the time series in real time.
-4. K-SC Clustering Algorithm on Spark
-5. [DataGenerator-Cluster-Version:](https://github.com/xiufengliu/DataGenerator-Cluster-Version) A scalable smart meter data generator on Spark
-6. CITIESData: A scalable smart city data management platform
-7. [SMAS](https://github.com/xiufengliu/SMAS): A smart meter data analytics system
-8. [CloudETL](https://github.com/xiufengliu/CloudETL): A Scalable Dimensional ETL for Hive
-9. [BigETL](https://github.com/xiufengliu/BigETL): A unified ETL platform for supporting various data processing technologies, including Spark, Hive, Hadoop, Python, Linux Shell script, etc.
-10. [3XL](https://github.com/xiufengliu/3XL): An efficient OWL/RDF Triple Store Supporting Bulk Operations
-11. [ETLMR](https://github.com/xiufengliu/ETLMR): A Python-based Dimensional ETL Framework based on MapReduce (Obsolete)
-12. [All-RiTE](https://github.com/xiufengliu/allrite): A Right-time ETL middle-ware Supporting Insert, Update and Delete Operations (not released yet)
-
+1. [FlexSUS](https://api.flexsus.org): A flexible decision platform or urban energy systems
+2. [SEGSys](https://github.com/xiufengliu/): An online mapping system for segmentation analysis of energy consumption.
+3. [CATool](https://github.com/xiufengliu/CATTool): A ready-to-use experiment tool for climate researchers to understand the pitfalls in adaptation decisions in behavioral economics
+4. [IoTDashboard](https://github.com/xiufengliu/IoTDashboard): This project is to create a dashboard that can collect indoor and outdoor climate data, and visualize the time series in real time.
+5. K-SC Clustering Algorithm on Spark
+6. [DataGenerator-Cluster-Version:](https://github.com/xiufengliu/DataGenerator-Cluster-Version) A scalable smart meter data generator on Spark
+7. CITIESData: A scalable smart city data management platform
+8. [SMAS](https://github.com/xiufengliu/SMAS): A smart meter data analytics system
+9. [CloudETL](https://github.com/xiufengliu/CloudETL): A Scalable Dimensional ETL for Hive
+10. [BigETL](https://github.com/xiufengliu/BigETL): A unified ETL platform for supporting various data processing technologies, including Spark, Hive, Hadoop, Python, Linux Shell script, etc.
+11. [3XL](https://github.com/xiufengliu/3XL): An efficient OWL/RDF Triple Store Supporting Bulk Operations
+12. [ETLMR](https://github.com/xiufengliu/ETLMR): A Python-based Dimensional ETL Framework based on MapReduce (Obsolete)
+13. [All-RiTE](https://github.com/xiufengliu/allrite): A Right-time ETL middle-ware Supporting Insert, Update and Delete Operations (not released yet)
 
 
 [links](links.md)
