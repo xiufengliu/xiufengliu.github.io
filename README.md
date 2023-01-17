@@ -44,7 +44,8 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 ### Peer-reviewed papers (*: Corresponding author; [c]: Conference; [j]: Journal; [b]: Book chapter):
 
 ### 2023:
-1. [j] Z. Chen, J. Li, L. Cheng,  **X. Liu***. Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation, Applied Energy, In press. [[PDF](#)]   
+
+1. [j] Z. Chen, J. Li, L. Cheng,  **X. Liu**. Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation, Applied Energy, In press. [[PDF](#)]   
 
 ### 2022:
 
