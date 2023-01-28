@@ -45,7 +45,8 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 ### 2023:
 
-1. [j] Z. Chen, J. Li, L. Cheng,  **X. Liu**. Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation, Applied Energy, In press. [[PDF](#)] 
+1. [j] Z. Chen, J. Li, L. Cheng,  **X. Liu**. Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation, Applied Energy, Volume 334,
+ 120711, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306261923000752)] 
 2. [c] **X. Liu**, X. Cheng, Y. Yang, H. Huo, Y. Liu, P.S. Nielsen. Understanding crowd energy consumption behaviors (demo), Accepted by EDBT, 2023 [[PDF](#)] 
 3. [j] S. Wang, J. Gao, F. Lu, F. Wang, Z. You, M. Huang, **X. Liu***, Y. Li*, Y. Liu*. Human motion recognition by a shoes-floor triboelectric nanogenerator and its application in fall detection. Nano Energy, 108230, 2023. [[PDF](https://doi.org/10.1016/j.nanoen.2023.108230)] 
 4. [j] P. Ezhilarasi, L. Ramesh,   **X. Liu**, J.B. Holm-Nielsen. Smart Meter Synthetic Data Generator development in python using FBProphet. Software Impacts, 100468, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S2665963823000052)]  
