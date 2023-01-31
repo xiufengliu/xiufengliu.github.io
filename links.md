@@ -18,5 +18,6 @@
 1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
 2. [风电时空数据](https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction)
 3. [欧洲环境EEA](https://www.eea.europa.eu/ims)
-4. [Solar Power data1](https://dkasolarcentre.com.au/source/alice-springs/dka-m16-b-phase)[Solar Power data2](https://dkasolarcentre.com.au/source/alice-springs/dka-m16-b-phase)[Solar power with spatial info](https://www.nrel.gov/grid/solar-power-data.html)
-5. [CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets](https://www.nature.com/articles/s41597-020-00582-3#Sec7)
+4. [Solar Power data1](https://dkasolarcentre.com.au/source/alice-springs/dka-m16-b-phase)[Solar Power data2](https://dkasolarcentre.com.au/source/alice-springs/dka-m16-b-phase)[Weather data in Austrialia](http://www.bom.gov.au/climate/data/#mapoption)
+5. [Solar power with spatial info](https://www.nrel.gov/grid/solar-power-data.html)
+6. [CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets](https://www.nature.com/articles/s41597-020-00582-3#Sec7)
