@@ -20,4 +20,5 @@
 3. [欧洲环境EEA](https://www.eea.europa.eu/ims)
 4. [[Solar Power data1]](https://dkasolarcentre.com.au/source/alice-springs/dka-m16-b-phase)[[Solar Power data2]](https://dkasolarcentre.com.au/source/alice-springs/dka-m16-b-phase)[[Weather data in Austrialia]](http://www.bom.gov.au/climate/data/#mapoption)
 5. [Solar power with spatial info](https://www.nrel.gov/grid/solar-power-data.html)
-6. [CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets](https://www.nature.com/articles/s41597-020-00582-3#Sec7)
+6. [[Water quality data]](https://waterdata.usgs.gov/nwis/sw) [[paper]](https://www.sciencedirect.com/science/article/pii/S0959652619340156)
+7. [CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets](https://www.nature.com/articles/s41597-020-00582-3#Sec7)
