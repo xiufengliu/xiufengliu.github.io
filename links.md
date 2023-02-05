@@ -23,3 +23,4 @@
 6. [[Water quality data](https://waterdata.usgs.gov/nwis/sw)] [[paper](https://www.sciencedirect.com/science/article/pii/S0959652619340156)]
 7. [CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets](https://www.nature.com/articles/s41597-020-00582-3#Sec7)
 8. [公共楼宇,水,电,气,大阳能,地理信息等数据](https://github.com/buds-lab/building-data-genome-project-2)
+9. [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
