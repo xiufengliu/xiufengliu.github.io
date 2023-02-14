@@ -177,6 +177,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
+  - <span style="color:#6b778d">Eigil Vølund (2023.01 - 2023.06)</span>
   - <span style="color:#6b778d">Mathilde Christiane Monica Cunningham (2022.12 - 2023.02)</span>
   - <span style="color:#6b778d">Emma Haley Worth Brandt (2022.09 - 2023.02)</span>
   - <span style="color:#6b778d">Luisa Montella (2023.01 - 2023.06)</span>
