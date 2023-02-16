@@ -16,6 +16,8 @@
 14. [去空格](https://laorange.gitee.io/paper-assistant/#/)
 15. [学术工具大全](https://bukesci.com/)
 16. [查期刊是否SCI](https://mjl.clarivate.com/search-results)
+17. [图形图标](https://www.freepik.com/)
+18. [流程图](https://www.yworks.com/yed-live/)
 
 ## Dataset
 1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
