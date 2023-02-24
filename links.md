@@ -18,6 +18,7 @@
 16. [查期刊是否SCI](https://mjl.clarivate.com/search-results)
 17. [图形图标](https://www.freepik.com/)
 18. [流程图](https://www.yworks.com/yed-live/)
+19. [读文献](https://typeset.io/library)
 
 ## Dataset
 1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
