@@ -19,6 +19,8 @@
 17. [图形图标](https://www.freepik.com/)
 18. [流程图](https://www.yworks.com/yed-live/)
 19. [读文献](https://typeset.io/library)
+20. [AI paper search](https://aipaper.fun/#/)
+
 
 ## Dataset
 1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
