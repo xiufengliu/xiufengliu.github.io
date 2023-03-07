@@ -20,6 +20,7 @@
 18. [流程图](https://www.yworks.com/yed-live/)
 19. [读文献](https://typeset.io/library)
 20. [AI paper search](https://aipaper.fun/#/)
+21. [ChatPDF](https://www.chatpdf.com/)
 
 
 ## Dataset
