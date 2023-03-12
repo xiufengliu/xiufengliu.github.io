@@ -21,6 +21,7 @@
 19. [读文献](https://typeset.io/library)
 20. [AI paper search](https://aipaper.fun/#/)
 21. [ChatPDF](https://www.chatpdf.com/)
+22. [图形配色](https://paletton.com/)
 
 
 ## Dataset
