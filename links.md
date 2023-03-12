@@ -22,6 +22,7 @@
 20. [AI paper search](https://aipaper.fun/#/)
 21. [ChatPDF](https://www.chatpdf.com/)
 22. [图形配色](https://paletton.com/)
+23. [FoxGPT](https://foxgpt.club/)
 
 
 ## Dataset
