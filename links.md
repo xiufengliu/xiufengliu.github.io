@@ -18,11 +18,13 @@
 16. [查期刊是否SCI](https://mjl.clarivate.com/search-results)
 17. [图形图标](https://www.freepik.com/)
 18. [流程图](https://www.yworks.com/yed-live/)
-19. [读文献](https://typeset.io/library)
-20. [AI paper search](https://aipaper.fun/#/)
+19. [AI paper search](https://aipaper.fun/#/)
+20. [读文献](https://typeset.io/library)
 21. [ChatPDF](https://www.chatpdf.com/)
-22. [图形配色](https://paletton.com/)
-23. [FoxGPT](https://foxgpt.club/)
+22. [ChatDoc](https://www.chatdoc.com/)
+23. [图形配色](https://paletton.com/)
+24. [FoxGPT](https://foxgpt.club/)
+25. [GenPPT From Markdown](https://mindshow.fun/)
 
 
 ## Dataset
