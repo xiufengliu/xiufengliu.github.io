@@ -25,6 +25,7 @@
 23. [图形配色](https://paletton.com/)
 24. [FoxGPT](https://foxgpt.club/)
 25. [GenPPT From Markdown](https://mindshow.fun/)
+26. [AI tools](https://ai-bot.cn/)
 
 
 ## Dataset
