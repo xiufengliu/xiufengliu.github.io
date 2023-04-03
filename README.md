@@ -174,15 +174,15 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - Jiawei Wang (2021.01 - present)
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
-  - Marco Biemann (2019.12 - present), Principle supervisor
   - Hanguan Wen (2022.01 - present), Co-supervisor
+  - Marco Biemann (2019.12 - 2023.03), Principle supervisor
   - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
-  - <span style="color:#6b778d">Eigil Vølund (2023.01 - 2023.06)</span>
+  - Eigil Vølund (2023.01 - 2023.06)
+  - Luisa Montella (2023.01 - 2023.06)
   - <span style="color:#6b778d">Mathilde Christiane Monica Cunningham (2022.12 - 2023.02)</span>
   - <span style="color:#6b778d">Emma Haley Worth Brandt (2022.09 - 2023.02)</span>
-  - <span style="color:#6b778d">Luisa Montella (2023.01 - 2023.06)</span>
   - <span style="color:#6b778d">Matteo Zanotto (2022.09 - 2023.01)</span>
   - <span style="color:#6b778d">Philipp Sedlmeier (2021.12 - 2022.06)</span>
   - <span style="color:#6b778d">Casper Hegner Jonsson (2019.02 - 2019.08)</span>
@@ -198,10 +198,12 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 I am working on the following research projects, *with the role of PI/WP Lead/Participant*:
 
+- **RE-INTEGRATE**: RE-thinking of approaches and toolkits for transdisciplinary INTEGRATEd assessment of climate-compatible
+energy strategies from the African Union through to the European Union, EU Horizon project, Date:1/09 2023 -　　
 - **RES4CITY**: Renewable Energies System for Cities, EU Horizon project, Date:1/10 2022 -　　
-- **[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 28/02 2023
 - **[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 - 30/05 2023 
-- **[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, Date: 9/4 2019 - 8/4 2023
+- <span style="color:#6b778d">**[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 28/02 2023 </span>
+- <span style="color:#6b778d">**[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, Date: 9/4 2019 - 31/3 2023 </span>
 - <span style="color:#6b778d">**CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, Date:1/12 2020-2022</span>　　
 - <span style="color:#6b778d">**HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 22/8 2022</span>
 - Reinforcement learning for autonomous building energy managment, Date: 12/1 2019 - 11/30 2022
