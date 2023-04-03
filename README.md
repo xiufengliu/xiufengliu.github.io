@@ -45,7 +45,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 ### 2023:
 
-1. [j] M. Biemann, P. A. Gunkel, F. Scheller, L. Huang and **X. Liu**, "Data centre HVAC control harnessing flexibility potential via real-time pricing cost optimisation using reinforcement learning," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3263261.  [[PDF](https://ieeexplore.ieee.org/document/10089168)] 
+1. [j] M. Biemann, P. A. Gunkel, F. Scheller, L. Huang and **X. Liu***, "Data centre HVAC control harnessing flexibility potential via real-time pricing cost optimisation using reinforcement learning," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3263261.  [[PDF](https://ieeexplore.ieee.org/document/10089168)] 
 2. [j] Wen, H., **Liu, X.***, Yang, M., Lei, B., Cheng, X., & Chen, Z. (2023). An energy demand-side management and net metering decision framework. *Energy*, *271*, 127075. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544223004693)] 
 3. [j] Z. Chen, J. Li, L. Cheng,  **X. Liu**. Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation, Applied Energy, Volume 334,120711, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306261923000752)] 
 4. [c] **X. Liu**, X. Cheng, Y. Yang, H. Huo, Y. Liu, P.S. Nielsen. Understanding crowd energy consumption behaviors (demo), EDBT, pp. 799-802, 2023 [[PDF](https://openproceedings.org/2023/conf/edbt/3-paper-137.pdf)] 
