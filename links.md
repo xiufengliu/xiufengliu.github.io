@@ -40,3 +40,4 @@
 8. [公共楼宇,水,电,气,大阳能,地理信息等数据](https://github.com/buds-lab/building-data-genome-project-2)
 9. [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
 10. [Electricity threft data](https://github.com/asr-vip/Electricity-Theft/blob/main/README.md)
+11. [Gas sensor array under dynamic gas mixtures, labeled anomalies](https://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+dynamic+gas+mixtures#)
