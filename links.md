@@ -44,4 +44,5 @@
 11. [Gas sensor array under dynamic gas mixtures, labeled anomalies](https://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+under+dynamic+gas+mixtures#)
 
 
-<img src="colors.webp" alt="Good color" width="300" height="200">
+## The color I like best
+![Good color](colors.webp){: width=200px}
