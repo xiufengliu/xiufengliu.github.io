@@ -27,6 +27,7 @@
 25. [GenPPT From Markdown](https://mindshow.fun/)
 26. [AI tools](https://ai-bot.cn/)
 27. [Time Series Paper](https://deepshare.feishu.cn/docx/JGM9dWhqDorQggxU2DfcJPVnnFf)
+28. [PlayAroundAI](https://play.vercel.ai/)
 
 
 ## Dataset
