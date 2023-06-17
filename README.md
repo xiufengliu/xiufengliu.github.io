@@ -45,17 +45,17 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 ### 2023:
 
-1. [j] R. Monaco, **X. Liu**, T. Murino, X. Cheng, P.S. Nilsen. A non-functional requirements-based ontology for supporting the development of industrial energy management systems. Journal of Cleaner Production, 2023 (In press). [[PDF](#)]
-2. [j] Z. Wang, **X. Liu**, Y. Huang, P. Zhang, Y. Fu. A Multivariate Time Series Graph Neural Network for District Heat Load Forecasting. Energy, 2023 (In press). [[PDF](http://dx.doi.org/10.1016/j.energy.2023.127911)]
-3. [j] Y. Liu, L. huang, **X. Liu**, G. Ji, X. Chen, E. Onstein. A late-mover genetic algorithm for resource-constrained project-scheduling problems. Information sciences, 2023 (In press). [[PDF](http://dx.doi.org/10.1016/j.ins.2023.119164)]
-4. [j] B. Xiong, Y. Guo, L. Zhang, J. Li, **X. Liu**, L. Cheng. Optimizing Electricity Demand Scheduling in Microgrids Using Deep Reinforcement Learning for Cost-Efficiency. IET Generation, Transmission & Distribution. 2023 (In press). [[PDF](http://dx.doi.org/10.1049/gtd2.12866)]
-5. [j] D. Zhang, X. Cheng, W. Tian, F. Shi, H. Qiu, **X. Liu**, S. Chen. FedBIP: A Federated Learning Based Model for Wind Turbine Blade Icing Prediction. IEEE Transactions on Instrumentation & Measurement. doi: 10.1109/TIM.2023.3273675. [[PDF](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4407674&punumber=19)]
-6. [j] M. Biemann, P. A. Gunkel, F. Scheller, L. Huang and **X. Liu***, Data centre HVAC control harnessing flexibility potential via real-time pricing cost optimisation using reinforcement learning. IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3263261.  [[PDF](https://ieeexplore.ieee.org/document/10089168)] 
-7. [j] Wen, H., **Liu, X.**, Yang, M., Lei, B., Cheng, X., & Chen, Z. (2023). An energy demand-side management and net metering decision framework. Energy, 271, 127075. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544223004693)] 
-8. [j] Z. Chen, J. Li, L. Cheng,  **X. Liu**. Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation, Applied Energy, Volume 334,120711, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306261923000752)] 
-9. [c] **X. Liu**, X. Cheng, Y. Yang, H. Huo, Y. Liu, P.S. Nielsen. Understanding crowd energy consumption behaviors (demo), EDBT, pp. 799-802, 2023 [[PDF](https://openproceedings.org/2023/conf/edbt/3-paper-137.pdf)] 
-10. [j] S. Wang, J. Gao, F. Lu, F. Wang, Z. You, M. Huang, **X. Liu***, Y. Li, Y. Liu. Human motion recognition by a shoes-floor triboelectric nanogenerator and its application in fall detection. Nano Energy, 108230, 2023. [[PDF](https://doi.org/10.1016/j.nanoen.2023.108230)] 
-11. [j] P. Ezhilarasi, L. Ramesh,   **X. Liu**, J.B. Holm-Nielsen. Smart Meter Synthetic Data Generator development in python using FBProphet. Software Impacts, 100468, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S2665963823000052)]  
+1. [j] Monaco, R., **Liu, X.***, Murino, T., Cheng, X., & Nielsen, P. S. (2023). A non-functional requirements-based ontology for supporting the development of industrial energy management systems. *Journal of Cleaner Production*, 137614. [[PDF](https://doi.org/10.1016/j.jclepro.2023.137614)]
+2. [j] Wang, Z., **Liu, X.***, Huang, Y., Zhang, P., & Fu, Y. (2023). A multivariate time series graph neural network for district heat load forecasting. Energy, 127911. [[PDF](http://dx.doi.org/10.1016/j.energy.2023.127911)]
+3. [j] Liu, Y., Huang, L., **Liu, X.**, Ji, G., Chen, X., & Onstein, E. (2023). A late-mover genetic algorithm for resource-constrained project-scheduling problems. *Information Sciences*, 119164. [[PDF](http://dx.doi.org/10.1016/j.ins.2023.119164)]
+4. [j] Xiong, B., Guo, Y., Zhang, L., Li, J., **Liu, X.**, & Cheng, L. (2023). Optimizing Electricity Demand Scheduling in Microgrids Using Deep Reinforcement Learning for Cost-Efficiency. *IET Generation, Transmission & Distribution*. [[PDF](http://dx.doi.org/10.1049/gtd2.12866)]
+5. [j] Zhang, D., Cheng, X., Tian, W., Shi, F., Qiu, H., **Liu, X.**, & Chen, S. (2023). FedBIP: A Federated Learning Based Model for Wind Turbine Blade Icing Prediction. *IEEE Transactions on Instrumentation & Measurement*. doi: 10.1109/TIM.2023.3273675. [[PDF](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4407674&punumber=19)]
+6. [j] Biemann, M., Gunkel, P. A., Scheller, F., Huang, L., & **Liu, X.*** (2023). Data centre HVAC control harnessing flexibility potential via real-time pricing cost optimisation using reinforcement learning. *IEEE Internet of Things Journal*. doi: 10.1109/JIOT.2023.3263261. [[PDF](https://ieeexplore.ieee.org/document/10089168)]
+7. [j] Wen, H., **Liu, X.**, Yang, M., Lei, B., Cheng, X., & Chen, Z. (2023). An energy demand-side management and net metering decision framework. *Energy*, 271, 127075. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544223004693)]
+8. [j] Chen, Z., Li, J., Cheng, L., & **Liu, X.** (2023). Federated-WDCGAN: A Federated Smart Meter Data Sharing Framework for Privacy Preservation. *Applied Energy*, 334, 120711. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306261923000752)]
+9. [c] **Liu, X.**, Cheng, X., Yang, Y., Huo, H., Liu, Y., & Nielsen, P.S. (2023). Understanding crowd energy consumption behaviors (demo). *EDBT*, pp. 799-802. [[PDF](https://openproceedings.org/2023/conf/edbt/3-paper-137.pdf)]
+10. [j] Wang, S., Gao, J., Lu, F., Wang, F., You, Z., Huang, M., **Liu, X.**, Li, Y., & Liu, Y. (2023). Human motion recognition by a shoes-floor triboelectric nanogenerator and its application in fall detection. *Nano Energy*, 108230. [[PDF](https://doi.org/10.1016/j.nanoen.2023.108230)] 
+11. [j] Ezhilarasi, P., Ramesh, L., **Liu, X.**, & Holm-Nielsen, J.B. (2023). Smart Meter Synthetic Data Generator development in python using FBProphet. *Software Impacts*, 100468. [[PDF](https://www.sciencedirect.com/science/article/pii/S2665963823000052)]  
 ### 2022:
 
 12. [j] J. Wu, Z. Niu, P.S. Nielsen, L. Huang, **X. Liu***. Understanding Multi-scale Spatiotemporal Energy Consumption Data: A Visual Analysis Approach, Energy, Vol. 263, 125939, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0360544222028250)] 
@@ -176,6 +176,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 ## Supervision
 
 - **Postdoc:**
+  - Xu Cheng (2024.02 - )
   - Jiawei Wang (2021.01 - present)
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
@@ -203,6 +204,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 I am working on the following research projects, *with the role of PI/WP Lead/Participant*:
 
+- **ANSWER**: A heterogeneous distributed prediction model for wind-solar energy production, EU Marie Curie Project,  **Role:** PI, Date:1/02 2024 - 31/01 2026
 - **RE-INTEGRATE**: RE-thinking of approaches and toolkits for transdisciplinary INTEGRATEd assessment of climate-compatible
 energy strategies from the African Union through to the European Union, EU Horizon project, Date:1/09 2023 -　　
 - **RES4CITY**: Renewable Energies System for Cities, EU Horizon project, Date:1/10 2022 -　　
