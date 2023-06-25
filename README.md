@@ -182,12 +182,13 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
   - Hanguan Wen (2022.01 - present), Co-supervisor
-  - Marco Biemann (2019.12 - 2023.03), Principle supervisor
   - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor
+  - <span style="color:#6b778d">Marco Biemann (2019.12 - 2023.03), Principle supervisor</span>
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
-  - Eigil Vølund (2023.01 - 2023.06)
-  - Luisa Montella (2023.01 - 2023.06)
+  - Kenneth Paulsen (2023.06 - )
+  - <span style="color:#6b778d">Eigil Vølund (2023.01 - 2023.06)</span>
+  - <span style="color:#6b778d">Luisa Montella (2023.01 - 2023.06)</span>
   - <span style="color:#6b778d">Mathilde Christiane Monica Cunningham (2022.12 - 2023.02)</span>
   - <span style="color:#6b778d">Emma Haley Worth Brandt (2022.09 - 2023.02)</span>
   - <span style="color:#6b778d">Matteo Zanotto (2022.09 - 2023.01)</span>
