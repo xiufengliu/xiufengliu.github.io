@@ -210,7 +210,7 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 - **RE-INTEGRATE**: RE-thinking of approaches and toolkits for transdisciplinary INTEGRATEd assessment of climate-compatible
 energy strategies from the African Union through to the European Union, EU Horizon project, Date:1/09 2023 -　　
 - **RES4CITY**: Renewable Energies System for Cities, EU Horizon project, Date:1/10 2022 -　　
-- **[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 - 30/05 2023 
+- <span style="color:#6b778d">**[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 - 30/05 2023 </span>
 - <span style="color:#6b778d">**[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 28/02 2023 </span>
 - <span style="color:#6b778d">**[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, Date: 9/4 2019 - 31/3 2023 </span>
 - <span style="color:#6b778d">**CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, Date:1/12 2020-2022</span>　　
