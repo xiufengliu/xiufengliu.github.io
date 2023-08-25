@@ -44,9 +44,9 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 ### Peer-reviewed papers (*: Corresponding author; [c]: Conference; [j]: Journal; [b]: Book chapter):
 
 ### 2023:
-1. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306261923011170)]
-2. [[PDF](https://www.mdpi.com/1996-1073/16/15/5764)]
-3. [[PDF](https://www.sciencedirect.com/science/article/pii/S2452414X23000808)]
+1. [j] Huang, Y., Zhao, Y., Wang, Z., Liu, X., Liu, H., & Fu, Y. (2023). Explainable district heat load forecasting with active deep learning. Applied Energy, 350, 121753. [[PDF](https://www.sciencedirect.com/science/article/pii/S0306261923011170)]
+2. [j] Murino, T., Monaco, R., Nielsen, P. S., Liu, X., Esposito, G., & Scognamiglio, C. (2023). Sustainable Energy Data Centres: A Holistic Conceptual Framework for Design and Operations. Energies, 16(15), 5764. [[PDF](https://www.mdpi.com/1996-1073/16/15/5764)]
+3. [j] Wang, R., Qiu, H., Xu, C., & Liu, X. (2023). Anomaly detection with a container-based stream processing framework for industrial internet of things. Journal of Industrial Information Integration, 100507. [[PDF](https://www.sciencedirect.com/science/article/pii/S2452414X23000808)]
 4. [c] Qiu, H., Jin, H., Wang, R., **Liu, X.**, & Gao, G. (2023). Tensor Nuclear Norm Based Matrix Regression Based Projections for Feature Extraction of Hyperspectral Images. In Proceedings of the 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 1037-1042). Rio de Janeiro, Brazil. [[PDF](https://doi.org/10.1109/CSCWD57460.2023.10152861)]
 5. [c] Wang, R., Yang, Z., Qiu, H., **Liu, X.**, & Wu, D. (2023). Spatial and Channel Exchange based on EfficientNet for Detecting Changes of Remote Sensing Images. In Proceedings of the 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 1595-1600). Rio de Janeiro, Brazil. [[PDF](https://doi.org/10.1109/CSCWD57460.2023.10152771)]
 6. [c] Cheng, X., **Liu, X.**, Ilieva, I., & Redhu, S. (2023). Temporal-spatial graph neural network for wind power forecasting considering the blockage effects. In Proceedings of the 3rd International Conference on Applied Artificial Intelligence (pp. 1-6). IFE, Halden, Norway. [[PDF](#)]
