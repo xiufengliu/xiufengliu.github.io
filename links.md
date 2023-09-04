@@ -49,3 +49,4 @@
 ## The colors I like best:
 
 ![Good color](colors.webp){: width=500px}
+![Good color2](colors.png){: width=500px}
