@@ -29,7 +29,7 @@
 27. [Time Series Paper](https://deepshare.feishu.cn/docx/JGM9dWhqDorQggxU2DfcJPVnnFf)
 28. [PlayAroundAI](https://play.vercel.ai/)
 29. [Video Summarization](https://b.jimmylv.cn/#)
-
+30. [语音翻译](https://seamless.metademolab.com/demo)
 
 ## Dataset
 1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
