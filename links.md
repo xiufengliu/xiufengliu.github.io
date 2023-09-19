@@ -46,6 +46,7 @@
 12. [与能源相关的各类数据](https://site.ieee.org/pes-iss/data-sets.)
 13. [High-quality wind power and PV with GIS](https://github.com/intelligence-csd-auth-gr/greek-solar-wind-energy-forecasting/tree/main/resources/raw_data)
 14. [List of Water conumption data](https://github.com/AnnaDiMauro/WDDreview)
+15. [Water data](https://github.com/The-SmartH2O-project/datasets/tree/master)    
     
 ## The colors I like best:
 
