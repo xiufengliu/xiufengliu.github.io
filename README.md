@@ -45,7 +45,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 ### 2023:
 
-1. [j] Wen, H., **Liu, X.**, Yang, M., Lei, B., Cheng, X., & Chen, Z. (2023). A novel approach for identifying customer groups for personalized DSM services using household socio-demographic data. Energy. (In press) [[PDF](#)]
+1. [j] Wen, H., **Liu, X.**, Yang, M., Lei, B., Cheng, X., & Chen, Z. (2024). A novel approach for identifying customer groups for personalized demand-side management services using household socio-demographic data. Energy，286, 129593. [[PDF]([#](https://doi.org/10.1016/j.energy.2023.129593))]
 2. [j] Cheng, X., He, T., Shi, F., Zhao, M., **Liu, X.**, & Chen, S. (2023). Selective feature fusion and irregular-aware network for pavement crack detection. IEEE Transactions on Intelligent Transportation Systems (Early access). [[PDF](https://ieeexplore.ieee.org/abstract/document/10299612)]
 3. [c] Huang, T., Xie, X., & **Liu, X.** (2023, October). Multi-level Correlation Matching for Legal Text Similarity Modeling with Multiple Examples. In International Conference on Web Information Systems Engineering (pp. 621-632). Singapore: Springer Nature Singapore.  [[PDF](https://link.springer.com/chapter/10.1007/978-981-99-7254-8_48)]
 4. [j] Cheng, X., Wang, K.,**Liu, X.**, Yu, Q., Shi, F., Ren, Z., & Chen, S. (2023). A Novel Class-Imbalanced Ship Motion Data-Based Deep Learning Model for Sea State Estimation. IEEE Transactions on Intelligent Transportation Systems (Early access). [[PDF](https://ieeexplore.ieee.org/document/10273201)]
@@ -263,4 +263,4 @@ I developed the following open source software systems in my previous research w
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l1wgw4prylj1pfeud4l1" alt="trackgit-views" />
 </a>
-_Last updated 2023-11-05
+_Last updated 2023-11-09
