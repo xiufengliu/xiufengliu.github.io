@@ -47,7 +47,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 1. [j] Meng, F., Lu, Z., Li, X., Han, W., Peng, J., **Liu, X.***, & Niu, Z. (2024). Demand-Side Energy Management Reimagined: A Comprehensive Literature Analysis Leveraging Large Language Models, Energy, In press. [[PDF](#)] 
 2. [j] Wu, J., Niu, Z., & **Liu, X.***. (2024). Understanding Epidemic Spread Patterns: A Visual Analysis Approach, Health Systems, In press. [[PDF](#)] 
-3. [j] Liu, M., Cheng, X., Shi, F., **Liu, X.**, Dai, H., & Chen, S. (2024). A Prototype-empowered Kernel-varying Convolutional Model for Imbalanced Sea State Estimation in IoT-enabled Autonomous Ship. [[PDF](#)]
+3. [j] Liu, M., Cheng, X., Shi, F., **Liu, X.**, Dai, H., & Chen, S. (2024). A Prototype-empowered Kernel-varying Convolutional Model for Imbalanced Sea State Estimation in IoT-enabled Autonomous Ship. IEEE Transactions on Sustainable Computing (In press) [[PDF](#)]
 4. [j] Yin, Y., Cheng, X., Shi, F., **Liu, X.**, Huo, H., & Chen, S. (2024). High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection. IEEE Transactions on Geoscience and Remote Sensing (Early access). [[PDF](https://doi.org/10.1109/TGRS.2023.3349168)]
 5. [j] Wen, H., **Liu, X.**, Yang, M., Lei, B., Cheng, X., & Chen, Z. (2024). A novel approach for identifying customer groups for personalized demand-side management services using household socio-demographic data. Energy，286, 129593. [[PDF]([#](https://doi.org/10.1016/j.energy.2023.129593))]
 ### 2023:
