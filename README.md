@@ -46,7 +46,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 ### 2024:
 
 1. [j] Meng, F., Lu, Z., Li, X., Han, W., Peng, J., **Liu, X.***, & Niu, Z. (2024). Demand-Side Energy Management Reimagined: A Comprehensive Literature Analysis Leveraging Large Language Models, Energy, 130303. [[PDF](https://doi.org/10.1016/j.energy.2024.130303)] 
-2. [[PDF](https://doi.org/10.1016/j.apenergy.2023.122502)] 
+2. [j] Hu, Y., Liu, H., Wu, S., Zhao, Y., Wang, Z., &  **Liu, X.*** (2024). Temporal collaborative attention for wind power forecasting. Applied Energy, 357, 122502. [[PDF](https://doi.org/10.1016/j.apenergy.2023.122502)] 
 3. [j] Wu, J., Niu, Z., & **Liu, X.***. (2024). Understanding Epidemic Spread Patterns: A Visual Analysis Approach, Health Systems, In press. [[PDF](http://dx.doi.org/10.1080/20476965.2024.2308286)] 
 4. [j] Liu, M., Cheng, X., Shi, F., **Liu, X.**, Dai, H., & Chen, S. (2024). A Prototype-empowered Kernel-varying Convolutional Model for Imbalanced Sea State Estimation in IoT-enabled Autonomous Ship. IEEE Transactions on Sustainable Computing (In press) [[PDF](https://doi.org/10.1109/TSUSC.2024.3353183)]
 5. [j] Yin, Y., Cheng, X., Shi, F., **Liu, X.**, Huo, H., & Chen, S. (2024). High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection. IEEE Transactions on Geoscience and Remote Sensing (Early access). [[PDF](https://doi.org/10.1109/TGRS.2023.3349168)]
