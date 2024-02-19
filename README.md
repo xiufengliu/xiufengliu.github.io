@@ -45,7 +45,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 ### 2024:
 
-1. [j] Wang, R., **Liu, X.**, Zhao, X., Cheng, X., and Qiu, H. (2023). A novel entropy-based method for quantifying urban energy demand aggregation: Implications for urban planning and policy. Sustainable Cities and Society. [[PDF](#)]
+1. [j] Wang, R., **Liu, X.**, Zhao, X., Cheng, X., and Qiu, H. (2024). A novel entropy-based method for quantifying urban energy demand aggregation: Implications for urban planning and policy. Sustainable Cities and Society. [[PDF](#)]
 2. [j] Zhu, J., and  **Liu, X.**. (2024). An integrated intrusion detection framework based on subspace clustering and ensemble learning. Computers and Electrical Engineering. [[PDF](#)] 
 3. [j] Zhao, Y., Zhang, W., **Liu, X.**. (2024). Grid Search with a Weighted Error Function: Hyper-Parameter Optimization for Financial Time Series Forecasting, Applied Soft computing. [[PDF](https://doi.org/10.1016/j.asoc.2024.111362)] 
 4. [j] Meng, F., Lu, Z., Li, X., Han, W., Peng, J., **Liu, X.***, & Niu, Z. (2024). Demand-Side Energy Management Reimagined: A Comprehensive Literature Analysis Leveraging Large Language Models, Energy, 130303. [[PDF](https://doi.org/10.1016/j.energy.2024.130303)] 
