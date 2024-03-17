@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git add -A *.md *.pdf
+git add -A *.md *.pdf *.html
 git commit -m'updated'
 git push
 
