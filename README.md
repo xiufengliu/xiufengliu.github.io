@@ -200,15 +200,16 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 - **Postdoc:**
   - Ruyu Liu (2025.02 - )
   - Xu Cheng (2024.04 - )
-  - Jiawei Wang (2021.01 - 2023.12)
+  - <span style="color:#6b778d">Jiawei Wang (2021.01 - 2023.12)</span>
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
   - Hanguan Wen (2022.01 - present), Co-supervisor
-  - Qianyun Wen (2020.01- present)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor
+  - Yusen Liu (2023.12 - present), UTS, Co-supervisor
+  - <span style="color:#6b778d">Qianyun Wen (2020.01- 2023.12)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor</span>
   - <span style="color:#6b778d">Marco Biemann (2019.12 - 2023.03), Principle supervisor</span>
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
-  - Kenneth Paulsen (2023.06 - )
+  - <span style="color:#6b778d">Kenneth Paulsen (2023.06 - 2023.12)</span>
   - <span style="color:#6b778d">Eigil Vølund (2023.01 - 2023.06)</span>
   - <span style="color:#6b778d">Luisa Montella (2023.01 - 2023.06)</span>
   - <span style="color:#6b778d">Mathilde Christiane Monica Cunningham (2022.12 - 2023.02)</span>
