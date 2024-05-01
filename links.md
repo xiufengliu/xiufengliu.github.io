@@ -30,6 +30,7 @@
 28. [PlayAroundAI](https://play.vercel.ai/)
 29. [Video Summarization](https://b.jimmylv.cn/#)
 30. [语音翻译](https://seamless.metademolab.com/demo)
+31. Write literature review: [[Knowledge Explorer](https://explorer.globe.engineer/)], [[Elicit](https://elicit.com/)] and [[SciSpace](https://typeset.io/)]
 
 ## Dataset
 1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
