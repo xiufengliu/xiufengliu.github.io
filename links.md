@@ -48,7 +48,8 @@
 14. [High-quality wind power and PV with GIS](https://github.com/intelligence-csd-auth-gr/greek-solar-wind-energy-forecasting/tree/main/resources/raw_data)
 15. [List of Water conumption data](https://github.com/AnnaDiMauro/WDDreview)
 16. [Water consumption data](https://github.com/The-SmartH2O-project/datasets/tree/master)    
-17. [Water quality data for anomaly detection](https://zenodo.org/records/4304080)    
+17. [Water quality data for anomaly detection](https://zenodo.org/records/4304080)   
+18. [OPENEI-Open Energy Data Initiative](https://data.openei.org/) and [free Jupyter](https://studiolab.sagemaker.aws/) to use OPENEI data
 ## The colors I like best:
 
 ![Good color](colors.webp){: width=500px}

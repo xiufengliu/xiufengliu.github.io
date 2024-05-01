@@ -217,7 +217,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - <span style="color:#6b778d">Matteo Zanotto (2022.09 - 2023.01)</span>
   - <span style="color:#6b778d">Philipp Sedlmeier (2021.12 - 2022.06)</span>
   - <span style="color:#6b778d">Casper Hegner Jonsson (2019.02 - 2019.08)</span>
-  - <span style="color:#6b778d">Yingrui Li (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Yingrui L发                              i (2021.01-2021.07)</span>
   - <span style="color:#6b778d">Chanyu Yang (2021.01-2021.07)</span>
   - <span style="color:#6b778d">Yucheng Ren (2021.01-2021.07)</span>
   - <span style="color:#6b778d">Roberto Monaco (2021.01-2021.07)</span>
