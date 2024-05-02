@@ -54,7 +54,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 7. [j] Meng, F., Lu, Z., Li, X., Han, W., Peng, J., **Liu, X.***, & Niu, Z. (2024). Demand-Side Energy Management Reimagined: A Comprehensive Literature Analysis Leveraging Large Language Models, Energy, 130303. [[PDF](https://doi.org/10.1016/j.energy.2024.130303)] 
 8. [j] Hu, Y., Liu, H., Wu, S., Zhao, Y., Wang, Z., &  **Liu, X.*** (2024). Temporal collaborative attention for wind power forecasting. Applied Energy, 357, 122502. [[PDF](https://doi.org/10.1016/j.apenergy.2023.122502)] 
 9. [j] Wu, J., Niu, Z., & **Liu, X.***. (2024). Understanding Epidemic Spread Patterns: A Visual Analysis Approach, Health Systems, pp. 1-17. [[PDF](http://dx.doi.org/10.1080/20476965.2024.2308286)] 
-10. [j] Liu, M., Cheng, X., Shi, F., **Liu, X.**, Dai, H., & Chen, S. (2024). A Prototype-empowered Kernel-varying Convolutional Model for Imbalanced Sea State Estimation in IoT-enabled Autonomous Ship. IEEE Transactions on Sustainable Computing (In press) [[PDF](https://doi.org/10.1109/TSUSC.2024.3353183)]
+10. [j] Liu, M., Cheng, X., Shi, F., **Liu, X.**, Dai, H., & Chen, S. (2024). A Prototype-empowered Kernel-varying Convolutional Model for Imbalanced Sea State Estimation in IoT-enabled Autonomous Ship. IEEE Transactions on Sustainable Computing [[PDF](https://doi.org/10.1109/TSUSC.2024.3353183)]
 11. [j] Yin, Y., Cheng, X., Shi, F., **Liu, X.**, Huo, H., & Chen, S. (2024). High-order Spatial Interactions Enhanced Lightweight Model for Optical Remote Sensing Image-based Small Ship Detection. IEEE Transactions on Geoscience and Remote Sensing (Early access). [[PDF](https://doi.org/10.1109/TGRS.2023.3349168)]
 12. [j] Wen, H., **Liu, X.**, Yang, M., Lei, B., Cheng, X., & Chen, Z. (2024). A novel approach for identifying customer groups for personalized demand-side management services using household socio-demographic data. Energy，286, 129593. [[PDF](https://doi.org/10.1016/j.energy.2023.129593)]
 ### 2023:
@@ -200,17 +200,18 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 ## Supervision
 
 - **Postdoc:**
-  - Ruyu Liu (2025.02 - )
-  - Xu Cheng (2024.04 - )
+  - Ruyu Liu (2025.02 - 2027.01)
+  - Xu Cheng (2024.04 - 2026.03)
   - <span style="color:#6b778d">Jiawei Wang (2021.01 - 2023.12)</span>
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
-  - Hanguan Wen (2022.01 - present), Co-supervisor
   - Yusen Liu (2023.12 - present), UTS, Co-supervisor
+  - <span style="color:#6b778d">Hanguan Wen (2022.01 - present), Co-supervisor</span>
   - <span style="color:#6b778d">Qianyun Wen (2020.01- 2023.12)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor</span>
   - <span style="color:#6b778d">Marco Biemann (2019.12 - 2023.03), Principle supervisor</span>
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
+  - Yukang Sun (2024.04 - 2024.09)
   - <span style="color:#6b778d">Kenneth Paulsen (2023.06 - 2023.12)</span>
   - <span style="color:#6b778d">Eigil Vølund (2023.01 - 2023.06)</span>
   - <span style="color:#6b778d">Luisa Montella (2023.01 - 2023.06)</span>
@@ -219,7 +220,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - <span style="color:#6b778d">Matteo Zanotto (2022.09 - 2023.01)</span>
   - <span style="color:#6b778d">Philipp Sedlmeier (2021.12 - 2022.06)</span>
   - <span style="color:#6b778d">Casper Hegner Jonsson (2019.02 - 2019.08)</span>
-  - <span style="color:#6b778d">Yingrui L发                              i (2021.01-2021.07)</span>
+  - <span style="color:#6b778d">Yingrui Li (2021.01-2021.07)</span>
   - <span style="color:#6b778d">Chanyu Yang (2021.01-2021.07)</span>
   - <span style="color:#6b778d">Yucheng Ren (2021.01-2021.07)</span>
   - <span style="color:#6b778d">Roberto Monaco (2021.01-2021.07)</span>
@@ -232,16 +233,16 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 I am working on the following research projects, *with the role of PI/WP Lead/Participant*:
 - **S3EM**: A Semantic 3D Energy Model for Prosumer With Integrated Photovoltaics Systems, EU Marie Curie Project,  **Role:** PI, Date:1/02 2025 - 31/01 2027
 - **ANSWER**: A heterogeneous distributed prediction model for wind-solar energy production, EU Marie Curie Project,  **Role:** PI, Date:1/04 2024 - 31/03 2026
-- **BEGONIA**: Enabling the Internet of Energy and Optimized Transport through Cross-Border Digital Platforms, **Role:** participant,  Date:1/01 2024 - 31/03 2026
-- **RE-INTEGRATE**: RE-thinking of approaches and toolkits for transdisciplinary INTEGRATEd assessment of climate-compatible
+- **[BEGONIA](https://www.begonia-project.eu/)**: Enabling the Internet of Energy and Optimized Transport through Cross-Border Digital Platforms, **Role:** participant,  Date:1/01 2024 - 31/03 2026
+- **[RE-INTEGRATE](https://re-integrate-au.eu/)**: RE-thinking of approaches and toolkits for transdisciplinary INTEGRATEd assessment of climate-compatible
 energy strategies from the African Union through to the European Union, EU Horizon project, **Role:** WP lead, Date:1/09 2023 -　　
-- **RES4CITY**: Renewable Energies System for Cities, EU Horizon project, Date:1/10 2022 -　　
+- **RES4CITY**: Renewable Energies System for Cities, EU Horizon project, **Role:** participant, Date:1/10 2022 -　　
 - <span style="color:#6b778d">**[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 - 30/05 2023 </span>
 - <span style="color:#6b778d">**[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 28/02 2023 </span>
 - <span style="color:#6b778d">**[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, Date: 9/4 2019 - 31/3 2023 </span>
 - <span style="color:#6b778d">**CBIT**: Climate Change of Antigua and Barbuda, UN Consultancy project, Date:1/12 2020-2022</span>　　
 - <span style="color:#6b778d">**HEAT 4.0:** Digitally supported Smart District Heating (Nr. 8090-00046A), **Role**: WP2 lead, Date: 19/3 2019 - 22/8 2022</span>
-- Reinforcement learning for autonomous building energy managment, Date: 12/1 2019 - 11/30 2022
+- <span style="color:#6b778d">Reinforcement learning for autonomous building energy managment, Date: 12/1 2019 - 11/30 2022</span>
 - <span style="color:#6b778d">**CVAES:** Cognitive Visual Analytics for Smart Energy Systems, Date: 1/10 2019 - 30/9 2021</span>
 - <span style="color:#6b778d">**IDASC:** Data lake, **Role:** WP2 lead, Date: 12/2018 - 06/2021.</span>
 - <span style="color:#6b778d" >[**CITIES**](http://smart-cities-centre.org/): Centre for IT-Intelligent Energy Systems in Smart Cities, **Role:** WP1 lead since August 2018, **Date:** 01/01/2015 – 31/12/2020</span>
