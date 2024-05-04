@@ -30,7 +30,7 @@
 29. [Video Summarization](https://b.jimmylv.cn/#)
 30. [语音翻译](https://seamless.metademolab.com/demo)
 31. Write literature review: [[Knowledge Explorer](https://explorer.globe.engineer/)], [[Elicit](https://elicit.com/)] and [[SciSpace](https://typeset.io/)]
-32. MML: [[LLAMA2](https://www.llama2.ai/)], [[Claude](https://claude.ai/)], [[CommandR+](https://dashboard.cohere.com/)], [[Gemini](https://deepmind.google/technologies/gemini/#gemini-1.5)], [[Copilot](https://copilot.microsoft.com/)], 
+32. MML: [[LLAMA2](https://www.llama2.ai/)], [[Claude](https://claude.ai/)], [[CommandR+](https://dashboard.cohere.com/)], [[Gemini](https://deepmind.google/technologies/gemini/#gemini-1.5)], [[Copilot](https://copilot.microsoft.com/)], [[scite](https://scite.ai/users/xiufeng-liu-g1P1/feed)] 
 33. [Free Jupyter](https://studiolab.sagemaker.aws/)
 
 ## Dataset
