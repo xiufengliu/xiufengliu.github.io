@@ -31,6 +31,7 @@
 30. [语音翻译](https://seamless.metademolab.com/demo)
 31. Write literature review: [[Knowledge Explorer](https://explorer.globe.engineer/)], [[Elicit](https://elicit.com/)] and [[SciSpace](https://typeset.io/)]
 32. MML: [[LLAMA2](https://www.llama2.ai/)], [[Claude](https://claude.ai/)], [[CommandR+](https://dashboard.cohere.com/)], [[Gemini](https://deepmind.google/technologies/gemini/#gemini-1.5)], [[Copilot](https://copilot.microsoft.com/)], 
+33. [Free Jupyter](https://studiolab.sagemaker.aws/)
 
 ## Dataset
 1. [地温时空数据](https://github.com/wren93/SST-POD/blob/main/SST_POD.ipynb)
