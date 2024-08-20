@@ -52,6 +52,7 @@
 16. [Water consumption data](https://github.com/The-SmartH2O-project/datasets/tree/master)    
 17. [Water quality data for anomaly detection](https://zenodo.org/records/4304080)   
 18. [OPENEI-Open Energy Data Initiative](https://data.openei.org/) and [free Jupyter](https://studiolab.sagemaker.aws/) to use OPENEI data
+19. [风电的数据源](https://github.com/sltzgs/Wind_Turbine_SCADA_open_data?tab=readme-ov-file)
 ## The colors I like best:
 
 ![Good color](colors.webp){: width=500px}
