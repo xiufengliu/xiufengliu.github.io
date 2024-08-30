@@ -217,11 +217,12 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
   - Yusen Liu (2023.12 - present), UTS, Co-supervisor
-  - <span style="color:#6b778d">Hanguan Wen (2022.01 - present), Co-supervisor</span>
+  - <span style="color:#6b778d">Hanguan Wen (2022.01 - 2024.06), Co-supervisor</span>
   - <span style="color:#6b778d">Qianyun Wen (2020.01- 2023.12)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor</span>
   - <span style="color:#6b778d">Marco Biemann (2019.12 - 2023.03), Principle supervisor</span>
   - <span style="color:#6b778d">Angreine Kewo (2016.04 - 2020.12),  Co-supervisor</span>
 - **Master students:**
+  - Gianfranco Bardi Aparicio (2024.09 - 2025.02)
   - Yukang Sun (2024.04 - 2024.09)
   - <span style="color:#6b778d">Kenneth Paulsen (2023.06 - 2023.12)</span>
   - <span style="color:#6b778d">Eigil Vølund (2023.01 - 2023.06)</span>
@@ -242,7 +243,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 ## Research Projects
 
 I am working on the following research projects, *with the role of PI/WP Lead/Participant*:
-- **OPTIX**:Optimising Positive-Energy Districts through Interoperable Digital Platforms, EU CET  **Role:** CO-PI, Date:1/02 2025 - 31/01 2028
+- **OPTIX**: Optimising Positive-Energy Districts through Interoperable Digital Platforms, EU CET  **Role:** CO-PI, Date:1/02 2025 - 31/01 2028
 - **S3EM**: A Semantic 3D Energy Model for Prosumer With Integrated Photovoltaics Systems, EU Marie Curie Project,  **Role:** PI, Date:1/02 2025 - 31/01 2027
 - **ANSWER**: A heterogeneous distributed prediction model for wind-solar energy production, EU Marie Curie Project,  **Role:** PI, Date:1/04 2024 - 31/03 2026
 - **[BEGONIA](https://www.begonia-project.eu/)**: Enabling the Internet of Energy and Optimized Transport through Cross-Border Digital Platforms, **Role:** participant,  Date:1/01 2024 - 31/03 2026
