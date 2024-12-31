@@ -18,7 +18,7 @@ Technical University of Denmark
 
 ## Book Release
 
-![](https://book.scicloud.site/media/8c52bcdf3de5860375989129417368b8dbac6ceca7b34b2590290165.jpg)
+![](./my_book_cover.png)
 
 **AI全景探索: 人工智能的未来之旅**
 
