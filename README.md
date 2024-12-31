@@ -229,6 +229,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
 - **PhD students:**
   - Yusen Liu (2023.12 - present), UTS, Co-supervisor
+  - Mofan Duan (2024.01 - Present), Topic: AImprove the generalization and robustness of AI model under the information bottleneck framework, Host by University of Portsmouth, Co-supervisor.
   - <span style="color:#6b778d">Hanguan Wen (2022.01 - 2024.06), Co-supervisor</span>
   - <span style="color:#6b778d">Qianyun Wen (2020.01- 2023.12)  Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor</span>
   - <span style="color:#6b778d">Marco Biemann (2019.12 - 2023.03), Principle supervisor</span>
