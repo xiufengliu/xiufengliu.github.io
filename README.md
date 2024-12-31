@@ -257,7 +257,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 ## Research Projects
 
 I am working on the following research projects, *with the role of PI/WP Lead/Participant*:
-- **OPTIX**: Optimising Positive-Energy Districts through Interoperable Digital Platforms, EU CET  **Role:** CO-PI, Date:1/02 2025 - 31/01 2028
+- **[OPTIX](https://optixproject.github.io/)**: Optimising Positive-Energy Districts through Interoperable Digital Platforms, EU CET  **Role:** CO-PI, Date:1/02 2025 - 31/01 2028
 - **S3EM**: A Semantic 3D Energy Model for Prosumer With Integrated Photovoltaics Systems, EU Marie Curie Project,  **Role:** PI, Date:1/02 2025 - 31/01 2027
 - **ANSWER**: A heterogeneous distributed prediction model for wind-solar energy production, EU Marie Curie Project,  **Role:** PI, Date:1/04 2024 - 31/03 2026
 - **[BEGONIA](https://www.begonia-project.eu/)**: Enabling the Internet of Energy and Optimized Transport through Cross-Border Digital Platforms, **Role:** participant,  Date:1/01 2024 - 31/03 2026
