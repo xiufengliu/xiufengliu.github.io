@@ -16,6 +16,16 @@ Technical University of Denmark
 
 ------
 
+## Book Release
+
+![](https://book.scicloud.site/media/8c52bcdf3de5860375989129417368b8dbac6ceca7b34b2590290165.jpg)
+
+**AI全景探索: 人工智能的未来之旅**
+
+Authored by Dr. Xiufeng Liu, 2024.  
+Explore the cutting-edge developments of artificial intelligence through a multidisciplinary lens that combines technology, philosophy, and culture.  
+
+
 ## Short Bio
 
 I am a Senior researcher (Associate Professor level) at the Department of Technology, Management and Economics at the [Technical University of Denmark (DTU)](http://www.dtu.dk), where I am a member of the research group of [Energy Economics and Modelling](https://www.sustainability.man.dtu.dk/english/research/energy-economics-and-system-analysis). 
