@@ -263,7 +263,7 @@ I am working on the following research projects, *with the role of PI/WP Lead/Pa
 - **[BEGONIA](https://www.begonia-project.eu/)**: Enabling the Internet of Energy and Optimized Transport through Cross-Border Digital Platforms, **Role:** participant,  Date:1/01 2024 - 31/03 2026
 - **[RE-INTEGRATE](https://re-integrate-au.eu/)**: RE-thinking of approaches and toolkits for transdisciplinary INTEGRATEd assessment of climate-compatible
 energy strategies from the African Union through to the European Union, EU Horizon project, **Role:** WP lead, Date:1/09 2023 -　　
-- **RES4CITY**: Renewable Energies System for Cities, EU Horizon project, **Role:** participant, Date:1/10 2022 -　　
+- **[RES4CITY](https://www.res4city.eu/)**: Renewable Energies System for Cities, EU Horizon project, **Role:** participant, Date:1/10 2022 -　　
 - <span style="color:#6b778d">**[EMB3Rs](https://www.emb3rs.eu):** User-driven Energy- Matching & Business Prospection Tool for Industrial Excess Heat / Cold Reduction, Recovery and Redistribution. EU H2020 Project, Date: 28/9 2019 - 30/05 2023 </span>
 - <span style="color:#6b778d">**[FlexSUS](https://flexsus.org/):** Flexibility for Smart Urban Energy Systems, **Role**: Participant, Date: 1/9 2019 - 28/02 2023 </span>
 - <span style="color:#6b778d">**[FED](https://www.flexibleenergydenmark.dk/):** Flexible Energy Denmark, Date: 9/4 2019 - 31/3 2023 </span>
