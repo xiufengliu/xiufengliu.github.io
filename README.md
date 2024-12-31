@@ -224,6 +224,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 - **Postdoc:**
   - Ruyu Liu (2025.02 - 2027.01)
+  - Arega Getaneh Abate (2025.01 - 2026.12)
   - Xu Cheng (2024.04 - 2026.03)
   - <span style="color:#6b778d">Jiawei Wang (2021.01 - 2023.12)</span>
   - <span style="color:#6b778d">Zhibin Niu (2019.10 - 2021.09)</span>
