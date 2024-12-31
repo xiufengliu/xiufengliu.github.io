@@ -18,13 +18,18 @@ Technical University of Denmark
 
 ## Book Release
 
-![](./my_book_cover.png)
+<div style="text-align: center;">
+    <img src="./book_cover.png" alt="AI Book Cover" width="250">
+</div>
 
 **AI全景探索: 人工智能的未来之旅**
 
-Authored by Dr. Xiufeng Liu, 2024.  
+Authored by Dr. Xiufeng Liu & Zhijin Wang, 2024.  
 Explore the cutting-edge developments of artificial intelligence through a multidisciplinary lens that combines technology, philosophy, and culture.  
 
+👉 [Learn more about the book](https://book.scicloud.site) 
+
+------
 
 ## Short Bio
 
