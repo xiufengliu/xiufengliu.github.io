@@ -14,20 +14,6 @@ Technical University of Denmark
 
 [Google Scholar](<https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en>) / [ResearchGate](https://www.researchgate.net/profile/Xiufeng-Liu-2) / [ORCID](https://orcid.org/0000-0001-5133-6688) /[DTU Orbit](https://orbit.dtu.dk/en/persons/xiufeng-liu) / [GitHub](https://github.com/xiufengliu) / [LinkedIn](https://www.linkedin.com/in/xiufeng-liu-22ba1192/)
 
-------
-
-## Book Release
-
-<div style="text-align: center;">
-    <img src="./my_book_cover.png" alt="AI Book Cover" width="250">
-</div>
-
-**AI全景探索: 人工智能的未来之旅**
-
-Authored by Dr. Xiufeng Liu & Zhijin Wang, 2024.  
-Explore the cutting-edge developments of artificial intelligence through a multidisciplinary lens that combines technology, philosophy, and culture.  
-
-👉 [Learn more about the book](https://book.scicloud.site) 
 
 ------
 
@@ -51,6 +37,21 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
   - Detecting anomalous energy consumption patterns
   - Investigating the intersection of energy informatics and big data management
   - Exploring the potential of the Internet of Things in these domains
+
+------
+
+## Book Release
+
+<div style="text-align: center;">
+    <img src="./my_book_cover.png" alt="AI Book Cover" width="250">
+</div>
+
+**AI全景探索: 人工智能的未来之旅**
+
+Authored by Dr. Xiufeng Liu & Zhijin Wang, 2024.  
+Explore the cutting-edge developments of artificial intelligence through a multidisciplinary lens that combines technology, philosophy, and culture.  
+
+👉 [Learn more about the book](https://book.scicloud.site) 
 
 ------
 
