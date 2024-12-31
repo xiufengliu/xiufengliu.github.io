@@ -48,18 +48,14 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 1. [c] Zhang, Z., Liu, R., **Liu, X.**, Zhu, Y., Yang, Y., Wang, C., & Zhang, J. (2025). PULLM: A multimodal
 framework for enhanced 3D point cloud upsampling using large language models. In Proceedings of the
 40th ACM/SIGAPP Symposium on Applied Computing (SAC). Accepted.
-
 2. [c] Zhang, Z., Liu, R., Wang, C., Zhang, X., Zhang, J., & **Liu, X.** (2025). SPRGAN: Streamlined
 progressive refinement for adversarial point cloud video upsampling. In Proceedings of the 2025 IEEE
 International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). Accepted.
-
 3. [c] Zhang, Z., Liu, R., Wang, C., Zhang, X., Zhang, J., & **Liu, X.** (2025). Enhancing dense point clouds
 with self-supervised adaptive generative adversarial network. In Proceedings of the 2025 IEEE
 International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). Accepted.
-
 4. [c] Zhang, Z., Zhu, Y., Liu, R., Cheng, X., Zhang, J., & **Liu, X.** (2025). Efficient large-scale scene point cloud upsampling with implicit neural networks and spatial hashing. In Proceedings of the 2025 IEEE
 International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). Accepted.
-
 5. [c] Liu, H., Jia, C., Cheng, X., Shi, F., & **Liu, X.** (2025). Serial local patterns and irregular dependencies extract and cascaded fusion network for structural crack segmentation. In Proceedings of the 2025
 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). Accepted.
 
