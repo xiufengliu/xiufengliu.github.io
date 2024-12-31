@@ -42,7 +42,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 
 ## Book Release
 
-<div style="text-align: center;">
+<div style="text-align: left;">
     <img src="./my_book_cover.png" alt="AI Book Cover" width="250">
 </div>
 
