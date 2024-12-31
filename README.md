@@ -19,7 +19,7 @@ Technical University of Denmark
 ## Book Release
 
 <div style="text-align: center;">
-    <img src="./book_cover.png" alt="AI Book Cover" width="250">
+    <img src="./my_book_cover.png" alt="AI Book Cover" width="250">
 </div>
 
 **AI全景探索: 人工智能的未来之旅**
