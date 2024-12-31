@@ -74,7 +74,6 @@ International Conference on Acoustics, Speech, and Signal Processing (ICASSP 202
 International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). Accepted.
 5. [c] Liu, H., Jia, C., Cheng, X., Shi, F., & **Liu, X.** (2025). Serial local patterns and irregular dependencies extract and cascaded fusion network for structural crack segmentation. In Proceedings of the 2025
 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). Accepted.
-
 ### 2024:
 
 6. [j] Cheng, X., Shi, F., Zhang, Y., Li, H., **Liu, X.**, & Chen, S. (2024). FRAME: Feature Rectification for Class Imbalance Learning. IEEE Transactions on Knowledge and Data Engineering. [[PDF](https://doi.org/10.1109/TKDE.2024.3523043)]
