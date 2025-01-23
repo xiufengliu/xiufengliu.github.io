@@ -61,9 +61,7 @@ Explore the cutting-edge developments of artificial intelligence through a multi
 
 ### 2025:
 
-1. [c] Zhang, Z., Liu, R., **Liu, X.**, Zhu, Y., Yang, Y., Wang, C., & Zhang, J. (2025). PULLM: A multimodal
-framework for enhanced 3D point cloud upsampling using large language models. In Proceedings of the
-40th ACM/SIGAPP Symposium on Applied Computing (SAC). Accepted.
+1. [c] Zhang, Z., Liu, R., **Liu, X.**, Zhu, Y., Yang, Y., Wang, C., & Zhang, J. (2025). PULLM: A multimodal framework for enhanced 3D point cloud upsampling using large language models. In Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC). Accepted.
 2. [c] Zhang, Z., Liu, R., Wang, C., Zhang, X., Zhang, J., & **Liu, X.** (2025). SPRGAN: Streamlined
 progressive refinement for adversarial point cloud video upsampling. In Proceedings of the 2025 IEEE
 International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). Accepted.
