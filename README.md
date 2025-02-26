@@ -51,7 +51,7 @@ I completed my PhD at the Department of Computer Science ([Daisy research group]
 Authored by Dr. Xiufeng Liu & [Zhijin Wang](https://freepose.github.io/), 2024.  
 Explore the cutting-edge developments of artificial intelligence through a multidisciplinary lens that combines technology, philosophy, and culture.  
 
-👉 [Learn more about the book](https://book.scicloud.site) 
+👉 [Learn more about the book](https://github.com/xiufengliu/ai-panorama-site) 
 
 ------
 
