@@ -19,10 +19,7 @@
                     <p>Technical University of Denmark</p>
                     <div class="contact-info">
                         <p><i class="fas fa-map-marker-alt"></i> Building 424, room 006, 2800 Kgs. Lyngby, Denmark</p>
-                        <p><i class="fas fa-envelope"></i> xiuli@dtu.dk</p>
-                        <p><i class="fas fa-file-pdf"></i> <a href="CV_Xiufeng.pdf" target="_blank">CV (PDF)</a></p>
-                        <p><i class="fab fa-github"></i> <a href="https://github.com/xiufengliu" target="_blank">GitHub</a></p>
-                        <p><i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0001-5133-6688" target="_blank">ORCID</a></p>
+                        <p><i class="fas fa-envelope"></i> xiuli@dtu.dk | <i class="fab fa-github"></i> <a href="https://github.com/xiufengliu" target="_blank">GitHub</a> | <i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0001-5133-6688" target="_blank">ORCID</a></p>
                     </div>
                 </div>
             </div>
@@ -50,40 +47,122 @@
             <!-- Research Interests -->
             <section id="research">
                 <h2>Research Interests</h2>
-                <p>I am interested in Smart Meter Data Analytics, Data Management, Big Data, and Data Mining. My current research includes:</p>
-                <ul>
-                    <li>Smart meter data analytics
+
+                <div class="tabs-container">
+                    <ul class="tabs-nav">
+                        <li><button>Overview</button></li>
+                        <li><button>Smart Meter Analytics</button></li>
+                        <li><button>Energy Informatics</button></li>
+                        <li><button>Big Data Management</button></li>
+                        <li><button>Internet of Things</button></li>
+                    </ul>
+
+                    <!-- Overview Tab -->
+                    <div class="tab-content">
+                        <p>I am interested in Smart Meter Data Analytics, Data Management, Big Data, and Data Mining. My current research includes:</p>
+                        <ul>
+                            <li>Smart meter data analytics</li>
+                            <li>Energy Informatics</li>
+                            <li>Big data management, and ETL</li>
+                            <li>Internet of Things</li>
+                        </ul>
+                    </div>
+
+                    <!-- Smart Meter Analytics Tab -->
+                    <div class="tab-content">
+                        <h3>Smart Meter Data Analytics</h3>
+                        <p>My research in smart meter data analytics focuses on:</p>
                         <ul>
                             <li>Benchmarking smart meter data analytics systems and algorithms</li>
-                            <li>Smart meter Data Analytics System</li>
-                            <li>Anomaly energy consumption detection</li>
+                            <li>Developing smart meter data analytics systems</li>
+                            <li>Detecting anomalous energy consumption patterns</li>
+                            <li>Applying machine learning techniques to energy consumption data</li>
                         </ul>
-                    </li>
-                    <li>Energy Informatics</li>
-                    <li>Big data management, and ETL</li>
-                    <li>Internet of Things</li>
-                </ul>
+                        <p>This research aims to help utilities and consumers better understand energy usage patterns and identify opportunities for energy conservation.</p>
+                    </div>
+
+                    <!-- Energy Informatics Tab -->
+                    <div class="tab-content">
+                        <h3>Energy Informatics</h3>
+                        <p>My work in energy informatics explores the intersection of information systems and energy systems, with a focus on:</p>
+                        <ul>
+                            <li>Energy data management and analytics</li>
+                            <li>Smart grid technologies</li>
+                            <li>Renewable energy integration</li>
+                            <li>Energy efficiency optimization</li>
+                        </ul>
+                    </div>
+
+                    <!-- Big Data Management Tab -->
+                    <div class="tab-content">
+                        <h3>Big Data Management</h3>
+                        <p>In the area of big data management, my research includes:</p>
+                        <ul>
+                            <li>Scalable data processing frameworks</li>
+                            <li>ETL (Extract, Transform, Load) processes for big data</li>
+                            <li>Data warehousing for time series data</li>
+                            <li>Performance optimization for big data systems</li>
+                        </ul>
+                    </div>
+
+                    <!-- Internet of Things Tab -->
+                    <div class="tab-content">
+                        <h3>Internet of Things</h3>
+                        <p>My IoT research focuses on:</p>
+                        <ul>
+                            <li>IoT data collection and processing</li>
+                            <li>Edge computing for IoT applications</li>
+                            <li>IoT analytics for smart buildings and cities</li>
+                            <li>Integration of IoT with energy systems</li>
+                        </ul>
+                    </div>
+                </div>
             </section>
 
             <!-- Research Projects -->
             <section id="projects">
                 <h2>Research Projects</h2>
+                <div class="filter-container">
+                    <label for="project-filter">Filter by type:</label>
+                    <select id="project-filter">
+                        <option value="all">All Projects</option>
+                        <option value="eu">EU Projects</option>
+                        <option value="national">National Projects</option>
+                        <option value="industry">Industry Collaboration</option>
+                    </select>
+                </div>
                 <div class="project-grid">
                     <!-- Project items will go here -->
-                    <div class="project-item">
+                    <div class="project-item" data-type="eu">
                         <h3>OPTIX: Optimising Positive-Energy Districts through Interoperable Digital Platforms</h3>
                         <p class="project-date">01/12/2024-30/11/2027</p>
                         <p>Development of a heterogeneous distributed prediction model for wind-solar energy production.</p>
                         <p><strong>Role:</strong> Co-PI. <strong>EU CETPartnership Project</strong>.</p>
                     </div>
-                    
-                    <div class="project-item">
+
+                    <div class="project-item" data-type="eu">
                         <h3>S3EM: A Semantic 3D Energy Model for Prosumer With Integrated Photovoltaics Systems</h3>
                         <p class="project-date">01/02/2025-31/01/2027</p>
                         <p>Development of a heterogeneous distributed prediction model for wind-solar energy production.</p>
                         <p><strong>Role:</strong> PI. <strong>EU Marie Curie Project</strong>.</p>
                     </div>
-                    
+
+                    <!-- Example of a national project -->
+                    <div class="project-item" data-type="national">
+                        <h3>SciCloud: Scientific Cloud Computing Platform</h3>
+                        <p class="project-date">01/01/2017-30/6/2018</p>
+                        <p>Establishes a private cloud platform to support research projects at DTU.</p>
+                        <p><strong>Role:</strong> Participant, responsible for cloud platform setup, management, and establishing data lake.</p>
+                    </div>
+
+                    <!-- Example of an industry project -->
+                    <div class="project-item" data-type="industry">
+                        <h3>Industry Collaboration Example</h3>
+                        <p class="project-date">01/01/2023-31/12/2023</p>
+                        <p>Collaboration with industry partners on energy data analytics.</p>
+                        <p><strong>Role:</strong> Project Lead</p>
+                    </div>
+
                     <!-- Add more projects as needed -->
                 </div>
             </section>
@@ -92,18 +171,89 @@
             <section id="publications">
                 <h2>Publications</h2>
                 <p>Google Citation: ≥3200, H-index: 32, i10-index: 67</p>
-                
-                <h3>Recent Selected Publications</h3>
-                <ol class="publication-list">
-                    <li>
-                        <strong>X. Liu</strong>, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. Accepted by Energies, 2019. [<a href="#" target="_blank">PDF</a>]
-                    </li>
-                    <li>
-                        <strong>X. Liu</strong>, P. S. Nielsen, A. Heller, and P. Gianniou. SciCloud: A Scientific Cloud and Management Platform for Smart City Data. Proc. of DEXA Workshop, pp. 27-31, 2017. [<a href="https://ieeexplore.ieee.org/document/8049680/" target="_blank">PDF</a>] [<a href="https://www.dropbox.com/s/u0glsf86mi6k38h/slides_SciCloud_dexa.pdf?dl=0">Slides</a>]
-                    </li>
-                    <!-- Add more publications as needed -->
-                </ol>
-                
+
+                <div class="tabs-container">
+                    <ul class="tabs-nav">
+                        <li><button>Journal Articles</button></li>
+                        <li><button>Conference Papers</button></li>
+                        <li><button>Book Chapters</button></li>
+                        <li><button>Technical Reports</button></li>
+                        <li><button>Preprints</button></li>
+                    </ul>
+
+                    <!-- Journal Articles Tab -->
+                    <div class="tab-content">
+                        <h3>Journal Articles</h3>
+                        <div class="filter-container">
+                            <form id="journal-filter" class="search-form">
+                                <input type="text" id="journal-search-term" placeholder="Search journal articles...">
+                                <button type="submit" class="btn btn-small">Filter</button>
+                                <button type="reset" class="btn btn-small btn-secondary" onclick="resetFilter('journal-filter', 'journal-search-term', 'journal-list')">Reset</button>
+                            </form>
+                        </div>
+                        <ol class="publication-list journal-list">
+                            <li>
+                                <strong>X. Liu</strong>, Y. Yang, R. Li, and P. S. Nielsen. A stochastic model for residential user activity simulation. Accepted by Energies, 2019. [<a href="#" target="_blank">PDF</a>]
+                            </li>
+                            <li>
+                                <strong>X. Liu</strong>, P. S. Nielsen, A. Heller, and P. Gianniou. SciCloud: A Scientific Cloud and Management Platform for Smart City Data. Proc. of DEXA Workshop, pp. 27-31, 2017. [<a href="https://ieeexplore.ieee.org/document/8049680/" target="_blank">PDF</a>]
+                            </li>
+                            <!-- Add more journal articles as needed -->
+                        </ol>
+                    </div>
+
+                    <!-- Conference Papers Tab -->
+                    <div class="tab-content">
+                        <h3>Conference Papers</h3>
+                        <div class="filter-container">
+                            <form id="conference-filter" class="search-form">
+                                <input type="text" id="conference-search-term" placeholder="Search conference papers...">
+                                <button type="submit" class="btn btn-small">Filter</button>
+                                <button type="reset" class="btn btn-small btn-secondary" onclick="resetFilter('conference-filter', 'conference-search-term', 'conference-list')">Reset</button>
+                            </form>
+                        </div>
+                        <ol class="publication-list conference-list">
+                            <li>
+                                <strong>X. Liu</strong>, P. S. Nielsen. Regression-based Online Anomaly Detection for Smart Grid Data. Proc. of KDD Workshop on Data Mining Applications in Sustainability (SustKDD), 2016. [<a href="#" target="_blank">PDF</a>]
+                            </li>
+                            <!-- Add more conference papers as needed -->
+                        </ol>
+                    </div>
+
+                    <!-- Book Chapters Tab -->
+                    <div class="tab-content">
+                        <h3>Book Chapters</h3>
+                        <ol class="publication-list">
+                            <li>
+                                <strong>X. Liu</strong>, et al. Chapter title example. In Book Title, Publisher, 2022. [<a href="#" target="_blank">PDF</a>]
+                            </li>
+                            <!-- Add more book chapters as needed -->
+                        </ol>
+                    </div>
+
+                    <!-- Technical Reports Tab -->
+                    <div class="tab-content">
+                        <h3>Technical Reports</h3>
+                        <ol class="publication-list">
+                            <li>
+                                Ben, S., Hjøllund, T., Nielsen, P. S., Madsen, H., Bergsteinsson, H. G., & <strong>X. Liu*</strong> (2021). Energy data: mapping, barriers and value creation. Technical report. Technical University of Denmark.
+                            </li>
+                            <!-- Add more technical reports as needed -->
+                        </ol>
+                    </div>
+
+                    <!-- Preprints Tab -->
+                    <div class="tab-content">
+                        <h3>Preprints</h3>
+                        <ol class="publication-list">
+                            <li>
+                                Dai, W., Wang, Y., Cheng, X., <strong>X. Liu</strong>, & Nielsen, P. S. (2021). Online anomaly detection with a lightweight IIoT data stream processing framework. Preprints 2021090351.
+                            </li>
+                            <!-- Add more preprints as needed -->
+                        </ol>
+                    </div>
+                </div>
+
                 <p><a href="publications.html" class="btn">View All Publications</a></p>
             </section>
 
@@ -115,17 +265,17 @@
                         <h3><a href="https://vis.flexsus.org">AHP</a></h3>
                         <p>Heat Utilization Optimizer: An AHP-based Decision Support Tool</p>
                     </div>
-                    
+
                     <div class="software-item">
                         <h3><a href="https://api.flexsus.org">FlexSUS</a></h3>
                         <p>A flexible decision platform for urban energy systems</p>
                     </div>
-                    
+
                     <div class="software-item">
                         <h3><a href="https://github.com/xiufengliu/SEGSys">SEGSys</a></h3>
                         <p>An online mapping system for segmentation analysis of energy consumption</p>
                     </div>
-                    
+
                     <!-- Add more software items as needed -->
                 </div>
             </section>
@@ -144,30 +294,52 @@
             <!-- Supervision -->
             <section id="supervision">
                 <h2>Supervision</h2>
-                
+
+                <h3>Postdocs</h3>
+                <ul>
+                    <li>Ruyu Liu (2025.02 - 2027.01)</li>
+                    <li>Arega Getaneh Abate (2025.01 - 2026.12)</li>
+                    <li>Xu Cheng (2024.04 - 2026.03)</li>
+                    <li>Jiawei Wang (2021.01 - 2023.12)</li>
+                    <li>Zhibin Niu (2019.10 - 2021.09)</li>
+                </ul>
+
                 <h3>PhD Students</h3>
                 <ul>
-                    <li>Wenjing Dai (2019.04 - )</li>
-                    <li>Angreine Kewo (2016.04 - present), co-supervised by Per Sieverts Nielsen</li>
+                    <li>Yusen Liu (2023.12 - present), UTS, Co-supervisor</li>
+                    <li>Mofan Duan (2024.01 - Present), Topic: AImprove the generalization and robustness of AI model under the information bottleneck framework, Host by University of Portsmouth, Co-supervisor</li>
+                    <li>Hanguan Wen (2022.01 - 2024.06), Co-supervisor</li>
+                    <li>Qianyun Wen (2020.01- 2023.12), Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor</li>
+                    <li>Marco Biemann (2019.12 - 2023.03), Principle supervisor</li>
+                    <li>Angreine Kewo (2016.04 - 2020.12), Co-supervisor</li>
                 </ul>
-                
+
                 <h3>Master Students</h3>
                 <ul>
-                    <li>Casper Hegner Jonsson (2019.02 - present)</li>
+                    <li>Gianfranco Bardi Aparicio (2024.09 - 2025.02)</li>
+                    <li>Yukang Sun (2024.04 - 2024.09)</li>
+                    <li>Kenneth Paulsen (2023.06 - 2023.12)</li>
+                    <li>Eigil Vølund (2023.01 - 2023.06)</li>
+                    <li>Luisa Montella (2023.01 - 2023.06)</li>
+                    <li>Mathilde Christiane Monica Cunningham (2022.12 - 2023.02)</li>
+                    <li>Emma Haley Worth Brandt (2022.09 - 2023.02)</li>
+                    <li>Matteo Zanotto (2022.09 - 2023.01)</li>
+                    <li>Philipp Sedlmeier (2021.12 - 2022.06)</li>
+                    <li>Casper Hegner Jonsson (2019.02 - 2019.08)</li>
                 </ul>
             </section>
 
             <!-- Academic Services -->
             <section id="services">
                 <h2>Academic Services</h2>
-                
+
                 <h3>Editorial Service</h3>
                 <ul>
                     <li>Associate Editor: Cleaner Engineering and Technology, Elsevier.</li>
                     <li>Guest Editor: Special issue of Edge Machine Learning: Architectures, Methods and Applications, Applied Soft Computing.</li>
                     <li>Guest Editor: Special issue of Advanced Building Energy Systems, Energies.</li>
                 </ul>
-                
+
                 <h3>Review Service</h3>
                 <ul>
                     <li><strong>Conferences:</strong> VLDB, EDBT, DaWaK, DOLAP, IoTBG, MobiSPC, EIA, IEEE BigData, etc.</li>
@@ -180,7 +352,7 @@
     <!-- Footer -->
     <footer>
         <div class="container">
-            <p>&copy; 2024 Dr. Xiufeng Liu. All rights reserved.</p>
+            <p>&copy; <span class="current-year"></span> Dr. Xiufeng Liu. All rights reserved.</p>
         </div>
     </footer>
 
