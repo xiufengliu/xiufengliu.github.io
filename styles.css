@@ -234,6 +234,53 @@ main {
   padding-left: 0.5rem;
 }
 
+/* Book release section */
+.book-release {
+  display: flex;
+  gap: 2rem;
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  background-color: var(--accent-color);
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  align-items: center;
+}
+
+.book-cover img {
+  border-radius: 5px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.book-cover img:hover {
+  transform: scale(1.03);
+}
+
+.book-info {
+  flex: 1;
+}
+
+.book-info p {
+  margin-bottom: 0.8rem;
+}
+
+.book-info p:first-child {
+  font-size: 1.3rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .book-release {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .book-cover {
+    margin-bottom: 1.5rem;
+  }
+}
+
 /* Software grid */
 .software-grid {
   display: grid;
