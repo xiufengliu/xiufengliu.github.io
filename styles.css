@@ -156,8 +156,8 @@ header::before {
 }
 
 .profile img {
-  width: 180px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid var(--white);
@@ -167,7 +167,7 @@ header::before {
 }
 
 .profile img:hover {
-  transform: scale(1.05) rotate(2deg);
+  transform: scale(1.05);
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
 }
 
@@ -361,7 +361,7 @@ main {
 
 /* Publication list */
 .publication-list {
-  list-style-type: decimal;
+  list-style-type: none;
   counter-reset: item;
   padding-left: 0;
 }
@@ -817,7 +817,9 @@ footer p {
 
 .tabs-nav button.active {
   color: var(--primary-color);
+  background-color: var(--accent-color-light);
   border-bottom-color: var(--primary-color);
+  font-weight: 600;
 }
 
 .tab-content {
