@@ -1,3 +1,31 @@
+// Tabbed content functionality
+function setupTabs() {
+    const tabContainers = document.querySelectorAll('.tabs-container');
+    
+    tabContainers.forEach(container => {
+        const tabButtons = container.querySelectorAll('.tabs-nav button');
+        const tabContents = container.querySelectorAll('.tab-content');
+        
+        // Set first tab as active by default
+        if (tabButtons.length > 0 && tabContents.length > 0) {
+            tabButtons[0].classList.add('active');
+            tabContents[0].classList.add('active');
+        }
+        
+        tabButtons.forEach((button, index) => {
+            button.addEventListener('click', () => {
+                // Remove active class from all buttons and contents
+                tabButtons.forEach(btn => btn.classList.remove('active'));
+                tabContents.forEach(content => content.classList.remove('active'));
+                
+                // Add active class to clicked button and corresponding content
+                button.classList.add('active');
+                tabContents[index].classList.add('active');
+            });
+        });
+    });
+}
+
 document.addEventListener('DOMContentLoaded', function() {
     // Smooth scrolling for navigation links
     document.querySelectorAll('nav a[href^="#"]').forEach(anchor => {
@@ -63,25 +91,44 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initial call to highlightNavigation
     highlightNavigation();
     
-    // Publication filter functionality
-    const publicationFilterForm = document.getElementById('publication-filter');
-    if (publicationFilterForm) {
-        publicationFilterForm.addEventListener('submit', function(e) {
-            e.preventDefault();
-            const searchTerm = document.getElementById('search-term').value.toLowerCase();
-            const publicationItems = document.querySelectorAll('.publication-list li');
-            
-            publicationItems.forEach(item => {
-                const text = item.textContent.toLowerCase();
-                if (text.includes(searchTerm)) {
-                    item.style.display = '';
-                } else {
-                    item.style.display = 'none';
-                }
+    // Generic filter reset function
+    function resetFilter(formId, inputId, listClass) {
+        const items = document.querySelectorAll('.' + listClass + ' li');
+        const searchInput = document.getElementById(inputId);
+        
+        if (searchInput) {
+            searchInput.value = '';
+        }
+        
+        items.forEach(item => {
+            item.style.display = '';
+        });
+    }
+
+    // Publication filter functionality - update to handle multiple filters
+    const filterForms = document.querySelectorAll('.search-form');
+    if (filterForms.length > 0) {
+        filterForms.forEach(form => {
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+                const formId = this.id;
+                const searchInput = this.querySelector('input[type="text"]');
+                const searchTerm = searchInput.value.toLowerCase();
+                const listClass = formId.replace('-filter', '-list');
+                const items = document.querySelectorAll('.' + listClass + ' li');
+                
+                items.forEach(item => {
+                    const text = item.textContent.toLowerCase();
+                    if (text.includes(searchTerm)) {
+                        item.style.display = '';
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
             });
         });
     }
-    
+
     // Project filter functionality
     const projectFilterSelect = document.getElementById('project-filter');
     if (projectFilterSelect) {
@@ -220,4 +267,34 @@ document.addEventListener('DOMContentLoaded', function() {
             img.removeAttribute('data-src');
         });
     }
+    
+    // Enhance lazy loading with fade-in effect
+    const lazyImages = document.querySelectorAll('.lazy-image[data-src]');
+    if ('IntersectionObserver' in window) {
+        const imageObserver = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const img = entry.target;
+                    img.src = img.dataset.src;
+                    img.classList.add('fade-in');
+                    img.removeAttribute('data-src');
+                    imageObserver.unobserve(img);
+                }
+            });
+        });
+        
+        lazyImages.forEach(img => {
+            imageObserver.observe(img);
+        });
+    } else {
+        // Fallback for browsers that don't support IntersectionObserver
+        lazyImages.forEach(img => {
+            img.src = img.dataset.src;
+            img.classList.add('fade-in');
+            img.removeAttribute('data-src');
+        });
+    }
+    
+    // Setup tabs
+    setupTabs();
 });
