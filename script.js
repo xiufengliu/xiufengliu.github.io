@@ -32,6 +32,14 @@ document.addEventListener('DOMContentLoaded', function() {
         anchor.addEventListener('click', function(e) {
             e.preventDefault();
 
+            // Remove active class from all links
+            document.querySelectorAll('nav a').forEach(link => {
+                link.classList.remove('active');
+            });
+
+            // Add active class to clicked link
+            this.classList.add('active');
+
             const targetId = this.getAttribute('href');
             const targetElement = document.querySelector(targetId);
 
@@ -59,20 +67,31 @@ document.addEventListener('DOMContentLoaded', function() {
         const scrollPosition = window.scrollY;
         const navHeight = document.querySelector('nav').offsetHeight;
 
+        // First, remove active class from all links
+        navLinks.forEach(link => {
+            link.classList.remove('active');
+        });
+
+        // Find the current section and add active class to corresponding link
+        let currentSection = null;
+
         sections.forEach(section => {
             const sectionTop = section.offsetTop - navHeight - 20; // 20px offset for better UX
             const sectionHeight = section.offsetHeight;
-            const sectionId = section.getAttribute('id');
 
             if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
-                navLinks.forEach(link => {
-                    link.classList.remove('active');
-                    if (link.getAttribute('href') === '#' + sectionId) {
-                        link.classList.add('active');
-                    }
-                });
+                currentSection = section;
             }
         });
+
+        if (currentSection) {
+            const sectionId = currentSection.getAttribute('id');
+            const activeLink = document.querySelector(`nav a[href="#${sectionId}"]`);
+            if (activeLink) {
+                activeLink.classList.add('active');
+                console.log('Active section:', sectionId);
+            }
+        }
     }
 
     // Active class is now styled in CSS

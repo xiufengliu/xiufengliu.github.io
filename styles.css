@@ -297,15 +297,15 @@ nav a:hover::after {
   width: 80%;
 }
 
-nav a.active {
-  color: white;
-  background-color: var(--primary-color);
-  border-radius: 4px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+nav ul li a.active {
+  color: white !important;
+  background-color: var(--accent-color-dark) !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
 }
 
-nav a.active::after {
-  width: 0;
+nav ul li a.active::after {
+  width: 0 !important;
 }
 
 /* Main content styles */
