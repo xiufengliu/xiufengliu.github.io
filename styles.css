@@ -72,7 +72,7 @@ h2 {
   font-size: 2rem;
   position: relative;
   padding-bottom: 0.5em;
-  margin-top: 2em;
+  margin-top: 0.5em;
   margin-bottom: 1em;
   text-align: center;
   font-weight: 600;
@@ -91,29 +91,29 @@ h2::after {
 }
 
 h3 {
-  font-size: 1.4rem;
-  margin-top: 1.5em;
-  margin-bottom: 0.8em;
+  font-size: 1.3rem;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
   color: var(--primary-color);
 }
 
 p {
-  margin-bottom: 1.2em;
-  line-height: 1.7;
+  margin-bottom: 0.8em;
+  line-height: 1.5;
 }
 
 ul, ol {
-  margin-bottom: 1.2em;
+  margin-bottom: 0.8em;
   padding-left: 1.8em;
 }
 
 ul li, ol li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.3em;
 }
 
 section {
-  margin-bottom: 4rem;
-  padding: 2rem;
+  margin-bottom: 3rem;
+  padding: 1.5rem;
   background-color: var(--white);
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
