@@ -298,11 +298,14 @@ nav a:hover::after {
 }
 
 nav a.active {
-  color: var(--secondary-color);
+  color: white;
+  background-color: var(--primary-color);
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 nav a.active::after {
-  width: 80%;
+  width: 0;
 }
 
 /* Main content styles */

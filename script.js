@@ -1,23 +1,23 @@
 // Tabbed content functionality
 function setupTabs() {
     const tabContainers = document.querySelectorAll('.tabs-container');
-    
+
     tabContainers.forEach(container => {
         const tabButtons = container.querySelectorAll('.tabs-nav button');
         const tabContents = container.querySelectorAll('.tab-content');
-        
+
         // Set first tab as active by default
         if (tabButtons.length > 0 && tabContents.length > 0) {
             tabButtons[0].classList.add('active');
             tabContents[0].classList.add('active');
         }
-        
+
         tabButtons.forEach((button, index) => {
             button.addEventListener('click', () => {
                 // Remove active class from all buttons and contents
                 tabButtons.forEach(btn => btn.classList.remove('active'));
                 tabContents.forEach(content => content.classList.remove('active'));
-                
+
                 // Add active class to clicked button and corresponding content
                 button.classList.add('active');
                 tabContents[index].classList.add('active');
@@ -31,39 +31,39 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('nav a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             e.preventDefault();
-            
+
             const targetId = this.getAttribute('href');
             const targetElement = document.querySelector(targetId);
-            
+
             if (targetElement) {
                 // Offset for the sticky navigation
                 const navHeight = document.querySelector('nav').offsetHeight;
                 const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset - navHeight;
-                
+
                 window.scrollTo({
                     top: targetPosition,
                     behavior: 'smooth'
                 });
-                
+
                 // Update URL without page reload
                 history.pushState(null, null, targetId);
             }
         });
     });
-    
+
     // Active section highlighting in navigation
     const sections = document.querySelectorAll('section[id]');
     const navLinks = document.querySelectorAll('nav a[href^="#"]');
-    
+
     function highlightNavigation() {
         const scrollPosition = window.scrollY;
         const navHeight = document.querySelector('nav').offsetHeight;
-        
+
         sections.forEach(section => {
             const sectionTop = section.offsetTop - navHeight - 20; // 20px offset for better UX
             const sectionHeight = section.offsetHeight;
             const sectionId = section.getAttribute('id');
-            
+
             if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
                 navLinks.forEach(link => {
                     link.classList.remove('active');
@@ -74,32 +74,24 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
-    
-    // Add active class style to CSS
-    const style = document.createElement('style');
-    style.textContent = `
-        nav a.active {
-            background-color: var(--secondary-color);
-            font-weight: bold;
-        }
-    `;
-    document.head.appendChild(style);
-    
+
+    // Active class is now styled in CSS
+
     // Call highlightNavigation on scroll
     window.addEventListener('scroll', highlightNavigation);
-    
+
     // Initial call to highlightNavigation
     highlightNavigation();
-    
+
     // Generic filter reset function
     function resetFilter(formId, inputId, listClass) {
         const items = document.querySelectorAll('.' + listClass + ' li');
         const searchInput = document.getElementById(inputId);
-        
+
         if (searchInput) {
             searchInput.value = '';
         }
-        
+
         items.forEach(item => {
             item.style.display = '';
         });
@@ -116,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const searchTerm = searchInput.value.toLowerCase();
                 const listClass = formId.replace('-filter', '-list');
                 const items = document.querySelectorAll('.' + listClass + ' li');
-                
+
                 items.forEach(item => {
                     const text = item.textContent.toLowerCase();
                     if (text.includes(searchTerm)) {
@@ -135,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
         projectFilterSelect.addEventListener('change', function() {
             const filterValue = this.value;
             const projectItems = document.querySelectorAll('.project-item');
-            
+
             projectItems.forEach(item => {
                 if (filterValue === 'all') {
                     item.style.display = '';
@@ -150,25 +142,25 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
     }
-    
+
     // Add year to copyright in footer
     const yearSpan = document.querySelector('.current-year');
     if (yearSpan) {
         yearSpan.textContent = new Date().getFullYear();
     }
-    
+
     // Add mobile navigation toggle
     const navToggle = document.createElement('button');
     navToggle.className = 'nav-toggle';
     navToggle.innerHTML = '<span></span><span></span><span></span>';
     document.querySelector('nav .container').prepend(navToggle);
-    
+
     navToggle.addEventListener('click', function() {
         const navUl = document.querySelector('nav ul');
         navUl.classList.toggle('show');
         this.classList.toggle('active');
     });
-    
+
     // Add mobile navigation styles
     const mobileNavStyle = document.createElement('style');
     mobileNavStyle.textContent = `
@@ -178,11 +170,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 flex-direction: column;
                 width: 100%;
             }
-            
+
             nav ul.show {
                 display: flex;
             }
-            
+
             .nav-toggle {
                 display: block;
                 background: none;
@@ -193,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 height: 40px;
                 width: 40px;
             }
-            
+
             .nav-toggle span {
                 display: block;
                 position: absolute;
@@ -206,35 +198,35 @@ document.addEventListener('DOMContentLoaded', function() {
                 transform: rotate(0deg);
                 transition: .25s ease-in-out;
             }
-            
+
             .nav-toggle span:nth-child(1) {
                 top: 10px;
             }
-            
+
             .nav-toggle span:nth-child(2) {
                 top: 20px;
             }
-            
+
             .nav-toggle span:nth-child(3) {
                 top: 30px;
             }
-            
+
             .nav-toggle.active span:nth-child(1) {
                 top: 20px;
                 transform: rotate(135deg);
             }
-            
+
             .nav-toggle.active span:nth-child(2) {
                 opacity: 0;
                 left: -60px;
             }
-            
+
             .nav-toggle.active span:nth-child(3) {
                 top: 20px;
                 transform: rotate(-135deg);
             }
         }
-        
+
         @media (min-width: 769px) {
             .nav-toggle {
                 display: none;
@@ -242,7 +234,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     `;
     document.head.appendChild(mobileNavStyle);
-    
+
     // Lazy load images
     const images = document.querySelectorAll('img[data-src]');
     if ('IntersectionObserver' in window) {
@@ -256,7 +248,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
         });
-        
+
         images.forEach(img => {
             imageObserver.observe(img);
         });
@@ -267,7 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
             img.removeAttribute('data-src');
         });
     }
-    
+
     // Enhance lazy loading with fade-in effect
     const lazyImages = document.querySelectorAll('.lazy-image[data-src]');
     if ('IntersectionObserver' in window) {
@@ -282,7 +274,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
         });
-        
+
         lazyImages.forEach(img => {
             imageObserver.observe(img);
         });
@@ -294,7 +286,7 @@ document.addEventListener('DOMContentLoaded', function() {
             img.removeAttribute('data-src');
         });
     }
-    
+
     // Setup tabs
     setupTabs();
 });
