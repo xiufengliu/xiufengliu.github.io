@@ -10,7 +10,8 @@
   --medium-gray: #e0e0e0;
   --dark-gray: #666;
   --white: #fff;
-  --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --font-main: 'Montserrat', 'Open Sans', sans-serif;
+  --font-heading: 'Raleway', 'Montserrat', sans-serif;
   --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   --shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.15);
   --transition: all 0.3s ease;
@@ -31,6 +32,8 @@ body {
   background-color: var(--white);
   background-image: linear-gradient(to bottom, var(--white), var(--accent-color-light));
   background-attachment: fixed;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 .container {
@@ -56,10 +59,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.3;
   color: var(--secondary-color);
+  font-family: var(--font-heading);
+  letter-spacing: 0.5px;
 }
 
 h1 {
   font-size: 2.5rem;
+  font-weight: 700;
 }
 
 h2 {
@@ -69,6 +75,7 @@ h2 {
   margin-top: 2em;
   margin-bottom: 1em;
   text-align: center;
+  font-weight: 600;
 }
 
 h2::after {
