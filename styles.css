@@ -77,7 +77,7 @@ h2::after {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 100px;
+  width: 250px;
   height: 3px;
   background: var(--gradient-primary);
   border-radius: 3px;
