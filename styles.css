@@ -10,8 +10,8 @@
   --medium-gray: #e0e0e0;
   --dark-gray: #666;
   --white: #fff;
-  --font-main: 'Montserrat', 'Open Sans', sans-serif;
-  --font-heading: 'Raleway', 'Montserrat', sans-serif;
+  --font-main: 'Times New Roman', Times, serif;
+  --font-heading: 'Times New Roman', Times, serif;
   --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   --shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.15);
   --transition: all 0.3s ease;
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
   color: var(--secondary-color);
   font-family: var(--font-heading);
-  letter-spacing: 0.5px;
+  letter-spacing: normal;
 }
 
 h1 {
