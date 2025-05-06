@@ -378,24 +378,25 @@ main {
 
 .publication-list li {
   position: relative;
-  margin-bottom: 1.5rem;
-  padding: 1.2rem 1.2rem 1.2rem 3rem;
+  margin-bottom: 0.8rem;
+  padding: 0.6rem 1rem 0.6rem 2.5rem;
   background-color: var(--accent-color-light);
   border-radius: var(--border-radius);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   transition: var(--transition);
   border-left: 3px solid var(--primary-color);
   counter-increment: item;
+  line-height: 1.3;
 }
 
 .publication-list li::before {
   content: counter(item);
   position: absolute;
-  left: -15px;
+  left: -12px;
   top: 50%;
   transform: translateY(-50%);
-  width: 30px;
-  height: 30px;
+  width: 24px;
+  height: 24px;
   background: var(--gradient-primary);
   color: white;
   border-radius: 50%;
@@ -403,7 +404,7 @@ main {
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
