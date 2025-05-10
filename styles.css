@@ -1,24 +1,25 @@
 /* Base styles and variables */
 :root {
-  --primary-color: #0056b3;
-  --secondary-color: #004494;
-  --accent-color: #e7f1ff;
-  --accent-color-light: #f0f7ff;
-  --accent-color-dark: #c5dcff;
-  --text-color: #333;
-  --light-gray: #f5f5f5;
-  --medium-gray: #e0e0e0;
-  --dark-gray: #666;
-  --white: #fff;
-  --font-main: 'Times New Roman', Times, serif;
-  --font-heading: 'Times New Roman', Times, serif;
-  --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  --shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.15);
-  --transition: all 0.3s ease;
-  --border-radius: 8px;
-  --gradient-primary: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  --primary-color: #0056b3; /* Deep blue */
+  --secondary-color: #004494; /* Darker blue */
+  --accent-color: #e7f1ff; /* Light blue accent */
+  --accent-color-light: #f0f7ff; /* Very light blue */
+  --accent-color-dark: #c5dcff; /* Medium light blue */
+  --text-color: #333; /* Dark gray for text */
+  --light-gray: #f5f5f5; /* Light gray for backgrounds */
+  --medium-gray: #e0e0e0; /* Medium gray for borders */
+  --dark-gray: #666; /* Darker gray for less important text */
+  --white: #fff; /* White */
+  --font-main: 'Lato', 'Times New Roman', Times, serif; /* Main font: Lato, fallback to Times */
+  --font-heading: 'Times New Roman', Times, serif; /* Heading font */
+  --shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Standard shadow */
+  --shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.15); /* Shadow on hover */
+  --transition: all 0.3s ease; /* Standard transition */
+  --border-radius: 8px; /* Standard border radius */
+  --gradient-primary: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); /* Primary gradient */
 }
 
+/* Global reset and base body styles */
 * {
   margin: 0;
   padding: 0;
@@ -27,7 +28,7 @@
 
 body {
   font-family: var(--font-main);
-  line-height: 1.6;
+  line-height: 1.6; /* Default line height for body */
   color: var(--text-color);
   background-color: var(--white);
   background-image: linear-gradient(to bottom, var(--white), var(--accent-color-light));
@@ -36,6 +37,7 @@ body {
   font-weight: 400;
 }
 
+/* Container for centering content */
 .container {
   width: 90%;
   max-width: 1200px;
@@ -43,6 +45,7 @@ body {
   padding: 0 15px;
 }
 
+/* General link styles */
 a {
   color: var(--primary-color);
   text-decoration: none;
@@ -54,6 +57,7 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Heading styles */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em;
   font-weight: 600;
@@ -64,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.5rem; /* Reduced slightly for better balance */
   font-weight: 700;
 }
 
@@ -78,6 +82,7 @@ h2 {
   font-weight: 600;
 }
 
+/* Underline effect for H2 */
 h2::after {
   content: '';
   position: absolute;
@@ -91,26 +96,29 @@ h2::after {
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.2rem; /* Slightly reduced for better hierarchy */
   margin-top: 0.7em;
   margin-bottom: 0.3em;
   color: var(--primary-color);
 }
 
+/* Paragraph styles */
 p {
-  margin-bottom: 0.5em;
-  line-height: 1.3;
+  margin-bottom: 0.75em; /* Slightly increased margin */
+  line-height: 1.7;    /* Increased line height for readability */
 }
 
+/* List styles */
 ul, ol {
   margin-bottom: 0.5em;
-  padding-left: 1.8em;
+  padding-left: 1.8em; /* Standard padding for lists */
 }
 
 ul li, ol li {
   margin-bottom: 0.2em;
 }
 
+/* Section styling */
 section {
   margin-bottom: 2rem;
   padding: 1.2rem;
@@ -119,10 +127,11 @@ section {
   box-shadow: var(--shadow);
   transition: var(--transition);
   border: 1px solid var(--medium-gray);
-  overflow: hidden;
+  overflow: hidden; /* Ensures pseudo-elements are contained */
   position: relative;
 }
 
+/* Top border effect for sections */
 section::before {
   content: '';
   position: absolute;
@@ -136,12 +145,13 @@ section::before {
 /* Header styles */
 header {
   background: var(--gradient-primary);
-  padding: 3rem 0;
+  padding: 2rem 0; /* Adjusted padding */
   box-shadow: var(--shadow-hover);
   position: relative;
   overflow: hidden;
 }
 
+/* Subtle pattern for header background */
 header::before {
   content: '';
   position: absolute;
@@ -157,7 +167,7 @@ header::before {
 .profile {
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* Allow wrapping on smaller screens */
   position: relative;
   z-index: 1;
 }
@@ -169,18 +179,18 @@ header::before {
   object-fit: cover;
   border: 4px solid var(--white);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-  margin-right: 3rem;
+  margin-right: 2rem; /* Adjusted margin */
   transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
 
 .profile img:hover {
-  transform: scale(1.05);
+  transform: scale(1.05); /* Slight zoom on hover */
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
 }
 
 .profile-info {
   flex: 1;
-  min-width: 300px;
+  min-width: 300px; /* Ensure info doesn't get too squished */
 }
 
 .profile-info h1 {
@@ -195,14 +205,15 @@ header::before {
   font-size: 1.1rem;
   margin-bottom: 0.5em;
   opacity: 0.9;
+  line-height: 1.5; /* Adjusted for header context */
 }
 
 .contact-info {
   margin-top: 1.5rem;
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.15); /* Semi-transparent background */
   padding: 1rem;
   border-radius: var(--border-radius);
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px); /* Frosted glass effect */
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
@@ -216,6 +227,7 @@ header::before {
   width: 20px;
   color: var(--white);
   margin-right: 0.5rem;
+  text-align: center; /* Center icons if they vary in width */
 }
 
 .contact-info a {
@@ -235,16 +247,16 @@ header::before {
 nav {
   background-color: var(--white);
   padding: 0;
-  position: sticky;
+  position: sticky; /* Sticky navigation bar */
   top: 0;
-  z-index: 100;
+  z-index: 1000; /* Ensure nav is above other content */
   box-shadow: var(--shadow-hover);
   border-bottom: 1px solid var(--medium-gray);
 }
 
 nav .container {
   display: flex;
-  justify-content: center;
+  justify-content: center; /* Center navigation links */
 }
 
 nav ul {
@@ -252,7 +264,7 @@ nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* Allow nav items to wrap on smaller screens */
   justify-content: center;
 }
 
@@ -275,6 +287,7 @@ nav a {
   position: relative;
 }
 
+/* Underline effect for nav links on hover */
 nav a::after {
   content: '';
   position: absolute;
@@ -289,7 +302,7 @@ nav a::after {
 
 nav a:hover {
   color: var(--secondary-color);
-  background-color: transparent;
+  background-color: transparent; /* Ensure no background on hover unless intended */
   text-decoration: none;
 }
 
@@ -297,16 +310,20 @@ nav a:hover::after {
   width: 80%;
 }
 
+/* Active navigation link style - moved from inline HTML */
 nav ul li a.active {
-  color: white !important;
-  background-color: var(--accent-color-dark) !important;
-  border-radius: 4px !important;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
+    color: var(--white) !important; /* Use variable for white */
+    background-color: var(--primary-color) !important; /* Use variable for primary color */
+    border-radius: 4px !important;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
+    padding: 0.7rem 1.2rem !important; /* Specific padding for active state */
 }
 
+/* Ensure active link does not show hover underline effect */
 nav ul li a.active::after {
-  width: 0 !important;
+    width: 0 !important;
 }
+
 
 /* Main content styles */
 main {
@@ -316,7 +333,7 @@ main {
 /* Project grid */
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); /* Responsive columns */
   gap: 1.8rem;
   margin-top: 1.5rem;
 }
@@ -324,7 +341,7 @@ main {
 .project-item {
   background-color: var(--white);
   padding: 1.8rem;
-  border-radius: 8px;
+  border-radius: var(--border-radius);
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
   transition: var(--transition);
   border: 1px solid var(--medium-gray);
@@ -332,6 +349,7 @@ main {
   overflow: hidden;
 }
 
+/* Top border accent for project items */
 .project-item::before {
   content: '';
   position: absolute;
@@ -343,7 +361,7 @@ main {
 }
 
 .project-item:hover {
-  transform: translateY(-5px);
+  transform: translateY(-5px); /* Lift effect on hover */
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
   border-color: var(--accent-color);
 }
@@ -372,27 +390,28 @@ main {
 /* Publication list */
 .publication-list {
   list-style-type: none;
-  counter-reset: item;
+  counter-reset: item; /* For custom numbering */
   padding-left: 0;
 }
 
 .publication-list li {
   position: relative;
   margin-bottom: 0.8rem;
-  padding: 0.6rem 1rem 0.6rem 2.5rem;
+  padding: 0.6rem 1rem 0.6rem 2.5rem; /* Space for custom number */
   background-color: var(--accent-color-light);
   border-radius: var(--border-radius);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   transition: var(--transition);
   border-left: 3px solid var(--primary-color);
   counter-increment: item;
-  line-height: 1.3;
+  line-height: 1.5; /* Adjusted for better readability */
 }
 
+/* Custom numbering for publication list */
 .publication-list li::before {
   content: counter(item);
   position: absolute;
-  left: -12px;
+  left: -12px; /* Position outside the padding */
   top: 50%;
   transform: translateY(-50%);
   width: 24px;
@@ -409,7 +428,7 @@ main {
 }
 
 .publication-list li:hover {
-  transform: translateX(5px);
+  transform: translateX(5px); /* Slight shift on hover */
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -421,9 +440,9 @@ main {
 /* Book release section */
 .book-release {
   display: flex;
-  gap: 3rem;
+  gap: 2rem; /* Adjusted gap */
   margin: 2rem 0;
-  padding: 2.5rem;
+  padding: 2rem; /* Adjusted padding */
   background: linear-gradient(135deg, var(--accent-color), var(--accent-color-light));
   border-radius: var(--border-radius);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
@@ -432,6 +451,7 @@ main {
   overflow: hidden;
 }
 
+/* Subtle pattern for book release background */
 .book-release::before {
   content: '';
   position: absolute;
@@ -447,18 +467,20 @@ main {
 .book-cover {
   position: relative;
   z-index: 1;
+  flex-shrink: 0; /* Prevent image from shrinking too much */
 }
 
 .book-cover img {
   border-radius: 8px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
   transition: all 0.5s ease;
-  transform: rotate(-3deg);
+  transform: rotate(-3deg); /* Slight tilt effect */
   border: 5px solid white;
+  max-width: 200px; /* Ensure image is not too large */
 }
 
 .book-cover img:hover {
-  transform: rotate(0deg) scale(1.05);
+  transform: rotate(0deg) scale(1.05); /* Straighten and zoom on hover */
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
 }
 
@@ -473,15 +495,16 @@ main {
   line-height: 1.7;
 }
 
-.book-info p:first-child {
+.book-info p:first-child { /* Title of the book */
   font-size: 1.6rem;
   font-weight: 700;
   color: var(--primary-color);
   margin-bottom: 1.2rem;
   position: relative;
-  display: inline-block;
+  display: inline-block; /* For underline effect */
 }
 
+/* Underline for book title */
 .book-info p:first-child::after {
   content: '';
   position: absolute;
@@ -507,18 +530,19 @@ main {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
+/* Responsive book release section */
 @media (max-width: 768px) {
   .book-release {
     flex-direction: column;
     text-align: center;
-    padding: 2rem 1.5rem;
+    padding: 1.5rem; /* Adjusted padding */
   }
 
   .book-cover {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem; /* Adjusted margin */
   }
 
-  .book-info p:first-child::after {
+  .book-info p:first-child::after { /* Center underline on mobile */
     left: 50%;
     transform: translateX(-50%);
   }
@@ -528,13 +552,13 @@ main {
 .software-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
+  gap: 1.5rem; /* Adjusted gap */
+  margin-top: 1.5rem; /* Adjusted margin */
 }
 
 .software-item {
   background-color: var(--white);
-  padding: 2rem;
+  padding: 1.5rem; /* Adjusted padding */
   border-radius: var(--border-radius);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
   transition: all 0.4s ease;
@@ -544,10 +568,11 @@ main {
   border: 1px solid var(--medium-gray);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  height: 100%;
+  justify-content: space-between; /* Distribute space for items with varying text length */
+  height: 100%; /* Ensure items in a row have same height */
 }
 
+/* Top border hover effect for software items */
 .software-item::before {
   content: '';
   position: absolute;
@@ -556,7 +581,7 @@ main {
   width: 100%;
   height: 5px;
   background: var(--gradient-primary);
-  transform: scaleX(0);
+  transform: scaleX(0); /* Initially hidden */
   transform-origin: left;
   transition: transform 0.4s ease;
 }
@@ -568,13 +593,13 @@ main {
 }
 
 .software-item:hover::before {
-  transform: scaleX(1);
+  transform: scaleX(1); /* Show border on hover */
 }
 
 .software-item h3 {
   margin-top: 0;
-  margin-bottom: 1.2rem;
-  font-size: 1.4rem;
+  margin-bottom: 1rem; /* Adjusted margin */
+  font-size: 1.3rem; /* Adjusted font size */
   position: relative;
   display: inline-block;
 }
@@ -586,6 +611,7 @@ main {
   position: relative;
 }
 
+/* Underline hover effect for software item titles */
 .software-item h3 a::after {
   content: '';
   position: absolute;
@@ -605,6 +631,7 @@ main {
   color: var(--dark-gray);
   line-height: 1.6;
   margin-bottom: 0;
+  font-size: 0.95rem; /* Slightly smaller for description */
 }
 
 /* Button styles */
@@ -613,7 +640,7 @@ main {
   background: var(--gradient-primary);
   color: var(--white);
   padding: 0.7rem 1.8rem;
-  border-radius: 30px;
+  border-radius: 30px; /* Pill shape */
   text-decoration: none;
   font-weight: 600;
   transition: all 0.3s ease;
@@ -625,6 +652,7 @@ main {
   box-shadow: 0 4px 15px rgba(0, 86, 179, 0.3);
 }
 
+/* Button hover effect layer */
 .btn::before {
   content: '';
   position: absolute;
@@ -635,7 +663,7 @@ main {
   background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
   z-index: -1;
   transition: opacity 0.3s ease;
-  opacity: 0;
+  opacity: 0; /* Hidden by default */
 }
 
 .btn:hover {
@@ -646,12 +674,17 @@ main {
 }
 
 .btn:hover::before {
-  opacity: 1;
+  opacity: 1; /* Show hover layer */
 }
 
-.btn:active {
+.btn:active { /* Pressed state */
   transform: translateY(-1px);
   box-shadow: 0 5px 15px rgba(0, 86, 179, 0.3);
+}
+
+.btn-small {
+  padding: 0.4rem 1rem;
+  font-size: 0.9rem;
 }
 
 /* Filter container styles */
@@ -659,10 +692,10 @@ main {
   margin-bottom: 1.8rem;
   padding: 1.2rem;
   background-color: var(--white);
-  border-radius: 8px;
+  border-radius: var(--border-radius);
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* Allow wrapping */
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
   border: 1px solid var(--medium-gray);
 }
@@ -673,14 +706,15 @@ main {
   color: var(--secondary-color);
 }
 
+/* Search form styling (if any) */
 .search-form {
   display: flex;
   gap: 0.5rem;
   align-items: center;
-  width: 100%;
+  width: 100%; /* Take full width if needed */
 }
 
-.search-form input {
+.search-form input[type="text"] { /* More specific selector */
   flex: 1;
   padding: 0.5rem;
   border: 1px solid var(--medium-gray);
@@ -688,6 +722,7 @@ main {
   font-size: 1rem;
 }
 
+/* Select dropdown styling */
 select {
   padding: 0.6rem 1rem;
   border: 1px solid var(--medium-gray);
@@ -697,12 +732,13 @@ select {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   cursor: pointer;
   transition: var(--transition);
-  appearance: none;
+  appearance: none; /* Remove default appearance */
+  /* Custom arrow */
   background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230056b3' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
   background-repeat: no-repeat;
   background-position: right 0.7rem center;
   background-size: 1em;
-  padding-right: 2.5rem;
+  padding-right: 2.5rem; /* Space for custom arrow */
 }
 
 select:hover, select:focus {
@@ -711,64 +747,24 @@ select:hover, select:focus {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-.btn-small {
-  padding: 0.4rem 1rem;
-  font-size: 0.9rem;
+/* Style for completed supervision items */
+.completed-supervision {
+    color: var(--dark-gray);
+    /* font-style: italic; /* Optional: if you want to make them italic */
 }
 
-.btn-secondary {
-  background-color: var(--dark-gray);
-}
-
-.btn-secondary:hover {
-  background-color: #555;
-}
-
-/* Gallery styles for lazy-loaded images */
-.gallery-item {
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-.lazy-image {
-  max-width: 100%;
-  height: auto;
-  border-radius: 5px;
-  box-shadow: var(--shadow);
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.lazy-image[src] {
-  opacity: 1;
-}
-
-/* Placeholder for images while loading */
-.lazy-image:not([src]) {
-  min-height: 200px;
-  background-color: var(--medium-gray);
-  position: relative;
-}
-
-.lazy-image:not([src])::after {
-  content: "Loading...";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: var(--dark-gray);
-}
 
 /* Footer styles */
 footer {
   background: var(--gradient-primary);
   padding: 2rem 0;
   text-align: center;
-  margin-top: 4rem;
+  margin-top: 3rem; /* Adjusted margin */
   position: relative;
   overflow: hidden;
 }
 
+/* Subtle pattern for footer background */
 footer::before {
   content: '';
   position: absolute;
@@ -790,7 +786,7 @@ footer p {
   opacity: 0.9;
 }
 
-/* Tabbed content styles */
+/* Tabbed content styles (from original script.js, assuming it's used) */
 .tabs-container {
   margin: 2rem 0;
 }
@@ -801,7 +797,7 @@ footer p {
   padding: 0;
   margin: 0;
   border-bottom: 2px solid var(--medium-gray);
-  overflow-x: auto;
+  overflow-x: auto; /* Allow horizontal scrolling for many tabs */
 }
 
 .tabs-nav li {
@@ -817,9 +813,9 @@ footer p {
   color: var(--dark-gray);
   cursor: pointer;
   transition: var(--transition);
-  border-bottom: 3px solid transparent;
-  margin-bottom: -2px;
-  white-space: nowrap;
+  border-bottom: 3px solid transparent; /* Placeholder for active state */
+  margin-bottom: -2px; /* Align with container's border */
+  white-space: nowrap; /* Prevent tab text from wrapping */
 }
 
 .tabs-nav button:hover {
@@ -832,17 +828,17 @@ footer p {
   background-color: var(--accent-color-light);
   border-bottom-color: var(--primary-color);
   font-weight: 600;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for active tab */
 }
 
 .tab-content {
-  display: none;
+  display: none; /* Hidden by default */
   padding: 1.5rem 0;
-  animation: fadeIn 0.5s ease;
+  animation: fadeIn 0.5s ease; /* Fade-in animation */
 }
 
 .tab-content.active {
-  display: block;
+  display: block; /* Show active tab content */
 }
 
 @keyframes fadeIn {
@@ -853,18 +849,18 @@ footer p {
 /* Responsive tabs */
 @media (max-width: 768px) {
   .tabs-nav {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none; /* Firefox */
+    flex-wrap: nowrap; /* Ensure tabs stay in a single line */
+    overflow-x: auto; /* Enable horizontal scrolling */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    scrollbar-width: none; /* Firefox: hide scrollbar */
   }
 
   .tabs-nav::-webkit-scrollbar {
-    display: none; /* Chrome, Safari, Edge */
+    display: none; /* Chrome, Safari, Edge: hide scrollbar */
   }
 
   .tabs-nav button {
-    padding: 0.8rem 1rem;
+    padding: 0.8rem 1rem; /* Adjust padding for smaller screens */
   }
 }
 
@@ -880,17 +876,27 @@ footer p {
     margin-bottom: 1.5rem;
   }
 
+  /* Mobile navigation (from script.js) - ensure nav ul is hidden by default */
   nav ul {
+    /* display: none; /* Initially hidden, toggled by JS */
     flex-direction: column;
+    width: 100%;
   }
+  /* The script.js adds .show class, so this might not be needed if JS handles initial state */
+  /* nav ul.show {
+      display: flex;
+  } */
 
   nav li {
     width: 100%;
     text-align: center;
   }
+   nav a {
+    padding: 0.8rem 1rem; /* Adjust padding for stacked links */
+  }
 
   .project-grid, .software-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr; /* Stack items in a single column */
   }
 
   h1 {
@@ -900,42 +906,93 @@ footer p {
   h2 {
     font-size: 1.5rem;
   }
+  .filter-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .filter-container label {
+    margin-bottom: 0.5rem;
+  }
+  select {
+    width: 100%;
+  }
 }
 
 /* Print styles */
 @media print {
-  nav, footer {
-    display: none;
+  nav, footer, .filter-container, .nav-toggle /* Hide non-essential elements */ {
+    display: none !important; /* Ensure they are hidden */
   }
 
   body {
     font-size: 12pt;
+    background: var(--white) !important; /* Plain white background for printing */
+    color: #000 !important; /* Black text for printing */
   }
 
   a {
-    color: var(--text-color);
-    text-decoration: none;
+    color: var(--text-color) !important;
+    text-decoration: none !important;
   }
+  a[href^="http"]:after { /* Show URLs for external links */
+    content: " (" attr(href) ") ";
+    font-size: 0.9em;
+    color: #555;
+  }
+
 
   .container {
-    width: 100%;
-    max-width: none;
+    width: 100% !important;
+    max-width: none !important;
+    padding: 0 !important;
   }
 
-  h2 {
-    page-break-after: avoid;
+  section {
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+    margin-bottom: 1.5rem !important;
+    padding: 1rem !important;
+  }
+  section::before { /* Hide decorative top border in print */
+    display: none !important;
   }
 
-  h3, h4, h5, h6 {
-    page-break-after: avoid;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #000 !important; /* Black headings for print */
+    page-break-after: avoid !important; /* Avoid breaking after headings */
   }
 
   img {
-    max-width: 100% !important;
+    max-width: 100% !important; /* Ensure images fit */
+    page-break-inside: avoid !important;
+  }
+  .book-cover img {
+    max-width: 150px !important; /* Control book cover size in print */
   }
 
-  p, h2, h3 {
-    orphans: 3;
-    widows: 3;
+
+  p, ul, ol {
+    orphans: 3; /* Minimum lines at bottom of page */
+    widows: 3;  /* Minimum lines at top of new page */
   }
+  ul, ol {
+    padding-left: 1.5em; /* Adjust list padding for print */
+  }
+
+  .publication-list li::before { /* Simplify publication list numbering for print */
+    background: #eee !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    border: 1px solid #ccc;
+  }
+  .project-item, .software-item, .book-release {
+    page-break-inside: avoid !important; /* Try to keep these items on one page */
+    box-shadow: none !important;
+    border: 1px solid #eee !important;
+  }
+  .project-item::before, .software-item::before, .book-release::before {
+    display: none !important; /* Hide decorative borders */
+  }
+
 }
