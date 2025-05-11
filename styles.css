@@ -28,12 +28,12 @@
 
 body {
   font-family: var(--font-main);
-  line-height: 1.6; /* Default line height for body */
+  line-height: 1.7; /* Increased line height for better readability */
   color: var(--text-color);
   background-color: var(--white);
   background-image: linear-gradient(to bottom, var(--white), var(--accent-color-light));
   background-attachment: fixed;
-  font-size: 16px;
+  font-size: 17px; /* Slightly increased base font size */
   font-weight: 400;
 }
 
@@ -68,18 +68,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem; /* Reduced slightly for better balance */
+  font-size: 2.8rem; /* Increased for prominence */
   font-weight: 700;
+  margin-bottom: 0.5em;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.2rem; /* Increased for better hierarchy */
   position: relative;
-  padding-bottom: 0.3em;
-  margin-top: 0.2em;
-  margin-bottom: 0.6em;
+  padding-bottom: 0.4em; /* Adjusted padding */
+  margin-top: 1.5em; /* Increased top margin */
+  margin-bottom: 1em; /* Increased bottom margin */
   text-align: center;
   font-weight: 600;
+  color: var(--primary-color); /* Use primary color for H2 */
 }
 
 /* Underline effect for H2 */
@@ -89,17 +91,18 @@ h2::after {
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 250px;
-  height: 3px;
+  width: 150px; /* Reduced width */
+  height: 4px; /* Increased thickness */
   background: var(--gradient-primary);
   border-radius: 3px;
 }
 
 h3 {
-  font-size: 1.2rem; /* Slightly reduced for better hierarchy */
-  margin-top: 0.7em;
-  margin-bottom: 0.3em;
-  color: var(--primary-color);
+  font-size: 1.4rem; /* Increased for better hierarchy */
+  margin-top: 1.2em; /* Increased top margin */
+  margin-bottom: 0.5em; /* Adjusted bottom margin */
+  color: var(--secondary-color); /* Use secondary color for H3 */
+  font-weight: 600;
 }
 
 /* Paragraph styles */
@@ -120,8 +123,8 @@ ul li, ol li {
 
 /* Section styling */
 section {
-  margin-bottom: 2rem;
-  padding: 1.2rem;
+  margin-bottom: 3rem; /* Increased space between sections */
+  padding: 2rem; /* Increased padding */
   background-color: var(--white);
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
@@ -194,10 +197,10 @@ header::before {
 }
 
 .profile-info h1 {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.4em; /* Adjusted margin */
   color: var(--white);
-  font-size: 2.8rem;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-size: 3.2rem; /* Increased size */
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3); /* Stronger shadow */
 }
 
 .profile-info p {
@@ -209,12 +212,12 @@ header::before {
 }
 
 .contact-info {
-  margin-top: 1.5rem;
-  background-color: rgba(255, 255, 255, 0.15); /* Semi-transparent background */
-  padding: 1rem;
+  margin-top: 2rem; /* Increased margin */
+  background-color: rgba(255, 255, 255, 0.2); /* Slightly less transparent */
+  padding: 1.2rem; /* Increased padding */
   border-radius: var(--border-radius);
-  backdrop-filter: blur(5px); /* Frosted glass effect */
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px); /* Stronger frosted glass effect */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Stronger border */
 }
 
 .contact-info p {
@@ -277,11 +280,11 @@ nav li {
 nav a {
   display: block;
   color: var(--primary-color);
-  padding: 1rem 1.2rem;
+  padding: 1rem 1.5rem; /* Increased padding */
   text-decoration: none;
   font-weight: 600;
-  font-size: 0.95rem;
-  letter-spacing: 0.5px;
+  font-size: 1rem; /* Slightly increased font size */
+  letter-spacing: 0.8px; /* Increased letter spacing */
   text-transform: uppercase;
   transition: var(--transition);
   position: relative;
@@ -340,9 +343,9 @@ main {
 
 .project-item {
   background-color: var(--white);
-  padding: 1.8rem;
+  padding: 2rem; /* Increased padding */
   border-radius: var(--border-radius);
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Stronger initial shadow */
   transition: var(--transition);
   border: 1px solid var(--medium-gray);
   position: relative;
@@ -396,15 +399,15 @@ main {
 
 .publication-list li {
   position: relative;
-  margin-bottom: 0.8rem;
-  padding: 0.6rem 1rem 0.6rem 2.5rem; /* Space for custom number */
+  margin-bottom: 1rem; /* Increased margin */
+  padding: 0.8rem 1.2rem 0.8rem 3rem; /* Increased padding and space for custom number */
   background-color: var(--accent-color-light);
   border-radius: var(--border-radius);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08); /* Stronger initial shadow */
   transition: var(--transition);
-  border-left: 3px solid var(--primary-color);
+  border-left: 4px solid var(--primary-color); /* Thicker border */
   counter-increment: item;
-  line-height: 1.5; /* Adjusted for better readability */
+  line-height: 1.6; /* Adjusted for better readability */
 }
 
 /* Custom numbering for publication list */
@@ -440,12 +443,12 @@ main {
 /* Book release section */
 .book-release {
   display: flex;
-  gap: 2rem; /* Adjusted gap */
-  margin: 2rem 0;
-  padding: 2rem; /* Adjusted padding */
+  gap: 2.5rem; /* Increased gap */
+  margin: 3rem 0; /* Increased margin */
+  padding: 2.5rem; /* Increased padding */
   background: linear-gradient(135deg, var(--accent-color), var(--accent-color-light));
   border-radius: var(--border-radius);
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15); /* Stronger shadow */
   align-items: center;
   position: relative;
   overflow: hidden;
@@ -558,9 +561,9 @@ main {
 
 .software-item {
   background-color: var(--white);
-  padding: 1.5rem; /* Adjusted padding */
+  padding: 2rem; /* Increased padding */
   border-radius: var(--border-radius);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); /* Stronger initial shadow */
   transition: all 0.4s ease;
   text-align: center;
   position: relative;
@@ -757,9 +760,9 @@ select:hover, select:focus {
 /* Footer styles */
 footer {
   background: var(--gradient-primary);
-  padding: 2rem 0;
+  padding: 2.5rem 0; /* Increased padding */
   text-align: center;
-  margin-top: 3rem; /* Adjusted margin */
+  margin-top: 4rem; /* Increased margin */
   position: relative;
   overflow: hidden;
 }
