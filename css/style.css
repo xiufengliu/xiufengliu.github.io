@@ -1,0 +1,68 @@
+/* Basic styling for the body */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+/* Container to center content */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+}
+
+/* Header styling */
+header {
+    background: #333;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+    border-bottom: #0779e4 3px solid;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+/* Section styling */
+section {
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+}
+
+section h2 {
+    color: #333;
+    border-bottom: 2px solid #0779e4;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Styling for lists */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+}
