@@ -103,15 +103,15 @@ ul, ol {
 }
 
 .section {
-  padding: 2rem 0;
+  padding: 1.5rem 0;
 }
 
 .section-title {
-  font-size: 1.4rem;
-  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  margin-bottom: 0.75rem;
   color: var(--text-primary);
   position: relative;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
 }
 
 .section-title::after {
@@ -119,15 +119,15 @@ ul, ol {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 40px;
+  width: 35px;
   height: 2px;
   background: var(--accent-blue);
 }
 
 .section-intro {
   color: var(--text-secondary);
-  font-size: 0.9rem;
-  margin-bottom: 1rem;
+  font-size: 0.85rem;
+  margin-bottom: 0.75rem;
   max-width: 800px;
 }
 
@@ -135,7 +135,7 @@ ul, ol {
 .header {
   background: var(--bg-primary);
   border-bottom: 1px solid var(--border-light);
-  padding: 0.75rem 0;
+  padding: 0.5rem 0;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -158,29 +158,29 @@ ul, ol {
 
 .logo {
   font-family: 'IBM Plex Serif', Georgia, serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 600;
   color: var(--text-primary);
   text-decoration: none;
 }
 
 .nav-tagline {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: var(--text-muted);
 }
 
 .nav-menu {
   list-style: none;
   display: flex;
-  gap: 1.5rem;
+  gap: 1.25rem;
   margin: 0;
 }
 
 .nav-menu a {
   color: var(--text-secondary);
   font-weight: 500;
-  font-size: 0.9rem;
-  padding: 0.4rem 0;
+  font-size: 0.85rem;
+  padding: 0.35rem 0;
   border-bottom: 2px solid transparent;
   transition: var(--transition);
 }
@@ -495,33 +495,33 @@ ul, ol {
 
 .pub-item {
   display: grid;
-  grid-template-columns: 60px 1fr;
-  gap: 1rem;
-  padding: 0.75rem 0;
+  grid-template-columns: 50px 1fr;
+  gap: 0.75rem;
+  padding: 0.5rem 0;
   border-bottom: 1px solid var(--border-light);
 }
 
 .pub-year {
   font-weight: 600;
   color: var(--accent-blue);
-  font-size: 0.875rem;
+  font-size: 0.8rem;
 }
 
 .pub-title {
   font-weight: 600;
   color: var(--text-primary);
-  font-size: 0.95rem;
-  margin-bottom: 0.3rem;
+  font-size: 0.875rem;
+  margin-bottom: 0.2rem;
 }
 
 .pub-authors {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: var(--text-secondary);
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.15rem;
 }
 
 .pub-venue {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: var(--text-muted);
   font-style: italic;
 }
