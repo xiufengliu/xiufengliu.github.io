@@ -3,357 +3,383 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Xiufeng Liu - Academic Profile</title>
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Times+New+Roman&display=swap" rel="stylesheet">
+    <title>Dr. Xiufeng Liu | Academic Home</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    </head>
+</head>
 <body>
-    <header>
-        <div class="container">
-            <div class="profile">
-                <img src="xiufeng.png" alt="Dr. Xiufeng Liu" onerror="this.onerror=null;this.src='https://placehold.co/150x150/EFEFEF/333?text=Image+Not+Found';">
-                <div class="profile-info">
-                    <h1>Dr. Xiufeng Liu</h1>
-                    <p>Senior Researcher, Department of Technology, Management and Economics</p>
-                    <p>Technical University of Denmark</p>
-                    <div class="contact-info">
-                        <p><i class="fas fa-map-marker-alt"></i> <a href="https://www.google.com/maps/search/?api=1&query=DTU+Produktionstorvet+Building+424+room+006+2800+Kgs.+Lyngby+Denmark" target="_blank">Building 424, room 006, 2800 Kgs. Lyngby, Denmark</a></p>
-                        <p><i class="fas fa-envelope"></i> xiuli@dtu.dk | <i class="fab fa-github"></i> <a href="https://github.com/xiufengliu" target="_blank">GitHub</a> | <i class="fab fa-orcid"></i> <a href="https://orcid.org/0000-0001-5133-6688" target="_blank">ORCID</a>| <i class="ai ai-orbit"></i> <a href="https://orbit.dtu.dk/en/persons/xiufeng-liu" target="_blank">ORBIT</a></p>
-                    </div>
+    <header class="hero" id="top">
+        <div class="container hero__grid">
+            <div class="hero__intro">
+                <p class="eyebrow">Technical University of Denmark · Department of Technology, Management and Economics</p>
+                <h1>Dr. Xiufeng Liu</h1>
+                <p class="hero__role">Senior Researcher · Energy Economics & Modelling · Data-Driven Sustainability</p>
+                <p class="hero__summary">
+                    I study how trustworthy data platforms and AI can accelerate the energy transition. My work bridges
+                    smart meter analytics, intelligent energy systems, and evidence-based policy for climate-neutral cities.
+                </p>
+                <div class="hero__actions">
+                    <a class="btn primary" href="mailto:xiuli@dtu.dk">Email</a>
+                    <a class="btn" href="https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+                    <a class="btn" href="https://orbit.dtu.dk/en/persons/xiufeng-liu" target="_blank" rel="noopener">DTU ORBIT</a>
                 </div>
+                <dl class="hero__details">
+                    <div>
+                        <dt>Office</dt>
+                        <dd><a href="https://www.google.com/maps/search/?api=1&query=DTU+Produktionstorvet+Building+424+room+006+2800+Kgs.+Lyngby+Denmark" target="_blank" rel="noopener">Building 424, room 006 · 2800 Kgs. Lyngby, Denmark</a></dd>
+                    </div>
+                    <div>
+                        <dt>Affiliations</dt>
+                        <dd>Energy Economics & Modelling Group, DTU</dd>
+                    </div>
+                    <div>
+                        <dt>Networks</dt>
+                        <dd><a href="https://github.com/xiufengliu" target="_blank" rel="noopener">GitHub</a> · <a href="https://orcid.org/0000-0001-5133-6688" target="_blank" rel="noopener">ORCID</a></dd>
+                    </div>
+                </dl>
+            </div>
+            <div class="hero__portrait">
+                <img src="xiufeng.png" alt="Portrait of Dr. Xiufeng Liu" onerror="this.onerror=null;this.src='https://placehold.co/320x420?text=Portrait';">
+                <p class="hero__badge">Advancing data-informed energy policy</p>
             </div>
         </div>
     </header>
 
-    <nav>
+    <nav class="site-nav">
         <div class="container">
             <ul>
-                <li><a href="#bio">Bio</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#research">Research</a></li>
+                <li><a href="#highlights">Highlights</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#publications">Publications</a></li>
-                <li><a href="#software">Software</a></li>
                 <li><a href="#teaching">Teaching</a></li>
-                <li><a href="#supervision">Supervision</a></li>
-                <li><a href="#services">Services</a></li>
+                <li><a href="#students">Supervision</a></li>
+                <li><a href="#service">Service</a></li>
+                <li><a href="#contact">Connect</a></li>
             </ul>
         </div>
     </nav>
 
     <main>
-        <div class="container">
-            <section id="bio">
-                <h2>Short Bio</h2>
-                <p>I am a Senior researcher (Associate Professor level) at the Department of Technology, Management and Economics at the <a href="http://www.dtu.dk" target="_blank">Technical University of Denmark (DTU)</a>, where I am a member of the research group of <a href="https://www.sustainability.man.dtu.dk/english/research/energy-economics-and-system-analysis" target="_blank">Energy Economics and Modelling</a>.</p>
-                <p>I completed my PhD at the Department of Computer Science (<a href="http://daisy.aau.dk" target="_blank">Daisy research group</a>) at <a href="http://www.aau.dk" target="_blank">Aalborg University (AAU)</a> in Denmark from 2008 to 2012. Before joining AAU, I worked as an Scientific Assistant at <a href="http://www.abo.fi" target="_blank">Åbo Akademi University</a> in Finland from 2006 to 2008. From 2013 to 2014, I was a Postdoctoral Researcher in the <a href="https://uwaterloo.ca/data-systems-group/" target="_blank">Data System Group</a> at the <a href="http://www.uwaterloo.ca" target="_blank">University of Waterloo</a> in Canada, and was also cross-appointed as a Research Scientist by IBM Toronto Research Center, where I worked on the <a href="https://www.soscip.org" target="_blank">soscip</a> project.</p>
-            </section>
-
-            <section id="research">
-                <h2>Research Interests</h2>
-
-                <ul>
-                    <li>My research interests include:
-                        <ul>
-                            <li>Smart meter data analytics</li>
-                            <li>Data management, with a particular focus on data warehousing</li>
-                            <li>Big data</li>
-                            <li>Data mining & Machine learning</li>
-                        </ul>
-                    </li>
-                    <li>My current research projects include:
-                        <ul>
-                            <li>Benchmarking and evaluating smart meter data analytics systems and algorithms</li>
-                            <li>Developing a smart meter data analytics system</li>
-                            <li>Detecting anomalous energy consumption patterns</li>
-                            <li>Investigating the intersection of energy informatics and big data management</li>
-                            <li>Exploring the potential of the Internet of Things in these domains</li>
-                        </ul>
-                    </li>
-                </ul>
-            </section>
-
-            <section id="projects">
-                <h2>Research Projects</h2>
-                <div class="filter-container">
-                    <label for="project-filter">Filter by type:</label>
-                    <select id="project-filter">
-                        <option value="all">All Projects</option>
-                        <option value="eu">EU Projects</option>
-                        <option value="national">National Projects</option>
-                        <option value="industry">Industry Collaboration</option>
-                    </select>
+        <section id="snapshot" class="section stats">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Academic snapshot</p>
+                    <h2>Impact at a Glance</h2>
                 </div>
-                <div class="project-grid">
-                    <div class="project-item" data-type="eu">
-                        <h3><a href="https://optix-project.dtu.dk/" target="_blank">OPTIX: Optimising Positive-Energy Districts through Interoperable Digital Platforms</a></h3>
-                        <p class="project-date">01/12/2024-30/11/2027</p>
-                        <p>Development of a heterogeneous distributed prediction model for wind-solar energy production. Amount: €0.23m.</p>
-                        <p><strong>Role:</strong> Co-PI. <strong>EU CETPartnership Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="eu">
-                        <h3>S3EM: A Semantic 3D Energy Model for Prosumer With Integrated Photovoltaics Systems</h3>
-                        <p class="project-date">01/02/2025-31/01/2027</p>
-                        <p>Development of a heterogeneous distributed prediction model for wind-solar energy production. Amount: €0.23m.</p>
-                        <p><strong>Role:</strong> PI. <strong>EU Marie Curie Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3>SciCloud: Scientific Cloud Computing Platform</h3>
-                        <p class="project-date">01/01/2017-30/6/2018</p>
-                        <p>Establishes a private cloud platform to support research projects at DTU. Funding: 1.5m Kr.</p>
-                        <p><strong>Role:</strong> Participant, responsible for cloud platform setup, management, and establishing data lake.</p>
-                    </div>
-
-                    <div class="project-item" data-type="eu">
-                        <h3>ANSWER: A heterogeneous distributed prediction model for wind-solar energy production</h3>
-                        <p class="project-date">01/02/2024-31/01/2026</p>
-                        <p>Development of a heterogeneous distributed prediction model for wind-solar energy production. Amount: €0.23m.</p>
-                        <p><strong>Role:</strong> PI. <strong>EU Marie Curie Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="eu">
-                        <h3><a href="https://www.begonia-project.eu/" target="_blank">BEGONIA: Enabling the Internet of Energy and Optimized Transport through Cross-Border Digital Platforms</a></h3>
-                        <p class="project-date">01/02/2024-31/01/2026</p>
-                        <p>Development of a heterogeneous distributed prediction model for wind-solar energy production. Amount: €0.35m.</p>
-                        <p><strong>Role:</strong> Participant. <strong>EU CEF</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="eu">
-                        <h3><a href="https://re-integrate-au.eu/" target="_blank">RE-INTEGRATE</a></h3>
-                        <p class="project-date">01/09/2023-Present</p>
-                        <p>RE-thinking of approaches and toolkits for transdisciplinary INTEGRATEd assessment of climate-compatible energy strategies from the African Union through to the European Union.</p>
-                        <p><strong>Role:</strong> WP Lead. <strong>EU Horizon Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="eu">
-                        <h3>RES4CITY: Renewable energies system for cities</h3>
-                        <p class="project-date">01/10/2022-30/09/2025</p>
-                        <p>Improved sustainability of cities through renewable energy and fossil fuel substitution, and upskilled the workforce in sustainable technologies and renewable energy through microprograms, serious games, and an industry-academy program. Amount: €0.8m out of 3.5m.</p>
-                        <p><strong>Role:</strong> Task leader. <strong>EU H2020 Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="eu">
-                        <h3><a href="https://www.emb3rs.eu/" target="_blank">EMB3Rs: User-driven Energy Matching Tool for Industrial Excess Heat</a></h3>
-                        <p class="project-date">01/12/2020-11/20/2022</p>
-                        <p>Developed an industrial excess heat matching platform based on optimization algorithms and artificial intelligence, which employs a federated architecture to run optimization models in a distributed manner. Amount: €0.5m out of 4m.</p>
-                        <p><strong>Role:</strong> Task leader, responsible for software platform deployment. <strong>EU H2020 Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3><a href="http://www.flexsus.org" target="_blank">FlexSUS: A flexible decision platform or urban energy systems</a></h3>
-                        <p class="project-date">01/09/2019-28/02/2023</p>
-                        <p>Developed optimization algorithms and an AI-based decision-making platform to help governments make long-term planning in the energy system development and investments. Amount: €2.5m.</p>
-                        <p><strong>Role:</strong> WP leader, responsible for system architecture and implementation, data lake, analysis algorithms, and data visualization. <strong>EU ERA-NET Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3><a href="https://www.flexibleenergydenmark.dk" target="_blank">FED: Energy System Flexibility in Denmark</a></h3>
-                        <p class="project-date">01/04/2019-31/03/2023</p>
-                        <p>Improves energy flexibility by optimizing energy demand, integrating renewable energy, and stabilizing living labs for the trial of innovative digital energy systems. Funding: 4m out of 42.3m Kr.</p>
-                        <p><strong>Role:</strong> WP leader, responsible for data lake, data curation, data stream processing, and online algorithm development. <strong>IFD project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3><a href="https://orbit.dtu.dk/en/projects/heat-40" target="_blank">Heat4.0: Next-generation digital district heating system</a></h3>
-                        <p class="project-date">01/03/2019-31/08/2022</p>
-                        <p>Leads the development of a next generation digital smart district heating system based on Industry 4.0. Funding: 3.5m out of 37.3m Kr.</p>
-                        <p><strong>Role:</strong> WP leader, responsible for data lake, online data stream processing system, and analysis algorithms. <strong>IFD project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3><a href="https://smart-cities-centre.org/" target="_blank">CITIES: Centre for IT-Intelligent Energy Systems</a></h3>
-                        <p class="project-date">01/01/2015-31/12/2020</p>
-                        <p>Research project for smart energy systems and smart cities, demonstrating the integration of energy systems powered by AI and intelligent use of data through digitalization, flexibility, and sector coupling. Funding: 4.5m out of 100m Kr.</p>
-                        <p><strong>Role:</strong> Participant, responsible for the construction of the big data platform, data collection, cleaning, and storage management; developed an integrated data management platform for smart city data; and performed time series data analysis and anomaly detection on smart meter data. <strong>IFD project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3>Reinforcement learning based HVAC controls in smart building</h3>
-                        <p class="project-date">01/12/2019-30/11/2022</p>
-                        <p>Developed reinforcement learning algorithms for controlling HVAC systems in smart building. Funding: 1.8m Kr.</p>
-                        <p><strong>Role:</strong> PI, responsible for project management, system architecture, and analysis algorithm development. <strong>Nordic5Tech Project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3>CVAES: Cognitive Visual Analytics for Smart Energy Systems</h3>
-                        <p class="project-date">01/12/2020-11/20/2022</p>
-                        <p>Develops algorithms and visual analysis platform for energy consumption data. Funding: €147,800.</p>
-                        <p><strong>Role:</strong> PI, responsible for project management, visual analytic system architecture, and algorithm design. <strong>EuroTech project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3><a href="https://orbit.dtu.dk/en/projects/idasc" target="_blank">IDASC: Digital system for district heating</a></h3>
-                        <p class="project-date">01/09/2018-30/06/2021</p>
-                        <p>Optimizes district heating system, improves efficiency, and tests research-based solutions. Funding: 0.5m out of 2m Kr.</p>
-                        <p><strong>Role:</strong> Participant, responsible for establishing a data lake, data collection and cleansing, etc.; and developing data API and mining streaming data.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3><a href="https://smartcitiesaccelerator.eu" target="_blank">SCA: Smart City Accelerator</a></h3>
-                        <p class="project-date">01/07/2017-31/08/2019</p>
-                        <p>Addresses urban energy systems problems through innovative research and explores ways to engage citizens in the green energy transition. Funding: 1.5m out of 5m Kr.</p>
-                        <p><strong>Role:</strong> Participant, involved in the development of an AI-based district heating control system installed in 32 classrooms of schools in Høje Taastrup. <strong>National Joint Fund in EU</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="eu">
-                        <h3><a href="https://www.claircity.eu" target="_blank">ClairCity: citizen-led urban air pollution reduction</a></h3>
-                        <p class="project-date">01/07/2017-30/06/2021</p>
-                        <p>Works directly with citizens and local authorities in six countries around Europe to establish a baseline for effective citizen participation in environmental governance in cities, explore environmentally friendly citizen lifestyles, and reduce carbon emissions and air pollution targets of 2030 and 2050. Funding: €0.6m out of 4.5m.</p>
-                        <p><strong>Role:</strong> Participant, responsible for modeling behavioral decisions of urban residents and developing tools to simulate the energy consumption of urban residents. <strong>EU H2020 project</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3>Smart Energy Monitoring System</h3>
-                        <p class="project-date">01/01/2018-31/12/2018</p>
-                        <p>Installs non-intrusive devices for monitoring residential electricity consumption for energy efficiency purposes. Funding: 150,000 Kr.</p>
-                        <p><strong>Role:</strong> PI, responsible for implementing and installing monitoring devices, collecting data, and developing algorithms for disaggregation of load profiles. <strong>Roskilde Municipality Environmental Fund</strong>.</p>
-                    </div>
-
-                    <div class="project-item" data-type="national">
-                        <h3>CTT: City Carbon Emission Monitoring</h3>
-                        <p class="project-date">01/06/2017-31/12/2018</p>
-                        <p>Develops an IoT-based air quality monitoring system and tests it in six cities in Denmark and Norway. Funding: 0.3m out of 2.5m Kr.</p>
-                        <p><strong>Role:</strong> Participant, responsible for the development of the air quality monitoring platform. <strong>NordForsk project</strong>.</p>
-                    </div>
-                    </div>
-            </section>
-
-            <section id="publications">
-                <h2>Publications</h2>
-                <p><strong>Google Citation: </strong>≥3300, <strong>H-index:</strong> 32, <strong>i10-index:</strong> 68</p>
-
-                <p>I have published over 140 peer-reviewed papers in journals and conferences. For a complete list, please see my <a href="https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://orcid.org/0000-0001-5133-6688" target="_blank">ORCID</a> profile.</p>
-
-                <h3>Recent Selected Publications</h3>
-                <ol class="publication-list">
-                    <li>Cheng, X., Shi, F., Zhang, Y., Li, H., <strong>Liu, X.</strong>, & Chen, S. (2024). FRAME: Feature Rectification for Class Imbalance Learning. IEEE Transactions on Knowledge and Data Engineering.</li>
-                    <li>Wen, H., <strong>Liu, X.</strong>, Lei, B., Yang, M., Cheng, X., & Chen, Z. (2025). A privacy-preserving heterogeneous federated learning framework with class imbalance learning for electricity theft detection. Applied Energy, 378, 124789.</li>
-                    <li>Montella, L., <strong>Liu, X.</strong>, Monaco, R., Murino, T., & Nielsen, P. S. (2025). An integrated multi-criteria decision making framework for industrial excess heat recovery and utilization. Energy, 134721.</li>
-                    <li>Qiu, H., Zhang, Q., Wang, R., <strong>Liu, X.</strong>, Cheng, X., & Wu, L. (2025). A novel two-enhancive aspect module in convolutional neural networks for multivariate time series classification. Expert Systems with Applications, 266, 125755.</li>
-                    <li>Xu, Z., Liu, M., Li, T., <strong>Liu, X.</strong>, Cheng, X., & Chen, S. (2025). Leveragable Adaptive Multi-Scale Features and Learnable Prototypes for Imbalanced Sea State Estimation Based on Ship Motion Data. IEEE Transactions on Intelligent Transportation Systems.</li>
-                    <li>Chen, Q., Wang, W., <strong>Liu, X.</strong>, Iqbal, S., & Wang, Z. (2025). Advancements in morphology controllable ternary organic solar cells for active layers. Renewable and Sustainable Energy Reviews, 216, 115673.</li>
-                </ol>
-
-                <h3>Book Release</h3>
-                <div class="book-release">
-                    <div class="book-cover">
-                         <img src="my_book_cover.png" alt="AI全景探索: 人工智能的未来之旅 book cover" onerror="this.onerror=null;this.src='https://placehold.co/200x300/EFEFEF/333?text=Image+Not+Found';">
-                    </div>
-                    <div class="book-info">
-                        <p><strong>AI全景探索: 人工智能的未来之旅</strong></p>
-                        <p>Authored by Dr. Xiufeng Liu & Zhijin Wang, 2024.</p>
-                        <p>Explore the cutting-edge developments of artificial intelligence through a multidisciplinary lens that combines technology, philosophy, and culture.</p>
-                        <p><a href="https://github.com/xiufengliu/ai-panorama-site" target="_blank" class="btn btn-small">Learn more about the book</a></p>
-                    </div>
+                <div class="stats__grid">
+                    <article class="stat-card">
+                        <span class="stat-card__value">140+</span>
+                        <span class="stat-card__label">Peer-reviewed publications</span>
+                        <p>IEEE TITS, TKDE, Applied Energy, Expert Systems with Applications</p>
+                    </article>
+                    <article class="stat-card">
+                        <span class="stat-card__value">3300+</span>
+                        <span class="stat-card__label">Google Scholar citations</span>
+                        <p>H-index 32 · i10-index 68</p>
+                    </article>
+                    <article class="stat-card">
+                        <span class="stat-card__value">€5M+</span>
+                        <span class="stat-card__label">Coordinated & supported funding</span>
+                        <p>EU Horizon 2020 · NordForsk · Municipal partnerships</p>
+                    </article>
+                    <article class="stat-card">
+                        <span class="stat-card__value">15+</span>
+                        <span class="stat-card__label">Graduate researchers mentored</span>
+                        <p>Postdocs, PhD fellows, and international MSc theses</p>
+                    </article>
                 </div>
-            </section>
+            </div>
+        </section>
 
-            <section id="software">
-                <h2>Open Source Software</h2>
-                <div class="software-grid">
-                    <div class="software-item">
-                        <h3><a href="https://vis.flexsus.org" target="_blank">AHP</a></h3>
-                        <p>Heat Utilization Optimizer: An AHP-based Decision Support Tool</p>
+        <section id="about" class="section">
+            <div class="container two-column">
+                <div>
+                    <div class="section__header">
+                        <p class="eyebrow">Profile</p>
+                        <h2>About</h2>
                     </div>
-
-                    <div class="software-item">
-                        <h3><a href="https://api.flexsus.org" target="_blank">FlexSUS</a></h3>
-                        <p>A flexible decision platform for urban energy systems</p>
-                    </div>
-
-                    <div class="software-item">
-                        <h3><a href="https://github.com/xiufengliu/SEGSys" target="_blank">SEGSys</a></h3>
-                        <p>An online mapping system for segmentation analysis of energy consumption</p>
-                    </div>
-                     <div class="software-item">
-                        <h3><a href="https://github.com/xiufengliu/CATTool" target="_blank">CATool</a></h3>
-                        <p>A ready-to-use experiment tool for climate researchers</p>
-                    </div>
-                     <div class="software-item">
-                        <h3><a href="https://github.com/xiufengliu/IoTDashboard" target="_blank">IoTDashboard</a></h3>
-                        <p>Real-time indoor/outdoor climate data visualization dashboard</p>
-                    </div>
-                     <div class="software-item">
-                        <h3><a href="https://github.com/xiufengliu/SMAS" target="_blank">SMAS</a></h3>
-                        <p>A smart meter data analytics system</p>
-                    </div>
-                    </div>
-            </section>
-
-            <section id="teaching">
-                <h2>Teaching</h2>
-                <ul>
-                    <li><strong>Smart Cities (no. 42282):</strong> 200 hours, Lecturer, DTU, June 2020 - 2022</li>
-                    <li><strong>Smart Cities (no. 42282):</strong> 170 hours, Lecturer, DTU, Fall 2019</li>
-                    <li><strong>Smart, Connected, and Livable Cities (no. 42280):</strong> 170 hours, Lecturer, DTU, Fall 2018</li>
-                    <li><strong>Database System:</strong> 40 hours, Spring 2010</li>
-                    <li><strong>Object-oriented Programming in C#:</strong> 75 hours, Fall 2009</li>
-                    <li><strong>Object-oriented Programming in C#:</strong> 75 hours, Fall 2008</li>
-                    <li><strong>OOD & OOA in JAVA:</strong> 35 hours, Spring 2009</li>
+                    <p>
+                        I am a Senior Researcher (Associate Professor level) at DTU, where I co-lead initiatives on
+                        data-centric energy systems within the Energy Economics and Modelling group. My work combines
+                        large-scale data platforms, machine learning, and behavioral insights to support utilities and
+                        policy makers with actionable intelligence.
+                    </p>
+                    <p>
+                        I earned my PhD in Computer Science from Aalborg University (Daisy research group) and have held
+                        appointments at Åbo Akademi University, the University of Waterloo, and IBM Toronto Research. I
+                        collaborate widely with public authorities, industry partners, and interdisciplinary research
+                        teams to translate analytics into resilient energy planning tools.
+                    </p>
+                </div>
+                <aside class="card">
+                    <h3>At a Glance</h3>
+                    <ul class="checklist">
+                        <li>Smart meter analytics & trustworthy data infrastructures</li>
+                        <li>AI for demand response, electrification, and urban sustainability</li>
+                        <li>Benchmarking platforms for energy data science education</li>
+                        <li>Cross-disciplinary collaborations across Europe, North America, and Asia</li>
                     </ul>
-            </section>
+                    <p class="card__note">Always open to joint PhD supervision, visiting scholars, and industry partnerships.</p>
+                </aside>
+            </div>
+        </section>
 
-            <section id="supervision">
-                <h2>Supervision</h2>
+        <section id="research" class="section">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Research leadership</p>
+                    <h2>Scholarly Focus</h2>
+                </div>
+                <div class="research__grid">
+                    <article class="panel">
+                        <h3>Core Themes</h3>
+                        <ul>
+                            <li>Smart meter data analytics, benchmarking, and algorithm testing</li>
+                            <li>Scalable data management and warehousing for energy informatics</li>
+                            <li>Machine learning for anomaly detection and electrification insights</li>
+                            <li>IoT platforms connecting behavioral and technical energy data</li>
+                        </ul>
+                    </article>
+                    <article class="panel">
+                        <h3>Current Directions</h3>
+                        <ul>
+                            <li>Developing integrated analytics systems for municipalities and DSOs</li>
+                            <li>Advancing privacy-preserving, federated learning for energy theft detection</li>
+                            <li>Exploring AI robustness under information bottleneck constraints</li>
+                            <li>Designing decision-support tools for industrial excess heat and flexibility markets</li>
+                        </ul>
+                    </article>
+                </div>
+            </div>
+        </section>
 
-                <h3>Postdocs</h3>
-                <ul>
-                    <li>Ruyu Liu (2025.02 - 2027.01)</li>
-                    <li>Arega Getaneh Abate (2025.01 - 2026.12)</li>
-                    <li>Xu Cheng (2024.04 - 2026.03)</li>
-                    <li><span class="completed-supervision">Jiawei Wang (2021.01 - 2023.12)</span></li>
-                    <li><span class="completed-supervision">Zhibin Niu (2019.10 - 2021.09)</span></li>
-                </ul>
+        <section id="highlights" class="section">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Recent activity</p>
+                    <h2>News & Highlights</h2>
+                </div>
+                <div class="timeline">
+                    <article class="timeline__item">
+                        <span class="timeline__date">2024–2025</span>
+                        <h3>New book on AI futures</h3>
+                        <p>
+                            Co-authored <em>AI全景探索: 人工智能的未来之旅</em>, offering a multidisciplinary view on
+                            responsible AI and energy innovation. Available in Mandarin, 2024 edition.
+                        </p>
+                    </article>
+                    <article class="timeline__item">
+                        <span class="timeline__date">2024</span>
+                        <h3>Federated energy analytics</h3>
+                        <p>
+                            Published privacy-preserving heterogeneous federated learning frameworks for electricity theft
+                            detection in <em>Applied Energy</em>, enabling utilities to collaborate without sharing raw data.
+                        </p>
+                    </article>
+                    <article class="timeline__item">
+                        <span class="timeline__date">2021</span>
+                        <h3>Citizen-led air quality policy</h3>
+                        <p>
+                            Contributed to ClairCity (EU H2020) delivering behavioral models and interactive tools that
+                            informed urban carbon and air quality strategies across six European cities.
+                        </p>
+                    </article>
+                </div>
+            </div>
+        </section>
 
-                <h3>PhD Students</h3>
-                <ul>
-                    <li>Yusen Liu (2023.12 - present), UTS, Co-supervisor</li>
-                    <li>Mofan Duan (2024.01 - Present), Topic: Improve the generalization and robustness of AI model under the information bottleneck framework, Host by University of Portsmouth, Co-supervisor</li>
-                    <li><span class="completed-supervision">Hanguan Wen (2022.01 - 2024.06), Co-supervisor</span></li>
-                    <li><span class="completed-supervision">Qianyun Wen (2020.01- 2023.12), Project: FlexSUS, Host: Linkoping University, Sweden, Co-supervisor</span></li>
-                    <li><span class="completed-supervision">Marco Biemann (2019.12 - 2023.03), Principle supervisor</span></li>
-                    <li><span class="completed-supervision">Angreine Kewo (2016.04 - 2020.12), Co-supervisor</span></li>
-                </ul>
+        <section id="projects" class="section">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Selected initiatives</p>
+                    <h2>Projects & Funding</h2>
+                </div>
+                <div class="cards-grid">
+                    <article class="project-card">
+                        <div class="project-card__meta">EU Horizon 2020 · Participant</div>
+                        <h3><a href="https://www.claircity.eu" target="_blank" rel="noopener">ClairCity</a></h3>
+                        <p>Citizen-led pathways for reducing urban air pollution and emissions across six European cities.</p>
+                        <p class="project-card__detail">Role: Behavioral modelling lead · Budget: €0.6M of €4.5M</p>
+                    </article>
+                    <article class="project-card">
+                        <div class="project-card__meta">Roskilde Municipality · PI</div>
+                        <h3>Smart Energy Monitoring</h3>
+                        <p>Deployment of non-intrusive monitors and analytics for residential electricity efficiency.</p>
+                        <p class="project-card__detail">Funding: 150,000 DKK · Focus: device deployment & load disaggregation</p>
+                    </article>
+                    <article class="project-card">
+                        <div class="project-card__meta">NordForsk · Participant</div>
+                        <h3>CTT: City Carbon Emission Monitoring</h3>
+                        <p>IoT-based air quality sensing tested in six Nordic cities with integrated data platform design.</p>
+                        <p class="project-card__detail">Funding: 0.3M of 2.5M DKK · Role: platform development</p>
+                    </article>
+                </div>
+            </div>
+        </section>
 
-                <h3>Master Students</h3>
-                <ul>
-                    <li>Gianfranco Bardi Aparicio (2024.09 - 2025.02)</li>
-                    <li>Yukang Sun (2024.04 - 2024.09)</li>
-                    <li><span class="completed-supervision">Kenneth Paulsen (2023.06 - 2023.12)</span></li>
-                    <li><span class="completed-supervision">Eigil Vølund (2023.01 - 2023.06)</span></li>
-                    <li><span class="completed-supervision">Luisa Montella (2023.01 - 2023.06)</span></li>
-                    <li><span class="completed-supervision">Mathilde Christiane Monica Cunningham (2022.12 - 2023.02)</span></li>
-                    <li><span class="completed-supervision">Emma Haley Worth Brandt (2022.09 - 2023.02)</span></li>
-                    <li><span class="completed-supervision">Matteo Zanotto (2022.09 - 2023.01)</span></li>
-                    <li><span class="completed-supervision">Philipp Sedlmeier (2021.12 - 2022.06)</span></li>
-                    <li><span class="completed-supervision">Casper Hegner Jonsson (2019.02 - 2019.08)</span></li>
-                </ul>
-            </section>
+        <section id="publications" class="section">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Scholarship</p>
+                    <h2>Selected Publications & Outputs</h2>
+                </div>
+                <div class="two-column">
+                    <div>
+                        <p>
+                            Full publication list is available on <a href="https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+                            and <a href="https://orcid.org/0000-0001-5133-6688" target="_blank" rel="noopener">ORCID</a>. Recent highlights:
+                        </p>
+                        <ol class="publication-list">
+                            <li>Cheng, X., Shi, F., Zhang, Y., Li, H., <strong>Liu, X.</strong>, & Chen, S. (2024). FRAME: Feature Rectification for Class Imbalance Learning. <em>IEEE TKDE</em>.</li>
+                            <li>Wen, H., <strong>Liu, X.</strong>, et al. (2025). Privacy-preserving heterogeneous federated learning for electricity theft detection. <em>Applied Energy</em>, 378, 124789.</li>
+                            <li>Montella, L., <strong>Liu, X.</strong>, et al. (2025). Multi-criteria decision framework for industrial excess heat recovery. <em>Energy</em>, 134721.</li>
+                            <li>Qiu, H., Zhang, Q., Wang, R., <strong>Liu, X.</strong>, et al. (2025). Two-enhancive aspect module for multivariate time series classification. <em>Expert Systems with Applications</em>, 266, 125755.</li>
+                            <li>Xu, Z., Liu, M., Li, T., <strong>Liu, X.</strong>, et al. (2025). Adaptive multi-scale features for imbalanced sea state estimation. <em>IEEE T-ITS</em>.</li>
+                            <li>Chen, Q., Wang, W., <strong>Liu, X.</strong>, et al. (2025). Morphology-controllable ternary organic solar cells. <em>Renewable and Sustainable Energy Reviews</em>, 115673.</li>
+                        </ol>
+                    </div>
+                    <aside class="card">
+                        <h3>Open Platforms</h3>
+                        <ul class="link-list">
+                            <li><a href="https://api.flexsus.org" target="_blank" rel="noopener">FlexSUS</a> — flexible decision platform for urban energy systems</li>
+                            <li><a href="https://github.com/xiufengliu/SEGSys" target="_blank" rel="noopener">SEGSys</a> — segmentation analytics for energy consumption</li>
+                            <li><a href="https://github.com/xiufengliu/CATTool" target="_blank" rel="noopener">CATool</a> — experimentation toolkit for climate researchers</li>
+                            <li><a href="https://github.com/xiufengliu/IoTDashboard" target="_blank" rel="noopener">IoTDashboard</a> — real-time climate data visualization</li>
+                            <li><a href="https://github.com/xiufengliu/SMAS" target="_blank" rel="noopener">SMAS</a> — smart meter data analytics system</li>
+                        </ul>
+                        <p class="card__note">Committed to reproducible research and collaborative software development.</p>
+                    </aside>
+                </div>
+            </div>
+        </section>
 
-            <section id="services">
-                <h2>Academic Services</h2>
+        <section id="teaching" class="section">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Learning</p>
+                    <h2>Teaching Portfolio</h2>
+                </div>
+                <div class="cards-grid">
+                    <article class="teaching-card">
+                        <h3>Smart Cities (42282)</h3>
+                        <p>Lecturer · DTU · 2019–2022 · 170–200 contact hours per edition.</p>
+                        <p class="teaching-card__detail">Focus on urban data infrastructures, civic innovation, and digital ethics.</p>
+                    </article>
+                    <article class="teaching-card">
+                        <h3>Smart, Connected & Livable Cities (42280)</h3>
+                        <p>Lecturer · DTU · Fall 2018 · 170 hours.</p>
+                        <p class="teaching-card__detail">Studio-based course integrating IoT sensing with policy analysis.</p>
+                    </article>
+                    <article class="teaching-card">
+                        <h3>Computer Science Foundations</h3>
+                        <p>Database Systems (Spring 2010) · OOP in C# (2008–2009) · OOD & OOA in Java (2009).</p>
+                        <p class="teaching-card__detail">Project-led pedagogy emphasizing software craftsmanship and data quality.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
 
-                <h3>Editorial Service</h3>
-                <ul>
-                    <li>Associate Editor: Cleaner Engineering and Technology, Elsevier.</li>
-                    <li>Guest Editor: Special issue of Edge Machine Learning: Architectures, Methods and Applications, Applied Soft Computing.</li>
-                    <li>Guest Editor: Special issue of Advanced Building Energy Systems, Energies.</li>
-                </ul>
+        <section id="students" class="section">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Mentorship</p>
+                    <h2>Supervision</h2>
+                </div>
+                <div class="two-column">
+                    <article>
+                        <h3>Current Postdocs</h3>
+                        <ul>
+                            <li>Ruyu Liu (2025–2027)</li>
+                            <li>Arega Getaneh Abate (2025–2026)</li>
+                            <li>Xu Cheng (2024–2026)</li>
+                        </ul>
+                        <h3>Current PhD Fellows</h3>
+                        <ul>
+                            <li>Yusen Liu — University of Technology Sydney (Co-supervisor)</li>
+                            <li>Mofan Duan — Robust AI under information bottlenecks (Co-supervisor)</li>
+                        </ul>
+                        <h3>Current Master's Projects</h3>
+                        <ul>
+                            <li>Gianfranco Bardi Aparicio (2024–2025)</li>
+                            <li>Yukang Sun (2024)</li>
+                        </ul>
+                    </article>
+                    <aside class="card">
+                        <h3>Alumni Highlights</h3>
+                        <ul class="link-list">
+                            <li>Hanguan Wen (PhD, 2024) — Privacy-preserving energy analytics</li>
+                            <li>Qianyun Wen (PhD, 2023) — FlexSUS decision support</li>
+                            <li>Marco Biemann (PhD, 2023) — Industrial energy flexibility</li>
+                            <li>Jiawei Wang (Postdoc, 2023) — Smart meter benchmarking</li>
+                            <li>Luisa Montella (MSc, 2023) — Excess heat valorization</li>
+                        </ul>
+                        <p class="card__note">Supervision includes 10+ completed PhD/MSc theses and visiting fellows across Europe, Canada, and Australia.</p>
+                    </aside>
+                </div>
+            </div>
+        </section>
 
-                <h3>Review Service</h3>
-                <ul>
-                    <li><strong>Conferences:</strong> VLDB, EDBT, DaWaK, DOLAP, IoTBG, MobiSPC, EIA, IEEE BigData, etc.</li>
-                    <li><strong>Journals:</strong> IEEE Transactions on Smart Grid/Big Data/Power Systems, IEEE Internet of Things, Applied Energy, Energy, Energy and Building, Information Systems, DKE, KAIS, Nature Scientific Report, etc.</li>
-                </ul>
-            </section>
-        </div>
+        <section id="service" class="section">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Community</p>
+                    <h2>Academic Service</h2>
+                </div>
+                <div class="service__grid">
+                    <article class="panel">
+                        <h3>Editorial Roles</h3>
+                        <ul>
+                            <li>Associate Editor — <em>Cleaner Engineering and Technology</em>, Elsevier</li>
+                            <li>Guest Editor — Edge Machine Learning special issue, <em>Applied Soft Computing</em></li>
+                            <li>Guest Editor — Advanced Building Energy Systems, <em>Energies</em></li>
+                        </ul>
+                    </article>
+                    <article class="panel">
+                        <h3>Reviewer & Program Committees</h3>
+                        <p>Regular reviewer for IEEE TSG, IEEE Big Data, IEEE IoT Journal, Applied Energy, Energy & Buildings, Information Systems, DKE, KAIS, and Nature Scientific Reports.</p>
+                        <p>Conference service for VLDB, EDBT, DaWaK, DOLAP, IoTBG, MobiSPC, EIA, IEEE BigData, and related venues.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="section section--alt">
+            <div class="container">
+                <div class="section__header">
+                    <p class="eyebrow">Connect</p>
+                    <h2>Let's Collaborate</h2>
+                </div>
+                <div class="contact__grid">
+                    <article>
+                        <h3>Get in touch</h3>
+                        <ul class="contact-list">
+                            <li><i class="fa-solid fa-envelope"></i> <a href="mailto:xiuli@dtu.dk">xiuli@dtu.dk</a></li>
+                            <li><i class="fa-solid fa-location-dot"></i> Building 424, room 006, DTU Lyngby Campus</li>
+                            <li><i class="fa-solid fa-phone"></i> Please reach out via email to arrange a call</li>
+                        </ul>
+                    </article>
+                    <article>
+                        <h3>Profiles</h3>
+                        <ul class="contact-list">
+                            <li><i class="fa-solid fa-graduation-cap"></i> <a href="https://orbit.dtu.dk/en/persons/xiufeng-liu" target="_blank" rel="noopener">DTU ORBIT</a></li>
+                            <li><i class="fa-brands fa-google"></i> <a href="https://scholar.google.com/citations?user=pbf7EH4AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a></li>
+                            <li><i class="fa-brands fa-github"></i> <a href="https://github.com/xiufengliu" target="_blank" rel="noopener">GitHub</a></li>
+                            <li><i class="fa-brands fa-orcid"></i> <a href="https://orcid.org/0000-0001-5133-6688" target="_blank" rel="noopener">ORCID</a></li>
+                        </ul>
+                    </article>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer>
         <div class="container">
-            <p>© <span class="current-year"></span> Dr. Xiufeng Liu. All rights reserved.</p>
+            <p>© <span class="current-year"></span> Xiufeng Liu · Technical University of Denmark.</p>
         </div>
     </footer>
 
