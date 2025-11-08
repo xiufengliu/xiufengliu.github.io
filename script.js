@@ -1,32 +1,40 @@
+// Smooth scrolling for navigation links
 function smoothScroll() {
-    const links = document.querySelectorAll('.site-nav a[href^="#"]');
-    const navHeight = document.querySelector('.site-nav')?.offsetHeight || 0;
+    const links = document.querySelectorAll('.nav-menu a[href^="#"]');
+    const header = document.querySelector('.header');
+    const headerHeight = header ? header.offsetHeight : 0;
 
     links.forEach(link => {
         link.addEventListener('click', event => {
             event.preventDefault();
             const targetId = link.getAttribute('href');
             const target = document.querySelector(targetId);
+            
             if (!target) return;
 
-            const top = target.getBoundingClientRect().top + window.pageYOffset - navHeight;
+            const top = target.getBoundingClientRect().top + window.pageYOffset - headerHeight;
             window.scrollTo({ top, behavior: 'smooth' });
             history.pushState(null, '', targetId);
         });
     });
 }
 
+// Highlight active section in navigation
 function highlightSection() {
     const sections = document.querySelectorAll('section[id]');
-    const navLinks = document.querySelectorAll('.site-nav a[href^="#"]');
-    const navHeight = document.querySelector('.site-nav')?.offsetHeight || 0;
+    const navLinks = document.querySelectorAll('.nav-menu a[href^="#"]');
+    const header = document.querySelector('.header');
+    const headerHeight = header ? header.offsetHeight : 0;
 
     const update = () => {
-        const scrollPos = window.scrollY + navHeight + 10;
+        const scrollPos = window.scrollY + headerHeight + 100;
         let current = null;
 
         sections.forEach(section => {
-            if (scrollPos >= section.offsetTop && scrollPos < section.offsetTop + section.offsetHeight) {
+            const top = section.offsetTop;
+            const bottom = top + section.offsetHeight;
+            
+            if (scrollPos >= top && scrollPos < bottom) {
                 current = section.getAttribute('id');
             }
         });
@@ -40,11 +48,15 @@ function highlightSection() {
     update();
 }
 
+// Set current year in footer
 function setYear() {
-    const span = document.querySelector('.current-year');
-    if (span) span.textContent = new Date().getFullYear();
+    const yearSpan = document.querySelector('.current-year');
+    if (yearSpan) {
+        yearSpan.textContent = new Date().getFullYear();
+    }
 }
 
+// Initialize all functions when DOM is loaded
 window.addEventListener('DOMContentLoaded', () => {
     smoothScroll();
     highlightSection();
