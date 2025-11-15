@@ -58,7 +58,12 @@ a:hover {
   padding: 0 24px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: 'IBM Plex Serif', Georgia, serif;
   color: var(--text-primary);
   font-weight: 600;
@@ -98,7 +103,8 @@ p {
   font-weight: 400;
 }
 
-ul, ol {
+ul,
+ol {
   margin-left: 1.5rem;
   color: var(--text-secondary);
 }
@@ -752,8 +758,8 @@ ul, ol {
   }
 
   .image-wrapper {
-    width: 90px;
-    height: 110px;
+    width: 95px;
+    height: 120px;
     margin: 0 auto;
   }
 
